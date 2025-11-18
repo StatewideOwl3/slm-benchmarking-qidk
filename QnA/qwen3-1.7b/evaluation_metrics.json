@@ -1,0 +1,512 @@
+{
+  "overall": {
+    "exact_match": 0.26,
+    "f1": 0.45734008883172833,
+    "question_count": 50
+  },
+  "per_question": [
+    {
+      "id": 0,
+      "question": "What group's burial practices over-lapped with the Roman's?",
+      "model_answer": "Christian and non-Christians",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 1,
+      "question": "what were the hydrogen lifted airships called?",
+      "model_answer": "Zeppelins",
+      "gold_answers": [
+        "Zeppelins"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 2,
+      "question": "How many people were killed as a result?",
+      "model_answer": "69,197",
+      "gold_answers": [
+        "69,197"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 3,
+      "question": "How long does sensory memory take to store information?",
+      "model_answer": "Sensory memory holds sensory information less than one second after an item is perceived.",
+      "gold_answers": [
+        "less than one second"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445
+    },
+    {
+      "id": 4,
+      "question": "Through 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?",
+      "model_answer": "Through July 1, 2013, the MacBook Air took in 56 percent of all Ultrabook sales in the United States.",
+      "gold_answers": [
+        "56"
+      ],
+      "exact_match": 0,
+      "f1": 0.1
+    },
+    {
+      "id": 5,
+      "question": "What South African city participated in the first public video-conference?",
+      "model_answer": "Cape Town",
+      "gold_answers": [
+        "Cape Town"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 6,
+      "question": "Lebanese people of what religion sometimes consider Lebanese to be a distinct language?",
+      "model_answer": "Christian",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 7,
+      "question": "What movie won the 1930 Academy Award for Best Picture?",
+      "model_answer": "All Quiet on the Western Front (1930), won its year's Best Picture Oscar.",
+      "gold_answers": [
+        "All Quiet on the Western Front"
+      ],
+      "exact_match": 0,
+      "f1": 0.6
+    },
+    {
+      "id": 8,
+      "question": "What are the only Spielberg films since Sugarland Express to not have music by John Williams?",
+      "model_answer": "Bridge of Spies, The Color Purple, and Twilight Zone: The Movie",
+      "gold_answers": [
+        "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 9,
+      "question": "Which member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?",
+      "model_answer": "Peter Pilz",
+      "gold_answers": [
+        "Peter Pilz"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 10,
+      "question": "What did English players do after the ban?",
+      "model_answer": "Several top English players had moved abroad.",
+      "gold_answers": [
+        "moved abroad"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445
+    },
+    {
+      "id": 11,
+      "question": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?",
+      "model_answer": "and to cite only what is supported by the context. So the answer is",
+      "gold_answers": [
+        "tenets of Baptist churches"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 12,
+      "question": "What percentage of the New York City population is Japanese?",
+      "model_answer": "\"Japanese 0.3%.\"",
+      "gold_answers": [
+        "0.3%"
+      ],
+      "exact_match": 0,
+      "f1": 0.8
+    },
+    {
+      "id": 13,
+      "question": "When did the English army start to retreat and evacuate NYC during the Battle of Long Island?",
+      "model_answer": "The English army started to retreat and evacuate NYC during the Battle of Long Island at the close of the war in 1783.",
+      "gold_answers": [
+        "1783"
+      ],
+      "exact_match": 0,
+      "f1": 0.08333333333333333
+    },
+    {
+      "id": 14,
+      "question": "Aside from human beings, what creature's needs were traditionally seen to at inns?",
+      "model_answer": "the context states that inns traditionally provided stabling and fodder for the traveller's horse(s) and fresh horses for the mail coach. Thus, the answer is horses.",
+      "gold_answers": [
+        "horses"
+      ],
+      "exact_match": 0,
+      "f1": 0.0689655172413793
+    },
+    {
+      "id": 15,
+      "question": "How many fans were in attendance during Everton's match against Liverpool on September 18, 1948?",
+      "model_answer": "The record attendance for an Everton home match is 78,299... 78,299",
+      "gold_answers": [
+        "78,299"
+      ],
+      "exact_match": 0,
+      "f1": 0.2666666666666667
+    },
+    {
+      "id": 16,
+      "question": "What organization did General Ashcroft assign to lead organization in terrorism investigations?",
+      "model_answer": "the FBI",
+      "gold_answers": [
+        "FBI"
+      ],
+      "exact_match": 0,
+      "f1": 0.6666666666666666
+    },
+    {
+      "id": 17,
+      "question": "What did Uesugi encourage?",
+      "model_answer": "the \"way of the warrior as death\"",
+      "gold_answers": [
+        "the \"way of the warrior as death\""
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 18,
+      "question": "What type of climate is San Diego classified as having?",
+      "model_answer": ".\n\nContext:\nSan Diego is one of the top-ten best climates in the Farmers' Almanac and is one of the two best summer climates in America as scored by The Weather Channel. Under the Köppen–Geiger climate classification system, the San Diego area has been variously categorized as having either a semi-arid climate (BSh in the original classification and BSkn in modified Köppen classification) or a Mediterranean climate (Csa and Csb). San Diego's climate is characterized by warm, dry summers and mild winters with most of the annual precipitation falling between December and March. The city has a mild climate year-round, with an average of 201 days above 70 °F (21 °C) and low rainfall (9–13 inches [230–330 mm] annually). Dewpoints in the summer months range from 57.0 °F (13.9 °C) to 62.4 °F (16.9 °C).\n\nQuestion:\nWhat type of climate is San Diego classified as having?\n\nassistant\n<think>\nOkay, let's see. The user is asking about the climate classification of San Diego. The context mentions that under the Köppen–Geiger system, San Diego is categorized as either a semi-arid climate (BSh in original, BSkn in modified) or a Mediterranean climate (Csa and Csb). So the answer should specify both possibilities. But the question is asking for the type, so maybe the answer is both? Wait, the question is phrased as \"What type of climate is San Diego classified as having?\" So the answer would include both possibilities. But the user wants the precise span. Let me check the context again. The context says \"variously categorized as having either a semi-arid climate (BSh in the original classification and BSkn in modified Köppen classification) or a Mediterranean climate (Csa and Csb).\" So the answer should be both, but the user might want the exact span. The answer would be the part that mentions both classifications. So the answer is \"San Diego's climate is classified as either a semi-arid climate (BSh in the original classification and BSkn in modified Köppen classification) or a Mediterranean climate (Csa and Csb).\" But the user wants the",
+      "gold_answers": [
+        "semi-arid climate"
+      ],
+      "exact_match": 0,
+      "f1": 0.01652892561983471
+    },
+    {
+      "id": 19,
+      "question": "How many pigs died in Sichuan?",
+      "model_answer": "The context states that a million pigs died in Sichuan.",
+      "gold_answers": [
+        "1 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669
+    },
+    {
+      "id": 20,
+      "question": "Which Minister could a conscripted soldier expect to serve under during his year of service?",
+      "model_answer": "under the Minister of the Guards in the capital",
+      "gold_answers": [
+        "Minister of the Guards"
+      ],
+      "exact_match": 0,
+      "f1": 0.6153846153846153
+    },
+    {
+      "id": 21,
+      "question": "Orozco's army was called by what name?",
+      "model_answer": "Orozquistas—also called the Colorados (\"Red Flaggers\")",
+      "gold_answers": [
+        "Orozquistas"
+      ],
+      "exact_match": 0,
+      "f1": 0.25
+    },
+    {
+      "id": 22,
+      "question": "Where were the 1952 Olympics held?",
+      "model_answer": "the 1952 Summer Olympics in Helsinki",
+      "gold_answers": [
+        "Helsinki"
+      ],
+      "exact_match": 0,
+      "f1": 0.2857142857142857
+    },
+    {
+      "id": 23,
+      "question": "Which studio produced 'Super 8'?",
+      "model_answer": "Paramount Pictures",
+      "gold_answers": [
+        "Paramount Pictures"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 24,
+      "question": "Who is an example of someone that states that affirmative action is another form of discrimination?",
+      "model_answer": ".\n\nContext:\nSome commentators have defined reverse discrimination as a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority.[non-primary source needed] Many argue that reverse discrimination results from affirmative action policies and that these policies are just another form of discrimination no different from examples in the past. People like Ward Connerly assert that affirmative action requires the very discrimination it is seeking to eliminate. According to these opponents, this contradiction might make affirmative action counter-productive. One argument for reverse discrimination is the idea that affirmative action encourages mediocrity and incompetence. Job positions would not be offered to the applicants who are the most qualified, but to applicants with a special trait such as a certain race, ethnicity, or gender. For example, opponents say affirmative action causes unprepared applicants to be accepted in highly demanding educational institutions or jobs which result in eventual failure (see, for example, Richard Sander's study of affirmative action in Law School, bar exam and eventual performance at law firms). Other opponents say that affirmative action lowers the bar and so denies those who strive for excellence on their own merit and the sense of real achievement. Opponents of affirmative action suggest that merit should be the primary factor considered in applying for job positions, college, graduate school, etc.\n\nQuestion:\nWho is an example of someone that states that affirmative action is another form of discrimination?\n\nassistant\n<think>\nOkay, let's see. The question is asking for an example of someone who states that affirmative action is another form of discrimination. The context mentions that some commentators define reverse discrimination as a policy where majority members are discriminated against in favor of a disadvantaged group. Then it says many argue that reverse discrimination results from affirmative action policies and that these policies are just another form of discrimination no different from examples in the past.\n\nSo the person mentioned here is \"many argue\" and they say that affirmative action policies are another form of discrimination. The example given is \"these policies are just another form of discrimination no different from examples in the past.\" The name isn't explicitly given, but the question is asking for an example of someone who makes that claim. The context doesn't name a specific person, but the phrase \"many argue\" suggests that the example is part of the general argument. However, the question asks for \"who is an example,\" so maybe the answer is the group of commentators mentioned. But the context doesn't name a specific individual. Wait, the question says \"who is an example,\" so maybe the answer is the group of commentators, but the context doesn't name a specific person. Alternatively, maybe the answer is the person \"many argue\" which is",
+      "gold_answers": [
+        "Ward Connerly"
+      ],
+      "exact_match": 0,
+      "f1": 0.008456659619450317
+    },
+    {
+      "id": 25,
+      "question": "Who developed EMALS?",
+      "model_answer": "General Atomics, the developer of the EMALS, was cleared by the US government to give a technical demonstration to Indian Navy officers, who were impressed by the new capabilities of the system.",
+      "gold_answers": [
+        "General Atomics"
+      ],
+      "exact_match": 0,
+      "f1": 0.11764705882352941
+    },
+    {
+      "id": 26,
+      "question": "What are two reasons for which Galicia's rural areas have been largely abandoned?",
+      "model_answer": "The two reasons for the abandonment of Galicia's rural areas are economic development and mechanization of agriculture, leading to the decline of rural livelihoods, and the migration of population to find jobs in main cities.",
+      "gold_answers": [
+        "Economic development and mechanization of agriculture"
+      ],
+      "exact_match": 0,
+      "f1": 0.2857142857142857
+    },
+    {
+      "id": 27,
+      "question": "What do the hole walls in two-layer PCBs have to be before they can be electroplated?",
+      "model_answer": "conductive",
+      "gold_answers": [
+        "conductive"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 28,
+      "question": "What is Amphetamine's market name?",
+      "model_answer": "The context does not mention Amphetamine or its market name.",
+      "gold_answers": [
+        "Institute of Experimental Therapy"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 29,
+      "question": "When did Beyonce first make the Time 100 List?",
+      "model_answer": "In 2013, Beyoncé made the Time 100 list.",
+      "gold_answers": [
+        "2013"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222
+    },
+    {
+      "id": 30,
+      "question": "Who proposed an evolutionary concept of the gene as a unit of natural selection?",
+      "model_answer": "George C. Williams",
+      "gold_answers": [
+        "George C. Williams"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 31,
+      "question": "How many Baptists registered for the meeting in Atlanta?",
+      "model_answer": "More than 20,000 Southern Baptists registered for the meeting in Atlanta.",
+      "gold_answers": [
+        "More than 20,000"
+      ],
+      "exact_match": 0,
+      "f1": 0.5
+    },
+    {
+      "id": 32,
+      "question": "Which former CBS News correspondent graduated from BYU?",
+      "model_answer": "Art Rascon",
+      "gold_answers": [
+        "Art Rascon"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 33,
+      "question": "As an inhaler, what was epinephrine used to treat?",
+      "model_answer": ".\n\nContext:\nBy the 1890s the profound effect of adrenal extracts on many different tissue types had been discovered, setting off a search both for the mechanism of chemical signalling and efforts to exploit these observations for the development of new drugs. The blood pressure raising and vasoconstrictive effects of adrenal extracts were of particular interest to surgeons as hemostatic agents and as treatment for shock, and a number of companies developed products based on adrenal extracts containing varying purities of the active substance. In 1897 John Abel of Johns Hopkins University identified the active principle as epinephrine, which he isolated in an impure state as the sulfate salt. Industrial chemist Jokichi Takamine later developed a method for obtaining epinephrine in a pure state, and licensed the technology to Parke Davis. Parke Davis marketed epinephrine under the trade name Adrenalin. Injected epinephrine proved to be especially efficacious for the acute treatment of asthma attacks, and an inhaled version was sold in the United States until 2011 (Primatene Mist). By 1929 epinephrine had been formulated into an inhaler for use in the treatment of nasal congestion.\n\nQuestion:\nAs an inhaler, what was epinephrine used to treat?\n\nassistant\n<think>\nOkay, let's see. The question is asking what epinephrine was used to treat as an inhaler. I need to find the answer in the context provided.\n\nLooking at the context, there's a part that says: \"Injected epinephrine proved to be especially efficacious for the acute treatment of asthma attacks, and an inhaled version was sold in the United States until 2011 (Primatene Mist). By 1929 epinephrine had been formulated into an inhaler for use in the treatment of nasal congestion.\"\n\nSo the key part here is \"the acute treatment of asthma attacks\" and then \"nasal congestion.\" The question specifically mentions inhaler use, so the answer should be asthma attacks and nasal congestion. But the question is asking what it was used to treat, so the answer would be both. However, the context mentions both, so I need to check if the answer is precise. The context says \"nasal congestion\" in the last sentence, and \"asthma attacks\" in the previous part. Since the question is about inhalers, the answer would be both. But the user wants the precise span. The context mentions \"nasal congestion\" in the last sentence. So the",
+      "gold_answers": [
+        "nasal congestion"
+      ],
+      "exact_match": 0,
+      "f1": 0.010282776349614397
+    },
+    {
+      "id": 34,
+      "question": "What significantly increased the magnates wealth?",
+      "model_answer": "Magnates often received gifts from monarchs, which significantly increased their wealth.",
+      "gold_answers": [
+        "Magnates"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669
+    },
+    {
+      "id": 35,
+      "question": "Along with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?",
+      "model_answer": ".\n\nContext:\nWestern philosophy regarded emotion in varying ways. In stoic theories it was seen as a hindrance to reason and therefore a hindrance to virtue. Aristotle believed that emotions were an essential component of virtue. In the Aristotelian view all emotions (called passions) corresponded to appetites or capacities. During the Middle Ages, the Aristotelian view was adopted and further developed by scholasticism and Thomas Aquinas in particular. There are also theories of emotions in the works of philosophers such as René Descartes, Niccolò Machiavelli, Baruch Spinoza and David Hume. In the 19th century emotions were considered adaptive and were studied more frequently from an empiricist psychiatric perspective.\n\nQuestion:\nAlong with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?\n\nassistant\n<think>\nOkay, let's tackle this question. The user is asking which notable philosopher, along with Descartes, Machiavelli, and Hume, developed a theory of emotions. The context mentions that in the 19th century, emotions were considered adaptive and studied from an empiricist psychiatric perspective. Wait, the question says \"along with Descartes, Machiavelli, and Hume,\" but the context only mentions Descartes, Machiavelli, Hume, and mentions Thomas Aquinas in the context of Aristotle and scholasticism. \n\nWait, the question is asking for a philosopher besides those three. The context says that in the works of philosophers like Descartes, Machiavelli, Spinoza, Hume, and Thomas Aquinas. But the question is asking for someone along with Descartes, Machiavelli, and Hume. So the answer would be Spinoza, since the context mentions Spinoza as another philosopher who developed a theory of emotions. The user's question is asking for the notable philosopher besides the three mentioned, so Spinoza is the answer here. Let me check the context again. Yes, the context states \"the works of philosophers such as Ren",
+      "gold_answers": [
+        "Baruch Spinoza"
+      ],
+      "exact_match": 0,
+      "f1": 0.013513513513513513
+    },
+    {
+      "id": 36,
+      "question": "In addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?",
+      "model_answer": ".\n\nContext:\nThe city hosts numerous theatres and production houses, including the Yale Repertory Theatre, the Long Wharf Theatre, and the Shubert Theatre. There is also theatre activity from the Yale School of Drama, which works through the Yale University Theatre and the student-run Yale Cabaret. Southern Connecticut State University hosts the Lyman Center for the Performing Arts. The shuttered Palace Theatre (opposite the Shubert Theatre) is being renovated and will reopen as the College Street Music Hall in May, 2015. Smaller theatres include the Little Theater on Lincoln Street. Cooperative Arts and Humanities High School also boasts a state-of-the-art theatre on College Street. The theatre is used for student productions as well as the home to weekly services to a local non-denominational church, the City Church New Haven.\n\nQuestion:\nIn addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?\n\nassistant\n<think>\nOkay, let's tackle this question. The user is asking for two additional major theatre houses in New Haven besides the Yale Repertory Theatre. \n\nFirst, I need to look through the context provided. The context mentions the Yale Repertory Theatre, Long Wharf Theatre, Shubert Theatre, Yale School of Drama's theatres, Lyman Center for Performing Arts, Palace Theatre being renovated, Little Theater on Lincoln Street, and Cooperative Arts and Humanities High School's theatre.\n\nSo, the question is about adding two more than Yale Repertory Theatre. The context lists Long Wharf Theatre and Shubert Theatre as separate entities. Those are definitely major theatre houses. The other ones mentioned are part of the Yale School of Drama, like Yale University Theatre and Yale Cabaret, which might be considered part of Yale, not separate major houses. Then there's the Lyman Center for the Performing Arts, which is a separate facility. The Palace Theatre is being renovated, so maybe that's not a current major house. The Little Theater on Lincoln Street and the Cooperative theatre are smaller ones. \n\nSo the answer should be Long Wharf Theatre and Shubert Theatre. Let me check again. The context says \"the Long Wharf Theatre, the Shub",
+      "gold_answers": [
+        "Long Wharf Theatre, and the Shubert Theatre"
+      ],
+      "exact_match": 0,
+      "f1": 0.038781163434903045
+    },
+    {
+      "id": 37,
+      "question": "What geographical feature separated Universal City Studios from Hollywood?",
+      "model_answer": "Cahuenga Pass",
+      "gold_answers": [
+        "Cahuenga Pass"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 38,
+      "question": "Project Gemini helped recruit experienced people for which upcoming lunar missions?",
+      "model_answer": "the Apollo lunar missions",
+      "gold_answers": [
+        "Apollo"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 39,
+      "question": "How many people live on Norfolk Island?",
+      "model_answer": "It has 1,796 inhabitants living on a total area of about 35 km2 (14 sq mi).",
+      "gold_answers": [
+        "1,796"
+      ],
+      "exact_match": 0,
+      "f1": 0.21052631578947367
+    },
+    {
+      "id": 40,
+      "question": "More people belong to what religion than any other in the Western world?",
+      "model_answer": "Christianity remains the dominant religion in the Western",
+      "gold_answers": [
+        "Christianity"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222
+    },
+    {
+      "id": 41,
+      "question": "What is the National Portrait Gallery known for housing?",
+      "model_answer": "The National Portrait Gallery is known for housing depictions of figures from British history, and its holdings now comprise the world's most extensive collection of portraits.",
+      "gold_answers": [
+        "depictions of figures from British history"
+      ],
+      "exact_match": 0,
+      "f1": 0.3636363636363636
+    },
+    {
+      "id": 42,
+      "question": "Killer Queen reached what number on the Billboard Hot 100?",
+      "model_answer": "number 12 on the Billboard Hot 100",
+      "gold_answers": [
+        "12"
+      ],
+      "exact_match": 0,
+      "f1": 0.25
+    },
+    {
+      "id": 43,
+      "question": "What was the windmill used for?",
+      "model_answer": ".\n\nContext:\nAdvances were made in irrigation and farming, using new technology such as the windmill. Crops such as almonds and citrus fruit were brought to Europe through al-Andalus, and sugar cultivation was gradually adopted by the Europeans. Arab merchants dominated trade in the Indian Ocean until the arrival of the Portuguese in the 16th century. Hormuz was an important center for this trade. There was also a dense network of trade routes in the Mediterranean, along which Muslim countries traded with each other and with European powers such as Venice, Genoa and Catalonia. The Silk Road crossing Central Asia passed through Muslim states between China and Europe.\n\nQuestion:\nWhat was the windmill used for?\n\nassistant\n<think>\nOkay, let's tackle this question. The user is asking what the windmill was used for, based on the provided context.\n\nFirst, I need to find the relevant part of the context. The context mentions \"new technology such as the windmill.\" So the windmill is mentioned in the context as a technology used for advances in irrigation and farming. The question is specifically about the use of the windmill, which is directly stated in the context. The answer should be the span that mentions the windmill's use in irrigation and farming. Let me check the exact sentence: \"Advances were made in irrigation and farming, using new technology such as the windmill.\" So the span would be from \"using new technology such as the windmill\" to the end of the sentence. But the user wants the precise span, so I need to make sure it's correctly cited. The answer should be the exact part of the context that answers the question. Since the question is about the windmill's use, the answer is the part about irrigation and farming. The answer starts with \"using new technology such as the windmill\" and ends before the next sentence. So the span is from \"using new technology such as the windmill\" to the end of the",
+      "gold_answers": [
+        "irrigation and farming"
+      ],
+      "exact_match": 0,
+      "f1": 0.017964071856287425
+    },
+    {
+      "id": 44,
+      "question": "What will cause the amount of homosexuality to vary?",
+      "model_answer": "The amount of homosexuality will vary depending on age, culture, sex, and the component of sexual orientation being assessed.",
+      "gold_answers": [
+        "which component of sexual orientation is being assessed"
+      ],
+      "exact_match": 0,
+      "f1": 0.44444444444444436
+    },
+    {
+      "id": 45,
+      "question": "What automotive brands exist in Portugal?",
+      "model_answer": "Volkswagen Autoeuropa and Peugeot Citroen",
+      "gold_answers": [
+        "Volkswagen Autoeuropa and Peugeot Citroen"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 46,
+      "question": "What is the Chinese Muslim community called?",
+      "model_answer": "The Chinese Muslim community is called gya kachee.",
+      "gold_answers": [
+        "gya kachee"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 47,
+      "question": "How did the army get to the new anchorage location?",
+      "model_answer": "The army proceeded overland to the new anchorage location of St. Cast.",
+      "gold_answers": [
+        "the army proceeded overland."
+      ],
+      "exact_match": 0,
+      "f1": 0.5
+    },
+    {
+      "id": 48,
+      "question": "Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",
+      "model_answer": ". So I need to find the exact part of the context that mentions Connie Francis. The context says, \"the vocalists consisted of artists such as Frank Sinatra, Doris Day, Johnny Mathis, Connie Francis, Nat King Cole, Perry Como, and others.\" \n\nSo Connie Francis is listed here. The question is asking for someone along with the others mentioned, so Connie Francis would be the answer. The answer should be the span from the context that mentions Connie Francis. The context says \"Connie Francis, Nat King Cole, Perry Como, and others.\" So the span would be \"",
+      "gold_answers": [
+        "Connie Francis"
+      ],
+      "exact_match": 0,
+      "f1": 0.04166666666666667
+    },
+    {
+      "id": 49,
+      "question": "Where is the House of the Black Madonna located? ",
+      "model_answer": "The House of the Black Madonna is located in the Old Town of Prague.",
+      "gold_answers": [
+        "Old Town of Prague"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445
+    }
+  ],
+  "model_directory": "qwen3-1.7b",
+  "source_file": "parsed_outputs_Qwen3-1.7B.Q4_K_M.gguf.json",
+  "root": "/home/bonda/Documents/ESW/final-codes/qwen3-1.7b"
+}

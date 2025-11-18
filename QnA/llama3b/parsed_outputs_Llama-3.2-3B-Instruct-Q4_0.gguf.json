@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 0,
+    "question": "What group's burial practices over-lapped with the Roman's?",
+    "gold_answers": [
+      "Christian"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn the later Imperial era, the burial and commemorative practises of Christian and non-Christians overlapped. Tombs were shared by Christian and non-Christian family members, and the traditional funeral rites and feast of novemdialis found a part-match in the Christian Constitutio Apostolica. The customary offers of wine and food to the dead continued; St Augustine (following St Ambrose) feared that this invited the \"drunken\" practices of Parentalia but commended funeral feasts as a Christian opportunity to give alms of food to the poor. Christians attended Parentalia and its accompanying Feralia and Caristia in sufficient numbers for the Council of Tours to forbid them in AD 567. Other funerary and commemorative practices were very different. Traditional Roman practice spurned the corpse as a ritual pollution; inscriptions noted the day of birth and duration of life. The Christian Church fostered the veneration of saintly relics, and inscriptions marked the day of death as a transition to \"new life\".\n\nQuestion:\nWhat group's burial practices over-lapped with the Roman's?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Christian and non-Christian family members.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.93 ms /   364 runs   (    0.00 ms per token, 391397.85 tokens per second)\nllama_perf_context_print:        load time =    5304.35 ms\nllama_perf_context_print: prompt eval time =    4205.69 ms /   352 tokens (   11.95 ms per token,    83.70 tokens per second)\nllama_perf_context_print:        eval time =     480.35 ms /    11 runs   (   43.67 ms per token,    22.90 tokens per second)\nllama_perf_context_print:       total time =    5787.40 ms /   363 tokens\nllama_perf_context_print:    graphs reused =         10",
+    "memory_usage_mb": 3641.33984375,
+    "memory_min_mb": 1.03515625,
+    "memory_max_mb": 3641.33984375,
+    "memory_avg_mb": 3213.4080729166667,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.93,
+      "total_sampling_runs": 364,
+      "time_per_token_ms": 0.002554945054945055,
+      "tokens_per_sec": 391397.84946236556
+    },
+    "load_time_ms": 5304.35,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4205.69,
+      "total_prompt_eval_tokens": 352,
+      "time_per_token_ms": 11.947982954545454,
+      "tokens_per_sec": 83.69613547360838
+    },
+    "eval_time": {
+      "total_eval_time_ms": 480.35,
+      "total_eval_tokens": 11,
+      "time_per_token_ms": 43.66818181818182,
+      "tokens_per_sec": 22.899968772769853
+    },
+    "total_time_ms": 5787.4,
+    "total_tokens": 363,
+    "graphs_reused": 10,
+    "exact_match": 0,
+    "f1": 0.2857142857142857
+  },
+  {
+    "id": 1,
+    "question": "what were the hydrogen lifted airships called?",
+    "gold_answers": [
+      "Zeppelins"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe first hydrogen-filled balloon was invented by Jacques Charles in 1783. Hydrogen provided the lift for the first reliable form of air-travel following the 1852 invention of the first hydrogen-lifted airship by Henri Giffard. German count Ferdinand von Zeppelin promoted the idea of rigid airships lifted by hydrogen that later were called Zeppelins; the first of which had its maiden flight in 1900. Regularly scheduled flights started in 1910 and by the outbreak of World War I in August 1914, they had carried 35,000 passengers without a serious incident. Hydrogen-lifted airships were used as observation platforms and bombers during the war.\n\nQuestion:\nwhat were the hydrogen lifted airships called?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Zeppelins",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.81 ms /   290 runs   (    0.00 ms per token, 358467.24 tokens per second)\nllama_perf_context_print:        load time =    4122.48 ms\nllama_perf_context_print: prompt eval time =    2992.72 ms /   281 tokens (   10.65 ms per token,    93.89 tokens per second)\nllama_perf_context_print:        eval time =     345.21 ms /     8 runs   (   43.15 ms per token,    23.17 tokens per second)\nllama_perf_context_print:       total time =    4469.75 ms /   289 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3634.44921875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3634.44921875,
+    "memory_avg_mb": 3089.8754155585107,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.81,
+      "total_sampling_runs": 290,
+      "time_per_token_ms": 0.002793103448275862,
+      "tokens_per_sec": 358024.69135802466
+    },
+    "load_time_ms": 4122.48,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 2992.72,
+      "total_prompt_eval_tokens": 281,
+      "time_per_token_ms": 10.650249110320283,
+      "tokens_per_sec": 93.89451736213212
+    },
+    "eval_time": {
+      "total_eval_time_ms": 345.21,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 43.15125,
+      "tokens_per_sec": 23.174299701630893
+    },
+    "total_time_ms": 4469.75,
+    "total_tokens": 289,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 2,
+    "question": "How many people were killed as a result?",
+    "gold_answers": [
+      "69,197"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe 2008 Sichuan earthquake or the Great Sichuan earthquake, measured at 8.0 Ms and 7.9 Mw, and occurred at 02:28:01 PM China Standard Time at epicenter (06:28:01 UTC) on May 12 in Sichuan province, killed 69,197 people and left 18,222 missing.\n\nQuestion:\nHow many people were killed as a result?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "69,197",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.75 ms /   227 runs   (    0.00 ms per token, 303070.76 tokens per second)\nllama_perf_context_print:        load time =    3751.70 ms\nllama_perf_context_print: prompt eval time =    2546.96 ms /   218 tokens (   11.68 ms per token,    85.59 tokens per second)\nllama_perf_context_print:        eval time =     345.90 ms /     8 runs   (   43.24 ms per token,    23.13 tokens per second)\nllama_perf_context_print:       total time =    4099.56 ms /   226 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3625.40234375,
+    "memory_min_mb": 1.01953125,
+    "memory_max_mb": 3625.40234375,
+    "memory_avg_mb": 3018.9255995639537,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.75,
+      "total_sampling_runs": 227,
+      "time_per_token_ms": 0.003303964757709251,
+      "tokens_per_sec": 302666.6666666667
+    },
+    "load_time_ms": 3751.7,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 2546.96,
+      "total_prompt_eval_tokens": 218,
+      "time_per_token_ms": 11.683302752293578,
+      "tokens_per_sec": 85.59223544931997
+    },
+    "eval_time": {
+      "total_eval_time_ms": 345.9,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 43.2375,
+      "tokens_per_sec": 23.12807169702226
+    },
+    "total_time_ms": 4099.56,
+    "total_tokens": 226,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 3,
+    "question": "How long does sensory memory take to store information?",
+    "gold_answers": [
+      "less than one second"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nSensory memory holds sensory information less than one second after an item is perceived. The ability to look at an item and remember what it looked like with just a split second of observation, or memorization, is the example of sensory memory. It is out of cognitive control and is an automatic response. With very short presentations, participants often report that they seem to \"see\" more than they can actually report. The first experiments exploring this form of sensory memory were conducted by George Sperling (1963) using the \"partial report paradigm\". Subjects were presented with a grid of 12 letters, arranged into three rows of four. After a brief presentation, subjects were then played either a high, medium or low tone, cuing them which of the rows to report. Based on these partial report experiments,Sperling was able to show that the capacity of sensory memory was approximately 12 items, but that it degraded very quickly (within a few hundred milliseconds). Because this form of memory degrades so quickly, participants would see the display but be unable to report all of the items (12 in the \"whole report\" procedure) before they decayed. This type of memory cannot be prolonged via rehearsal.\n\nQuestion:\nHow long does sensory memory take to store information?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "A few hundred milliseconds.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.82 ms /   393 runs   (    0.00 ms per token, 481617.65 tokens per second)\nllama_perf_context_print:        load time =    5666.24 ms\nllama_perf_context_print: prompt eval time =    4444.58 ms /   383 tokens (   11.60 ms per token,    86.17 tokens per second)\nllama_perf_context_print:        eval time =     398.63 ms /     9 runs   (   44.29 ms per token,    22.58 tokens per second)\nllama_perf_context_print:       total time =    6066.81 ms /   392 tokens\nllama_perf_context_print:    graphs reused =          8",
+    "memory_usage_mb": 3643.66796875,
+    "memory_min_mb": 0.98046875,
+    "memory_max_mb": 3643.66796875,
+    "memory_avg_mb": 3185.1282958984375,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.82,
+      "total_sampling_runs": 393,
+      "time_per_token_ms": 0.0020865139949109413,
+      "tokens_per_sec": 479268.29268292687
+    },
+    "load_time_ms": 5666.24,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4444.58,
+      "total_prompt_eval_tokens": 383,
+      "time_per_token_ms": 11.604647519582246,
+      "tokens_per_sec": 86.17237174266185
+    },
+    "eval_time": {
+      "total_eval_time_ms": 398.63,
+      "total_eval_tokens": 9,
+      "time_per_token_ms": 44.29222222222222,
+      "tokens_per_sec": 22.5773273461606
+    },
+    "total_time_ms": 6066.81,
+    "total_tokens": 392,
+    "graphs_reused": 8,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 4,
+    "question": "Through 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?",
+    "gold_answers": [
+      "56"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nAlthough the PC market declined, Apple still managed to ship 2.8 million MacBooks in Q2 2012 (the majority of which are the MacBook Air) compared to 500,000 total Ultrabooks, although there were dozens of Ultrabooks from various manufacturers on the market while Apple only offered 11-inch and 13-inch models of the MacBook Air. The Air has been the best-selling ultra-portable in certain countries over Windows Ultrabooks, particularly the United States. While several Ultrabooks were able to claim individual distinctions such as being the lightest or thinnest, the Air was regarded by reviewers as the best all-around subnotebook/ultraportable in regard to \"OS X experience, full keyboard, superior trackpad, Thunderbolt connector and the higher-quality, all-aluminum unibody construction\". The Air was among the first to receive Intel's latest CPUs before other PC manufacturers, and OS X has gained market share on Windows in recent years. Through July 1, 2013, the MacBook Air took in 56 percent of all Ultrabook sales in the United States, although being one of the higher-priced competitors, though several Ultrabooks with better features were often more expensive than the MacBook Air. The competitive pricing of MacBooks was particularly effective when rivals charged more for seemingly equivalent Ultrabooks, as this contradicted the established \"elitist aura\" perception that Apple products cost more but were higher quality, which made these most expensive Ultrabooks seem exorbitant no matter how valid their higher prices were.\n\nQuestion:\nThrough 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "56",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.59 ms /   483 runs   (    0.00 ms per token, 811764.71 tokens per second)\nllama_perf_context_print:        load time =    7191.37 ms\nllama_perf_context_print: prompt eval time =    5956.02 ms /   476 tokens (   12.51 ms per token,    79.92 tokens per second)\nllama_perf_context_print:        eval time =     356.70 ms /     6 runs   (   59.45 ms per token,    16.82 tokens per second)\nllama_perf_context_print:       total time =    7549.56 ms /   482 tokens\nllama_perf_context_print:    graphs reused =          5",
+    "memory_usage_mb": 3649.08984375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3649.08984375,
+    "memory_avg_mb": 3301.8033524525317,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.59,
+      "total_sampling_runs": 483,
+      "time_per_token_ms": 0.0012215320910973085,
+      "tokens_per_sec": 818644.0677966102
+    },
+    "load_time_ms": 7191.37,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5956.02,
+      "total_prompt_eval_tokens": 476,
+      "time_per_token_ms": 12.51264705882353,
+      "tokens_per_sec": 79.91914063418189
+    },
+    "eval_time": {
+      "total_eval_time_ms": 356.7,
+      "total_eval_tokens": 6,
+      "time_per_token_ms": 59.449999999999996,
+      "tokens_per_sec": 16.82085786375105
+    },
+    "total_time_ms": 7549.56,
+    "total_tokens": 482,
+    "graphs_reused": 5,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 5,
+    "question": "What South African city participated in the first public video-conference?",
+    "gold_answers": [
+      "Cape Town"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nFinally, in the 1990s, Internet Protocol-based videoconferencing became possible, and more efficient video compression technologies were developed, permitting desktop, or personal computer (PC)-based videoconferencing. In 1992 CU-SeeMe was developed at Cornell by Tim Dorcey et al. In 1995 the first public videoconference between North America and Africa took place, linking a technofair in San Francisco with a techno-rave and cyberdeli in Cape Town. At the Winter Olympics opening ceremony in Nagano, Japan, Seiji Ozawa conducted the Ode to Joy from Beethoven's Ninth Symphony simultaneously across five continents in near-real time.\n\nQuestion:\nWhat South African city participated in the first public video-conference?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "None",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.72 ms /   287 runs   (    0.00 ms per token, 400278.94 tokens per second)\nllama_perf_context_print:        load time =    4652.81 ms\nllama_perf_context_print: prompt eval time =    3524.10 ms /   281 tokens (   12.54 ms per token,    79.74 tokens per second)\nllama_perf_context_print:        eval time =     225.79 ms /     5 runs   (   45.16 ms per token,    22.14 tokens per second)\nllama_perf_context_print:       total time =    4880.68 ms /   286 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3634.12890625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3634.12890625,
+    "memory_avg_mb": 3173.5009957107845,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.72,
+      "total_sampling_runs": 287,
+      "time_per_token_ms": 0.0025087108013937282,
+      "tokens_per_sec": 398611.1111111111
+    },
+    "load_time_ms": 4652.81,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3524.1,
+      "total_prompt_eval_tokens": 281,
+      "time_per_token_ms": 12.541281138790035,
+      "tokens_per_sec": 79.73667035555178
+    },
+    "eval_time": {
+      "total_eval_time_ms": 225.79,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 45.158,
+      "tokens_per_sec": 22.144470525709732
+    },
+    "total_time_ms": 4880.68,
+    "total_tokens": 286,
+    "graphs_reused": 4,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 6,
+    "question": "Lebanese people of what religion sometimes consider Lebanese to be a distinct language?",
+    "gold_answers": [
+      "Christian"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn Lebanon, a part of the Christian population considers \"Lebanese\" to be in some sense a distinct language from Arabic and not merely a dialect. During the civil war Christians often used Lebanese Arabic officially, and sporadically used the Latin script to write Lebanese, thus further distinguishing it from Arabic. All Lebanese laws are written in the standard literary form of Arabic, though parliamentary debate may be conducted in Lebanese Arabic.\n\nQuestion:\nLebanese people of what religion sometimes consider Lebanese to be a distinct language?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Christian",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.41 ms /   236 runs   (    0.01 ms per token, 167613.64 tokens per second)\nllama_perf_context_print:        load time =    4138.12 ms\nllama_perf_context_print: prompt eval time =    2890.65 ms /   230 tokens (   12.57 ms per token,    79.57 tokens per second)\nllama_perf_context_print:        eval time =     271.97 ms /     5 runs   (   54.39 ms per token,    18.38 tokens per second)\nllama_perf_context_print:       total time =    4412.79 ms /   235 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3626.890625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3626.890625,
+    "memory_avg_mb": 3079.0518617021276,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.41,
+      "total_sampling_runs": 236,
+      "time_per_token_ms": 0.00597457627118644,
+      "tokens_per_sec": 167375.8865248227
+    },
+    "load_time_ms": 4138.12,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 2890.65,
+      "total_prompt_eval_tokens": 230,
+      "time_per_token_ms": 12.56804347826087,
+      "tokens_per_sec": 79.56687942158338
+    },
+    "eval_time": {
+      "total_eval_time_ms": 271.97,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 54.394000000000005,
+      "tokens_per_sec": 18.384380630216565
+    },
+    "total_time_ms": 4412.79,
+    "total_tokens": 235,
+    "graphs_reused": 4,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 7,
+    "question": "What movie won the 1930 Academy Award for Best Picture?",
+    "gold_answers": [
+      "All Quiet on the Western Front"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\n\"Junior\" Laemmle persuaded his father to bring Universal up to date. He bought and built theaters, converted the studio to sound production, and made several forays into high-quality production. His early efforts included the critically mauled part-talkie version of Edna Ferber's novel Show Boat (1929), the lavish musical Broadway (1929) which included Technicolor sequences; and the first all-color musical feature (for Universal), King of Jazz (1930). The more serious All Quiet on the Western Front (1930), won its year's Best Picture Oscar.\n\nQuestion:\nWhat movie won the 1930 Academy Award for Best Picture?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "All Quiet on the Western Front",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.11 ms /   271 runs   (    0.00 ms per token, 245027.12 tokens per second)\nllama_perf_context_print:        load time =    4437.72 ms\nllama_perf_context_print: prompt eval time =    3215.87 ms /   260 tokens (   12.37 ms per token,    80.85 tokens per second)\nllama_perf_context_print:        eval time =     536.36 ms /    10 runs   (   53.64 ms per token,    18.64 tokens per second)\nllama_perf_context_print:       total time =    4977.16 ms /   270 tokens\nllama_perf_context_print:    graphs reused =          9",
+    "memory_usage_mb": 3631.5,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3631.5,
+    "memory_avg_mb": 3147.001201923077,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.11,
+      "total_sampling_runs": 271,
+      "time_per_token_ms": 0.0040959409594095945,
+      "tokens_per_sec": 244144.1441441441
+    },
+    "load_time_ms": 4437.72,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3215.87,
+      "total_prompt_eval_tokens": 260,
+      "time_per_token_ms": 12.368730769230769,
+      "tokens_per_sec": 80.84903929574268
+    },
+    "eval_time": {
+      "total_eval_time_ms": 536.36,
+      "total_eval_tokens": 10,
+      "time_per_token_ms": 53.636,
+      "tokens_per_sec": 18.644194197926765
+    },
+    "total_time_ms": 4977.16,
+    "total_tokens": 270,
+    "graphs_reused": 9,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 8,
+    "question": "What are the only Spielberg films since Sugarland Express to not have music by John Williams?",
+    "gold_answers": [
+      "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nA famous example of Spielberg working with the same professionals is his long-time collaboration with John Williams and the use of his musical scores in all of his films since The Sugarland Express (except Bridge of Spies, The Color Purple and Twilight Zone: The Movie). One of Spielberg's trademarks is his use of music by Williams to add to the visual impact of his scenes and to try and create a lasting picture and sound of the film in the memories of the film audience. These visual scenes often uses images of the sun (e.g. Empire of the Sun, Saving Private Ryan, the final scene of Jurassic Park, and the end credits of Indiana Jones and the Last Crusade (where they ride into the sunset)), of which the last two feature a Williams score at that end scene. Spielberg is a contemporary of filmmakers George Lucas, Francis Ford Coppola, Martin Scorsese, John Milius, and Brian De Palma, collectively known as the \"Movie Brats\". Aside from his principal role as a director, Spielberg has acted as a producer for a considerable number of films, including early hits for Joe Dante and Robert Zemeckis. Spielberg has often never worked with the same screenwriter in his films, beside Tony Kushner and David Koepp, who have written a few of his films more than once.\n\nQuestion:\nWhat are the only Spielberg films since Sugarland Express to not have music by John Williams?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Bridge of Spies, The Color Purple",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.37 ms /   427 runs   (    0.00 ms per token, 311224.49 tokens per second)\nllama_perf_context_print:        load time =    6742.41 ms\nllama_perf_context_print: prompt eval time =    5463.88 ms /   414 tokens (   13.20 ms per token,    75.77 tokens per second)\nllama_perf_context_print:        eval time =     647.86 ms /    12 runs   (   53.99 ms per token,    18.52 tokens per second)\nllama_perf_context_print:       total time =    7393.45 ms /   426 tokens\nllama_perf_context_print:    graphs reused =         11",
+    "memory_usage_mb": 3644.52734375,
+    "memory_min_mb": 1.03515625,
+    "memory_max_mb": 3644.52734375,
+    "memory_avg_mb": 3294.243472450658,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.37,
+      "total_sampling_runs": 427,
+      "time_per_token_ms": 0.0032084309133489463,
+      "tokens_per_sec": 311678.8321167883
+    },
+    "load_time_ms": 6742.41,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5463.88,
+      "total_prompt_eval_tokens": 414,
+      "time_per_token_ms": 13.197777777777778,
+      "tokens_per_sec": 75.77033170567435
+    },
+    "eval_time": {
+      "total_eval_time_ms": 647.86,
+      "total_eval_tokens": 12,
+      "time_per_token_ms": 53.98833333333334,
+      "tokens_per_sec": 18.522520297595158
+    },
+    "total_time_ms": 7393.45,
+    "total_tokens": 426,
+    "graphs_reused": 11,
+    "exact_match": 0,
+    "f1": 0.7058823529411764
+  },
+  {
+    "id": 9,
+    "question": "Which member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?",
+    "gold_answers": [
+      "Peter Pilz"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nSchwarzenegger became a naturalized U.S. citizen on September 17, 1983. Shortly before he gained his citizenship, he asked the Austrian authorities for the right to keep his Austrian citizenship, as Austria does not usually allow dual citizenship. His request was granted, and he retained his Austrian citizenship. In 2005, Peter Pilz, a member of the Austrian Parliament from the Austrian Green Party, demanded that Parliament revoke Schwarzenegger's Austrian citizenship due to his decision not to prevent the executions of Donald Beardslee and Stanley Williams, causing damage of reputation to Austria, where the death penalty has been abolished since 1968. This demand was based on Article 33 of the Austrian Citizenship Act that states: \"A citizen, who is in the public service of a foreign country, shall be deprived of his citizenship, if he heavily damages the reputation or the interests of the Austrian Republic.\" Pilz claimed that Schwarzenegger's actions in support of the death penalty (prohibited in Austria under Protocol 13 of the European Convention on Human Rights) had indeed done damage to Austria's reputation. Schwarzenegger explained his actions by referring to the fact that his only duty as Governor of California was to prevent an error in the judicial system.\n\nQuestion:\nWhich member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Peter Pilz",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.73 ms /   411 runs   (    0.00 ms per token, 565337.00 tokens per second)\nllama_perf_context_print:        load time =    6816.62 ms\nllama_perf_context_print: prompt eval time =    5539.40 ms /   403 tokens (   13.75 ms per token,    72.75 tokens per second)\nllama_perf_context_print:        eval time =     348.77 ms /     7 runs   (   49.82 ms per token,    20.07 tokens per second)\nllama_perf_context_print:       total time =    7167.45 ms /   410 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3644.4765625,
+    "memory_min_mb": 0.984375,
+    "memory_max_mb": 3644.4765625,
+    "memory_avg_mb": 3244.0421241554054,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.73,
+      "total_sampling_runs": 411,
+      "time_per_token_ms": 0.0017761557177615572,
+      "tokens_per_sec": 563013.698630137
+    },
+    "load_time_ms": 6816.62,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5539.4,
+      "total_prompt_eval_tokens": 403,
+      "time_per_token_ms": 13.745409429280397,
+      "tokens_per_sec": 72.75156154096112
+    },
+    "eval_time": {
+      "total_eval_time_ms": 348.77,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 49.824285714285715,
+      "tokens_per_sec": 20.070533589471573
+    },
+    "total_time_ms": 7167.45,
+    "total_tokens": 410,
+    "graphs_reused": 6,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 10,
+    "question": "What did English players do after the ban?",
+    "gold_answers": [
+      "moved abroad"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nDespite significant European success during the 1970s and early 1980s, the late '80s had marked a low point for English football. Stadiums were crumbling, supporters endured poor facilities, hooliganism was rife, and English clubs were banned from European competition for five years following the Heysel Stadium disaster in 1985. The Football League First Division, which had been the top level of English football since 1888, was well behind leagues such as Italy's Serie A and Spain's La Liga in attendances and revenues, and several top English players had moved abroad.\n\nQuestion:\nWhat did English players do after the ban?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "None",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.54 ms /   267 runs   (    0.00 ms per token, 495361.78 tokens per second)\nllama_perf_context_print:        load time =    4475.67 ms\nllama_perf_context_print: prompt eval time =    3190.89 ms /   261 tokens (   12.23 ms per token,    81.80 tokens per second)\nllama_perf_context_print:        eval time =     233.06 ms /     5 runs   (   46.61 ms per token,    21.45 tokens per second)\nllama_perf_context_print:       total time =    4710.27 ms /   266 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3631.1796875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3631.1796875,
+    "memory_avg_mb": 3013.425703125,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.54,
+      "total_sampling_runs": 267,
+      "time_per_token_ms": 0.0020224719101123597,
+      "tokens_per_sec": 494444.44444444444
+    },
+    "load_time_ms": 4475.67,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3190.89,
+      "total_prompt_eval_tokens": 261,
+      "time_per_token_ms": 12.225632183908045,
+      "tokens_per_sec": 81.79536116882751
+    },
+    "eval_time": {
+      "total_eval_time_ms": 233.06,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 46.612,
+      "tokens_per_sec": 21.453702909122114
+    },
+    "total_time_ms": 4710.27,
+    "total_tokens": 266,
+    "graphs_reused": 4,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 11,
+    "question": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?",
+    "gold_answers": [
+      "tenets of Baptist churches"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nBaptists are individuals who comprise a group of Christian denominations and churches that subscribe to a doctrine that baptism should be performed only for professing believers (believer's baptism, as opposed to infant baptism), and that it must be done by complete immersion (as opposed to affusion or sprinkling). Other tenets of Baptist churches include soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation. Baptists recognize two ministerial offices, elders and deacons. Baptist churches are widely considered to be Protestant churches, though some Baptists disavow this identity.\n\nQuestion:\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Baptist churches",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.91 ms /   304 runs   (    0.00 ms per token, 335540.84 tokens per second)\nllama_perf_context_print:        load time =    4711.09 ms\nllama_perf_context_print: prompt eval time =    3413.16 ms /   294 tokens (   11.61 ms per token,    86.14 tokens per second)\nllama_perf_context_print:        eval time =     495.59 ms /     9 runs   (   55.07 ms per token,    18.16 tokens per second)\nllama_perf_context_print:       total time =    5208.73 ms /   303 tokens\nllama_perf_context_print:    graphs reused =          8",
+    "memory_usage_mb": 3635.63671875,
+    "memory_min_mb": 1.1171875,
+    "memory_max_mb": 3635.63671875,
+    "memory_avg_mb": 3075.154474431818,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.91,
+      "total_sampling_runs": 304,
+      "time_per_token_ms": 0.0029934210526315792,
+      "tokens_per_sec": 334065.93406593404
+    },
+    "load_time_ms": 4711.09,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3413.16,
+      "total_prompt_eval_tokens": 294,
+      "time_per_token_ms": 11.60938775510204,
+      "tokens_per_sec": 86.13718665400978
+    },
+    "eval_time": {
+      "total_eval_time_ms": 495.59,
+      "total_eval_tokens": 9,
+      "time_per_token_ms": 55.065555555555555,
+      "tokens_per_sec": 18.16017272342057
+    },
+    "total_time_ms": 5208.73,
+    "total_tokens": 303,
+    "graphs_reused": 8,
+    "exact_match": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "id": 12,
+    "question": "What percentage of the New York City population is Japanese?",
+    "gold_answers": [
+      "0.3%"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nAsian Americans in New York City, according to the 2010 Census, number more than one million, greater than the combined totals of San Francisco and Los Angeles. New York contains the highest total Asian population of any U.S. city proper. The New York City borough of Queens is home to the state's largest Asian American population and the largest Andean (Colombian, Ecuadorian, Peruvian, and Bolivian) populations in the United States, and is also the most ethnically diverse urban area in the world. The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown (紐約華埠), in Brooklyn (布鲁克林華埠), and around Flushing, Queens (法拉盛華埠), are thriving as traditionally urban enclaves, while also expanding rapidly eastward into suburban Nassau County (拿騷縣) on Long Island (長島), as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas. In 2012, 6.3% of New York City was of Chinese ethnicity, with nearly three-fourths living in either Queens or Brooklyn, geographically on Long Island. A community numbering 20,000 Korean-Chinese (Chaoxianzu (Chinese: 朝鲜族) or Joseonjok (Hangul: 조선족)) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens. Koreans made up 1.2% of the city's population, and Japanese 0.3%. Filipinos were the largest Southeast Asian ethnic group at 0.8%, followed by Vietnamese, who made up 0.2% of New York City's population in 2010. Indians are the largest South Asian group, comprising 2.4% of the city's population, with Bangladeshis and Pakistanis at 0.7% and 0.5%, respectively. Queens is the preferred borough of settlement for Asian Indians, Koreans, and Filipinos, as well as Malaysians and other Southeast Asians; while Brooklyn is receiving large numbers of both West Indian as well as Asian Indian immigrants.\n\nQuestion:\nWhat percentage of the New York City population is Japanese?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "0.3%",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.22 ms /   629 runs   (    0.00 ms per token, 514729.95 tokens per second)\nllama_perf_context_print:        load time =    9268.34 ms\nllama_perf_context_print: prompt eval time =    7944.02 ms /   619 tokens (   12.83 ms per token,    77.92 tokens per second)\nllama_perf_context_print:        eval time =     452.03 ms /     9 runs   (   50.23 ms per token,    19.91 tokens per second)\nllama_perf_context_print:       total time =    9723.50 ms /   628 tokens\nllama_perf_context_print:    graphs reused =          8",
+    "memory_usage_mb": 3651.6484375,
+    "memory_min_mb": 0.01171875,
+    "memory_max_mb": 3651.6484375,
+    "memory_avg_mb": 3364.7892203282827,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.22,
+      "total_sampling_runs": 629,
+      "time_per_token_ms": 0.0019395866454689984,
+      "tokens_per_sec": 515573.7704918033
+    },
+    "load_time_ms": 9268.34,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 7944.02,
+      "total_prompt_eval_tokens": 619,
+      "time_per_token_ms": 12.833634894991922,
+      "tokens_per_sec": 77.92024692787783
+    },
+    "eval_time": {
+      "total_eval_time_ms": 452.03,
+      "total_eval_tokens": 9,
+      "time_per_token_ms": 50.22555555555555,
+      "tokens_per_sec": 19.910182952458907
+    },
+    "total_time_ms": 9723.5,
+    "total_tokens": 628,
+    "graphs_reused": 8,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 13,
+    "question": "When did the English army start to retreat and evacuate NYC during the Battle of Long Island?",
+    "gold_answers": [
+      "1783"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe Battle of Long Island, the largest battle of the American Revolutionary War, was fought in August 1776 entirely within the modern-day borough of Brooklyn. After the battle, in which the Americans were defeated, leaving subsequent smaller armed engagements following in its wake, the city became the British military and political base of operations in North America. The city was a haven for Loyalist refugees, as well as escaped slaves who joined the British lines for freedom newly promised by the Crown for all fighters. As many as 10,000 escaped slaves crowded into the city during the British occupation. When the British forces evacuated at the close of the war in 1783, they transported 3,000 freedmen for resettlement in Nova Scotia. They resettled other freedmen in England and the Caribbean.\n\nQuestion:\nWhen did the English army start to retreat and evacuate NYC during the Battle of Long Island?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "None",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.60 ms /   314 runs   (    0.00 ms per token, 523333.33 tokens per second)\nllama_perf_context_print:        load time =    5010.84 ms\nllama_perf_context_print: prompt eval time =    3709.26 ms /   308 tokens (   12.04 ms per token,    83.04 tokens per second)\nllama_perf_context_print:        eval time =     238.47 ms /     5 runs   (   47.69 ms per token,    20.97 tokens per second)\nllama_perf_context_print:       total time =    5251.03 ms /   313 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3637.30859375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3637.30859375,
+    "memory_avg_mb": 3096.7389914772725,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.6,
+      "total_sampling_runs": 314,
+      "time_per_token_ms": 0.001910828025477707,
+      "tokens_per_sec": 523333.3333333334
+    },
+    "load_time_ms": 5010.84,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3709.26,
+      "total_prompt_eval_tokens": 308,
+      "time_per_token_ms": 12.043051948051948,
+      "tokens_per_sec": 83.03543024754264
+    },
+    "eval_time": {
+      "total_eval_time_ms": 238.47,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 47.694,
+      "tokens_per_sec": 20.9669979452342
+    },
+    "total_time_ms": 5251.03,
+    "total_tokens": 313,
+    "graphs_reused": 4,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 14,
+    "question": "Aside from human beings, what creature's needs were traditionally seen to at inns?",
+    "gold_answers": [
+      "horses"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn Europe, it is the provision of accommodation, if anything, that now distinguishes inns from taverns, alehouses and pubs. The latter tend to provide alcohol (and, in the UK, soft drinks and often food), but less commonly accommodation. Inns tend to be older and grander establishments: historically they provided not only food and lodging, but also stabling and fodder for the traveller's horse(s) and on some roads fresh horses for the mail coach. Famous London inns include The George, Southwark and The Tabard. There is however no longer a formal distinction between an inn and other kinds of establishment. Many pubs use \"Inn\" in their name, either because they are long established former coaching inns, or to summon up a particular kind of image, or in many cases simply as a pun on the word \"in\", as in \"The Welcome Inn\", the name of many pubs in Scotland.\n\nQuestion:\nAside from human beings, what creature's needs were traditionally seen to at inns?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "horses",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.70 ms /   343 runs   (    0.00 ms per token, 488603.99 tokens per second)\nllama_perf_context_print:        load time =    5998.17 ms\nllama_perf_context_print: prompt eval time =    4674.36 ms /   337 tokens (   13.87 ms per token,    72.10 tokens per second)\nllama_perf_context_print:        eval time =     242.22 ms /     5 runs   (   48.44 ms per token,    20.64 tokens per second)\nllama_perf_context_print:       total time =    6242.52 ms /   342 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3640.26171875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3640.26171875,
+    "memory_avg_mb": 3169.8084134615383,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.7,
+      "total_sampling_runs": 343,
+      "time_per_token_ms": 0.002040816326530612,
+      "tokens_per_sec": 490000.00000000006
+    },
+    "load_time_ms": 5998.17,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4674.36,
+      "total_prompt_eval_tokens": 337,
+      "time_per_token_ms": 13.870504451038574,
+      "tokens_per_sec": 72.0954312462027
+    },
+    "eval_time": {
+      "total_eval_time_ms": 242.22,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 48.444,
+      "tokens_per_sec": 20.642391214598298
+    },
+    "total_time_ms": 6242.52,
+    "total_tokens": 342,
+    "graphs_reused": 4,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 15,
+    "question": "How many fans were in attendance during Everton's match against Liverpool on September 18, 1948?",
+    "gold_answers": [
+      "78,299"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe record attendance for an Everton home match is 78,299 against Liverpool on 18 September 1948. Amazingly, there was only 1 injury at this game-Tom Fleetwood was hit on the head by a coin thrown from the crowd whilst he marched around the perimeter with St Edward's Orphanage Band, playing the cornet. Goodison Park, like all major English football grounds since the recommendations of the Taylor Report were implemented, is now an all-seater and only holds just under 40,000, meaning it is unlikely that this attendance record will ever be broken at Goodison. Everton's record transfer paid was to Chelsea for Belgian forward Romelu Lukaku for a sum of £28m. Everton bought the player after he played the previous year with the team on loan.\n\nQuestion:\nHow many fans were in attendance during Everton's match against Liverpool on September 18, 1948?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "78,299",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.97 ms /   322 runs   (    0.00 ms per token, 332644.63 tokens per second)\nllama_perf_context_print:        load time =    5669.83 ms\nllama_perf_context_print: prompt eval time =    4366.31 ms /   313 tokens (   13.95 ms per token,    71.69 tokens per second)\nllama_perf_context_print:        eval time =     419.48 ms /     8 runs   (   52.43 ms per token,    19.07 tokens per second)\nllama_perf_context_print:       total time =    6091.74 ms /   321 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3637.98046875,
+    "memory_min_mb": 1.01171875,
+    "memory_max_mb": 3637.98046875,
+    "memory_avg_mb": 3173.365265376984,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.97,
+      "total_sampling_runs": 322,
+      "time_per_token_ms": 0.0030124223602484472,
+      "tokens_per_sec": 331958.76288659795
+    },
+    "load_time_ms": 5669.83,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4366.31,
+      "total_prompt_eval_tokens": 313,
+      "time_per_token_ms": 13.949872204472845,
+      "tokens_per_sec": 71.68524451997223
+    },
+    "eval_time": {
+      "total_eval_time_ms": 419.48,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 52.435,
+      "tokens_per_sec": 19.071231047964144
+    },
+    "total_time_ms": 6091.74,
+    "total_tokens": 321,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 16,
+    "question": "What organization did General Ashcroft assign to lead organization in terrorism investigations?",
+    "gold_answers": [
+      "FBI"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe FBI often works in conjunction with other Federal agencies, including the U.S. Coast Guard (USCG) and U.S. Customs and Border Protection (CBP) in seaport and airport security, and the National Transportation Safety Board in investigating airplane crashes and other critical incidents. Immigration and Customs Enforcement Homeland Security Investigations (ICE-HSI) has nearly the same amount of investigative man power as the FBI, and investigates the largest range of crimes. In the wake of the September 11 attacks, then-Attorney General Ashcroft assigned the FBI as the designated lead organization in terrorism investigations after the creation of the U.S. Department of Homeland Security. ICE-HSI and the FBI are both integral members of the Joint Terrorism Task Force.\n\nQuestion:\nWhat organization did General Ashcroft assign to lead organization in terrorism investigations?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The FBI.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       2.84 ms /   300 runs   (    0.01 ms per token, 105485.23 tokens per second)\nllama_perf_context_print:        load time =    5589.46 ms\nllama_perf_context_print: prompt eval time =    4303.05 ms /   292 tokens (   14.74 ms per token,    67.86 tokens per second)\nllama_perf_context_print:        eval time =     406.86 ms /     7 runs   (   58.12 ms per token,    17.21 tokens per second)\nllama_perf_context_print:       total time =    6002.10 ms /   299 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3635.2578125,
+    "memory_min_mb": 0.98046875,
+    "memory_max_mb": 3635.2578125,
+    "memory_avg_mb": 3214.3908730158732,
+    "sampling_time": {
+      "total_sampling_time_ms": 2.84,
+      "total_sampling_runs": 300,
+      "time_per_token_ms": 0.009466666666666667,
+      "tokens_per_sec": 105633.80281690141
+    },
+    "load_time_ms": 5589.46,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4303.05,
+      "total_prompt_eval_tokens": 292,
+      "time_per_token_ms": 14.736472602739727,
+      "tokens_per_sec": 67.85884430810704
+    },
+    "eval_time": {
+      "total_eval_time_ms": 406.86,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 58.12285714285714,
+      "tokens_per_sec": 17.20493535860001
+    },
+    "total_time_ms": 6002.1,
+    "total_tokens": 299,
+    "graphs_reused": 6,
+    "exact_match": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "id": 17,
+    "question": "What did Uesugi encourage?",
+    "gold_answers": [
+      "the \"way of the warrior as death\""
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe rival of Takeda Shingen (1521–1573) was Uesugi Kenshin (1530–1578), a legendary Sengoku warlord well-versed in the Chinese military classics and who advocated the \"way of the warrior as death\". Japanese historian Daisetz Teitaro Suzuki describes Uesugi's beliefs as: \"Those who are reluctant to give up their lives and embrace death are not true warriors.... Go to the battlefield firmly confident of victory, and you will come home with no wounds whatever. Engage in combat fully determined to die and you will be alive; wish to survive in the battle and you will surely meet death. When you leave the house determined not to see it again you will come home safely; when you have any thought of returning you will not return. You may not be in the wrong to think that the world is always subject to change, but the warrior must not entertain this way of thinking, for his fate is always determined.\"\n\nQuestion:\nWhat did Uesugi encourage?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Uesugi encouraged the \"way of the warrior as death\".",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.71 ms /   356 runs   (    0.00 ms per token, 208308.95 tokens per second)\nllama_perf_context_print:        load time =    5618.39 ms\nllama_perf_context_print: prompt eval time =    4330.49 ms /   338 tokens (   12.81 ms per token,    78.05 tokens per second)\nllama_perf_context_print:        eval time =     852.07 ms /    17 runs   (   50.12 ms per token,    19.95 tokens per second)\nllama_perf_context_print:       total time =    6474.62 ms /   355 tokens\nllama_perf_context_print:    graphs reused =         16",
+    "memory_usage_mb": 3640.5703125,
+    "memory_min_mb": 1.1171875,
+    "memory_max_mb": 3640.5703125,
+    "memory_avg_mb": 3241.795300839552,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.71,
+      "total_sampling_runs": 356,
+      "time_per_token_ms": 0.004803370786516854,
+      "tokens_per_sec": 208187.134502924
+    },
+    "load_time_ms": 5618.39,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4330.49,
+      "total_prompt_eval_tokens": 338,
+      "time_per_token_ms": 12.812100591715975,
+      "tokens_per_sec": 78.05121360400325
+    },
+    "eval_time": {
+      "total_eval_time_ms": 852.07,
+      "total_eval_tokens": 17,
+      "time_per_token_ms": 50.121764705882356,
+      "tokens_per_sec": 19.95141244263969
+    },
+    "total_time_ms": 6474.62,
+    "total_tokens": 355,
+    "graphs_reused": 16,
+    "exact_match": 0,
+    "f1": 0.8750000000000001
+  },
+  {
+    "id": 18,
+    "question": "What type of climate is San Diego classified as having?",
+    "gold_answers": [
+      "semi-arid climate"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nSan Diego is one of the top-ten best climates in the Farmers' Almanac and is one of the two best summer climates in America as scored by The Weather Channel. Under the Köppen–Geiger climate classification system, the San Diego area has been variously categorized as having either a semi-arid climate (BSh in the original classification and BSkn in modified Köppen classification) or a Mediterranean climate (Csa and Csb). San Diego's climate is characterized by warm, dry summers and mild winters with most of the annual precipitation falling between December and March. The city has a mild climate year-round, with an average of 201 days above 70 °F (21 °C) and low rainfall (9–13 inches [230–330 mm] annually). Dewpoints in the summer months range from 57.0 °F (13.9 °C) to 62.4 °F (16.9 °C).\n\nQuestion:\nWhat type of climate is San Diego classified as having?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "San Diego is classified as having a Mediterranean climate.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.77 ms /   351 runs   (    0.01 ms per token, 198866.86 tokens per second)\nllama_perf_context_print:        load time =    6005.56 ms\nllama_perf_context_print: prompt eval time =    4714.29 ms /   336 tokens (   14.03 ms per token,    71.27 tokens per second)\nllama_perf_context_print:        eval time =     759.62 ms /    14 runs   (   54.26 ms per token,    18.43 tokens per second)\nllama_perf_context_print:       total time =    6769.38 ms /   350 tokens\nllama_perf_context_print:    graphs reused =         13",
+    "memory_usage_mb": 3640.31640625,
+    "memory_min_mb": 1.03515625,
+    "memory_max_mb": 3640.31640625,
+    "memory_avg_mb": 3219.077354753521,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.77,
+      "total_sampling_runs": 351,
+      "time_per_token_ms": 0.0050427350427350425,
+      "tokens_per_sec": 198305.08474576272
+    },
+    "load_time_ms": 6005.56,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4714.29,
+      "total_prompt_eval_tokens": 336,
+      "time_per_token_ms": 14.030625,
+      "tokens_per_sec": 71.27266247939775
+    },
+    "eval_time": {
+      "total_eval_time_ms": 759.62,
+      "total_eval_tokens": 14,
+      "time_per_token_ms": 54.25857142857143,
+      "tokens_per_sec": 18.43026776546168
+    },
+    "total_time_ms": 6769.38,
+    "total_tokens": 350,
+    "graphs_reused": 13,
+    "exact_match": 0,
+    "f1": 0.16666666666666666
+  },
+  {
+    "id": 19,
+    "question": "How many pigs died in Sichuan?",
+    "gold_answers": [
+      "1 million"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe earthquake left at least 5 million people without housing, although the number could be as high as 11 million. Millions of livestock and a significant amount of agriculture were also destroyed, including 12.5 million animals, mainly birds. In the Sichuan province a million pigs died out of 60 million total. Catastrophe modeling firm AIR Worldwide reported official estimates of insurers' losses at US$1 billion from the earthquake; estimated total damages exceed US$20 billion. It values Chengdu, at the time having an urban population of 4.5 million people, at around US$115 billion, with only a small portion covered by insurance.\n\nQuestion:\nHow many pigs died in Sichuan?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "1 million",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.90 ms /   280 runs   (    0.00 ms per token, 311804.01 tokens per second)\nllama_perf_context_print:        load time =    4354.63 ms\nllama_perf_context_print: prompt eval time =    3063.78 ms /   272 tokens (   11.26 ms per token,    88.78 tokens per second)\nllama_perf_context_print:        eval time =     356.06 ms /     7 runs   (   50.87 ms per token,    19.66 tokens per second)\nllama_perf_context_print:       total time =    4712.85 ms /   279 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3632.75390625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3632.75390625,
+    "memory_avg_mb": 3009.8546875,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.9,
+      "total_sampling_runs": 280,
+      "time_per_token_ms": 0.0032142857142857142,
+      "tokens_per_sec": 311111.1111111111
+    },
+    "load_time_ms": 4354.63,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3063.78,
+      "total_prompt_eval_tokens": 272,
+      "time_per_token_ms": 11.263897058823531,
+      "tokens_per_sec": 88.77922044010992
+    },
+    "eval_time": {
+      "total_eval_time_ms": 356.06,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 50.86571428571428,
+      "tokens_per_sec": 19.659607931247542
+    },
+    "total_time_ms": 4712.85,
+    "total_tokens": 279,
+    "graphs_reused": 6,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 20,
+    "question": "Which Minister could a conscripted soldier expect to serve under during his year of service?",
+    "gold_answers": [
+      "Minister of the Guards"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nAt the beginning of the Han dynasty, every male commoner aged twenty-three was liable for conscription into the military. The minimum age for the military draft was reduced to twenty after Emperor Zhao's (r. 87–74 BC) reign. Conscripted soldiers underwent one year of training and one year of service as non-professional soldiers. The year of training was served in one of three branches of the armed forces: infantry, cavalry or navy. The year of active service was served either on the frontier, in a king's court or under the Minister of the Guards in the capital. A small professional (paid) standing army was stationed near the capital.\n\nQuestion:\nWhich Minister could a conscripted soldier expect to serve under during his year of service?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The Minister of the Guards",
+    "stderr": "llama_perf_sampler_print:    sampling time =       3.81 ms /   293 runs   (    0.01 ms per token, 76882.71 tokens per second)\nllama_perf_context_print:        load time =    4919.38 ms\nllama_perf_context_print: prompt eval time =    3523.72 ms /   282 tokens (   12.50 ms per token,    80.03 tokens per second)\nllama_perf_context_print:        eval time =     673.72 ms /    10 runs   (   67.37 ms per token,    14.84 tokens per second)\nllama_perf_context_print:       total time =    5600.24 ms /   292 tokens\nllama_perf_context_print:    graphs reused =          9",
+    "memory_usage_mb": 3634.5546875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3634.5546875,
+    "memory_avg_mb": 3135.111228813559,
+    "sampling_time": {
+      "total_sampling_time_ms": 3.81,
+      "total_sampling_runs": 293,
+      "time_per_token_ms": 0.013003412969283276,
+      "tokens_per_sec": 76902.88713910761
+    },
+    "load_time_ms": 4919.38,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3523.72,
+      "total_prompt_eval_tokens": 282,
+      "time_per_token_ms": 12.4954609929078,
+      "tokens_per_sec": 80.02906019774557
+    },
+    "eval_time": {
+      "total_eval_time_ms": 673.72,
+      "total_eval_tokens": 10,
+      "time_per_token_ms": 67.372,
+      "tokens_per_sec": 14.84296146767203
+    },
+    "total_time_ms": 5600.24,
+    "total_tokens": 292,
+    "graphs_reused": 9,
+    "exact_match": 0,
+    "f1": 0.888888888888889
+  },
+  {
+    "id": 21,
+    "question": "Orozco's army was called by what name?",
+    "gold_answers": [
+      "Orozquistas"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn response to Madero's letter to action, Pascual Orozco (a wealthy mining baron) and Chihuahua Governor Abraham González formed a powerful military union in the north, taking military control of several northern Mexican cities with other revolutionary leaders, including Pancho Villa. Against Madero's wishes, Orozco and Villa fought for and won Ciudad Juárez. After militias loyal to Madero defeated the Mexican federal army, on May 21, 1911, Madero signed the Treaty of Ciudad Juárez with Díaz. It required that Díaz abdicate his rule and be replaced by Madero. Insisting on a new election, Madero won overwhelmingly in late 1911, and he established a liberal democracy and received support from the United States and popular leaders such as Orozco and Villa. Orozco eventually became disappointed with the Madero's government and led a rebellion against him. He organized his own army, called \"Orozquistas\"—also called the Colorados (\"Red Flaggers\")—after Madero refused to agree to social reforms calling for better working hours, pay and conditions. The rural working class, which had supported Madero, now took up arms against him in support of Orozco.\n\nQuestion:\nOrozco's army was called by what name?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Orozquistas",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.93 ms /   410 runs   (    0.00 ms per token, 439914.16 tokens per second)\nllama_perf_context_print:        load time =    6739.91 ms\nllama_perf_context_print: prompt eval time =    5436.59 ms /   401 tokens (   13.56 ms per token,    73.76 tokens per second)\nllama_perf_context_print:        eval time =     452.10 ms /     8 runs   (   56.51 ms per token,    17.70 tokens per second)\nllama_perf_context_print:       total time =    7194.42 ms /   409 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3644.078125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3644.078125,
+    "memory_avg_mb": 3255.0205869932433,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.93,
+      "total_sampling_runs": 410,
+      "time_per_token_ms": 0.0022682926829268295,
+      "tokens_per_sec": 440860.2150537634
+    },
+    "load_time_ms": 6739.91,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5436.59,
+      "total_prompt_eval_tokens": 401,
+      "time_per_token_ms": 13.557581047381547,
+      "tokens_per_sec": 73.75947055047374
+    },
+    "eval_time": {
+      "total_eval_time_ms": 452.1,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 56.5125,
+      "tokens_per_sec": 17.695200176952
+    },
+    "total_time_ms": 7194.42,
+    "total_tokens": 409,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 22,
+    "question": "Where were the 1952 Olympics held?",
+    "gold_answers": [
+      "Helsinki"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nDuring Soviet rule, Armenian athletes rose to prominence winning plenty of medals and helping the USSR win the medal standings at the Olympics on numerous occasions. The first medal won by an Armenian in modern Olympic history was by Hrant Shahinyan, who won two golds and two silvers in gymnastics at the 1952 Summer Olympics in Helsinki. In football, their most successful team was Yerevan's FC Ararat, which had claimed most of the Soviet championships in the 70s and had also gone to post victories against professional clubs like FC Bayern Munich in the Euro cup.\n\nQuestion:\nWhere were the 1952 Olympics held?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Helsinki",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.59 ms /   262 runs   (    0.00 ms per token, 441821.25 tokens per second)\nllama_perf_context_print:        load time =    4394.47 ms\nllama_perf_context_print: prompt eval time =    3091.76 ms /   256 tokens (   12.08 ms per token,    82.80 tokens per second)\nllama_perf_context_print:        eval time =     251.96 ms /     5 runs   (   50.39 ms per token,    19.84 tokens per second)\nllama_perf_context_print:       total time =    4647.99 ms /   261 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3630.34765625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3630.34765625,
+    "memory_avg_mb": 3053.7976721938776,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.59,
+      "total_sampling_runs": 262,
+      "time_per_token_ms": 0.002251908396946565,
+      "tokens_per_sec": 444067.7966101695
+    },
+    "load_time_ms": 4394.47,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3091.76,
+      "total_prompt_eval_tokens": 256,
+      "time_per_token_ms": 12.0771875,
+      "tokens_per_sec": 82.80073485652184
+    },
+    "eval_time": {
+      "total_eval_time_ms": 251.96,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 50.392,
+      "tokens_per_sec": 19.844419749166534
+    },
+    "total_time_ms": 4647.99,
+    "total_tokens": 261,
+    "graphs_reused": 4,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 23,
+    "question": "Which studio produced 'Super 8'?",
+    "gold_answers": [
+      "Paramount Pictures"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nSpielberg served as an uncredited executive producer on The Haunting, The Prince of Egypt, Just Like Heaven, Shrek, Road to Perdition, and Evolution. He served as an executive producer for the 1997 film Men in Black, and its sequels, Men in Black II and Men in Black III. In 2005, he served as a producer of Memoirs of a Geisha, an adaptation of the novel by Arthur Golden, a film to which he was previously attached as director. In 2006, Spielberg co-executive produced with famed filmmaker Robert Zemeckis a CGI children's film called Monster House, marking their eighth collaboration since 1990's Back to the Future Part III. He also teamed with Clint Eastwood for the first time in their careers, co-producing Eastwood's Flags of Our Fathers and Letters from Iwo Jima with Robert Lorenz and Eastwood himself. He earned his twelfth Academy Award nomination for the latter film as it was nominated for Best Picture. Spielberg served as executive producer for Disturbia and the Transformers live action film with Brian Goldner, an employee of Hasbro. The film was directed by Michael Bay and written by Roberto Orci and Alex Kurtzman, and Spielberg continued to collaborate on the sequels, Transformers: Revenge of the Fallen and Transformers: Dark of the Moon. In 2011, he produced the J. J. Abrams science fiction thriller film Super 8 for Paramount Pictures.\n\nQuestion:\nWhich studio produced 'Super 8'?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Paramount Pictures",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.71 ms /   445 runs   (    0.00 ms per token, 624123.42 tokens per second)\nllama_perf_context_print:        load time =    7154.76 ms\nllama_perf_context_print: prompt eval time =    5783.62 ms /   438 tokens (   13.20 ms per token,    75.73 tokens per second)\nllama_perf_context_print:        eval time =     301.93 ms /     6 runs   (   50.32 ms per token,    19.87 tokens per second)\nllama_perf_context_print:       total time =    7458.54 ms /   444 tokens\nllama_perf_context_print:    graphs reused =          5",
+    "memory_usage_mb": 3646.68359375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3646.68359375,
+    "memory_avg_mb": 3245.8337053571427,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.71,
+      "total_sampling_runs": 445,
+      "time_per_token_ms": 0.001595505617977528,
+      "tokens_per_sec": 626760.5633802817
+    },
+    "load_time_ms": 7154.76,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5783.62,
+      "total_prompt_eval_tokens": 438,
+      "time_per_token_ms": 13.204611872146119,
+      "tokens_per_sec": 75.73111649797185
+    },
+    "eval_time": {
+      "total_eval_time_ms": 301.93,
+      "total_eval_tokens": 6,
+      "time_per_token_ms": 50.321666666666665,
+      "tokens_per_sec": 19.872155797701453
+    },
+    "total_time_ms": 7458.54,
+    "total_tokens": 444,
+    "graphs_reused": 5,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 24,
+    "question": "Who is an example of someone that states that affirmative action is another form of discrimination?",
+    "gold_answers": [
+      "Ward Connerly"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nSome commentators have defined reverse discrimination as a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority.[non-primary source needed] Many argue that reverse discrimination results from affirmative action policies and that these policies are just another form of discrimination no different from examples in the past. People like Ward Connerly assert that affirmative action requires the very discrimination it is seeking to eliminate. According to these opponents, this contradiction might make affirmative action counter-productive. One argument for reverse discrimination is the idea that affirmative action encourages mediocrity and incompetence. Job positions would not be offered to the applicants who are the most qualified, but to applicants with a special trait such as a certain race, ethnicity, or gender. For example, opponents say affirmative action causes unprepared applicants to be accepted in highly demanding educational institutions or jobs which result in eventual failure (see, for example, Richard Sander's study of affirmative action in Law School, bar exam and eventual performance at law firms). Other opponents say that affirmative action lowers the bar and so denies those who strive for excellence on their own merit and the sense of real achievement. Opponents of affirmative action suggest that merit should be the primary factor considered in applying for job positions, college, graduate school, etc.\n\nQuestion:\nWho is an example of someone that states that affirmative action is another form of discrimination?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Ward Connerly",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.93 ms /   414 runs   (    0.00 ms per token, 447567.57 tokens per second)\nllama_perf_context_print:        load time =    6892.57 ms\nllama_perf_context_print: prompt eval time =    5526.64 ms /   405 tokens (   13.65 ms per token,    73.28 tokens per second)\nllama_perf_context_print:        eval time =     442.48 ms /     8 runs   (   55.31 ms per token,    18.08 tokens per second)\nllama_perf_context_print:       total time =    7337.46 ms /   413 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3644.4921875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3644.4921875,
+    "memory_avg_mb": 3251.788394325658,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.93,
+      "total_sampling_runs": 414,
+      "time_per_token_ms": 0.002246376811594203,
+      "tokens_per_sec": 445161.2903225806
+    },
+    "load_time_ms": 6892.57,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5526.64,
+      "total_prompt_eval_tokens": 405,
+      "time_per_token_ms": 13.646024691358026,
+      "tokens_per_sec": 73.2814151093612
+    },
+    "eval_time": {
+      "total_eval_time_ms": 442.48,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 55.31,
+      "tokens_per_sec": 18.07991321641656
+    },
+    "total_time_ms": 7337.46,
+    "total_tokens": 413,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 25,
+    "question": "Who developed EMALS?",
+    "gold_answers": [
+      "General Atomics"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn December 2009, then Indian Navy chief Admiral Nirmal Kumar Verma said at his maiden navy week press conference that concepts currently being examined by the Directorate of Naval Design for the second indigenous aircraft carrier (IAC-2), are for a conventionally powered carrier displacing over 50,000 tons and equipped with steam catapults (rather than the ski-jump on the Gorshkov/Vikramaditya and the IAC) to launch fourth-generation aircraft. Later on in August 2013 Vice Admiral RK Dhowan, while talking about the detailed study underway on the IAC-II project, said that nuclear propulsion was also being considered. The navy also evaluated the Electromagnetic Aircraft Launch System (EMALS), which is being used by the US Navy in their latest Gerald R. Ford-class aircraft carriers. General Atomics, the developer of the EMALS, was cleared by the US government to give a technical demonstration to Indian Navy officers, who were impressed by the new capabilities of the system. The EMALS enables launching varied aircraft including unmanned combat air vehicles (UCAV). The aim is to have a total of three aircraft carriers in service, with two fully operational carriers and the third in refit.\n\nQuestion:\nWho developed EMALS?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "General Atomics",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.83 ms /   393 runs   (    0.00 ms per token, 470658.68 tokens per second)\nllama_perf_context_print:        load time =    6365.14 ms\nllama_perf_context_print: prompt eval time =    5024.72 ms /   385 tokens (   13.05 ms per token,    76.62 tokens per second)\nllama_perf_context_print:        eval time =     395.42 ms /     7 runs   (   56.49 ms per token,    17.70 tokens per second)\nllama_perf_context_print:       total time =    6763.13 ms /   392 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3643.44140625,
+    "memory_min_mb": 1.015625,
+    "memory_max_mb": 3643.44140625,
+    "memory_avg_mb": 3254.022042410714,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.83,
+      "total_sampling_runs": 393,
+      "time_per_token_ms": 0.0021119592875318066,
+      "tokens_per_sec": 473493.9759036145
+    },
+    "load_time_ms": 6365.14,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5024.72,
+      "total_prompt_eval_tokens": 385,
+      "time_per_token_ms": 13.05122077922078,
+      "tokens_per_sec": 76.62118486204206
+    },
+    "eval_time": {
+      "total_eval_time_ms": 395.42,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 56.48857142857143,
+      "tokens_per_sec": 17.70269586768499
+    },
+    "total_time_ms": 6763.13,
+    "total_tokens": 392,
+    "graphs_reused": 6,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 26,
+    "question": "What are two reasons for which Galicia's rural areas have been largely abandoned?",
+    "gold_answers": [
+      "Economic development and mechanization of agriculture"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe rapid increase of population of A Coruña, Vigo and to a lesser degree other major Galician cities, like Ourense, Pontevedra or Santiago de Compostela during the years that followed the Spanish Civil War during the mid-20th century occurred as the rural population declined: many villages and hamlets of the four provinces of Galicia disappeared or nearly disappeared during the same period. Economic development and mechanization of agriculture resulted in the fields being abandoned, and most of the population has moving to find jobs in the main cities. The number of people working in the Tertiary and Quaternary sectors of the economy has increased significantly.\n\nQuestion:\nWhat are two reasons for which Galicia's rural areas have been largely abandoned?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The fields were abandoned due to economic development and mechanization of agriculture, and most of the population moved to find jobs in the main cities.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       3.43 ms /   312 runs   (    0.01 ms per token, 90882.61 tokens per second)\nllama_perf_context_print:        load time =    4992.51 ms\nllama_perf_context_print: prompt eval time =    3655.35 ms /   279 tokens (   13.10 ms per token,    76.33 tokens per second)\nllama_perf_context_print:        eval time =    2281.49 ms /    32 runs   (   71.30 ms per token,    14.03 tokens per second)\nllama_perf_context_print:       total time =    7282.13 ms /   311 tokens\nllama_perf_context_print:    graphs reused =         31",
+    "memory_usage_mb": 3633.73046875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3633.73046875,
+    "memory_avg_mb": 3234.932604166667,
+    "sampling_time": {
+      "total_sampling_time_ms": 3.43,
+      "total_sampling_runs": 312,
+      "time_per_token_ms": 0.010993589743589743,
+      "tokens_per_sec": 90962.09912536443
+    },
+    "load_time_ms": 4992.51,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3655.35,
+      "total_prompt_eval_tokens": 279,
+      "time_per_token_ms": 13.101612903225806,
+      "tokens_per_sec": 76.3264803643974
+    },
+    "eval_time": {
+      "total_eval_time_ms": 2281.49,
+      "total_eval_tokens": 32,
+      "time_per_token_ms": 71.2965625,
+      "tokens_per_sec": 14.02592165646135
+    },
+    "total_time_ms": 7282.13,
+    "total_tokens": 311,
+    "graphs_reused": 31,
+    "exact_match": 0,
+    "f1": 0.3870967741935484
+  },
+  {
+    "id": 27,
+    "question": "What do the hole walls in two-layer PCBs have to be before they can be electroplated?",
+    "gold_answers": [
+      "conductive"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe hole walls for boards with two or more layers can be made conductive and then electroplated with copper to form plated-through holes.  These holes electrically connect the conducting layers of the PCB. For multi-layer boards, those with three layers or more, drilling typically produces a smear of the high temperature decomposition products of bonding agent in the laminate system. Before the holes can be plated through, this smear must be removed by a chemical de-smear process, or by plasma-etch. The de-smear process ensures that a good connection is made to the copper layers when the hole is plated through. On high reliability boards a process called etch-back is performed chemically with a potassium permanganate based etchant or plasma. The etch-back removes resin and the glass fibers so that the copper layers extend into the hole and as the hole is plated become integral with the deposited copper.\n\nQuestion:\nWhat do the hole walls in two-layer PCBs have to be before they can be electroplated?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The hole walls in two-layer PCBs have to be made conductive.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       3.21 ms /   351 runs   (    0.01 ms per token, 109516.38 tokens per second)\nllama_perf_context_print:        load time =    5963.51 ms\nllama_perf_context_print: prompt eval time =    4577.97 ms /   331 tokens (   13.83 ms per token,    72.30 tokens per second)\nllama_perf_context_print:        eval time =    1061.96 ms /    19 runs   (   55.89 ms per token,    17.89 tokens per second)\nllama_perf_context_print:       total time =    7032.69 ms /   350 tokens\nllama_perf_context_print:    graphs reused =         18",
+    "memory_usage_mb": 3639.91015625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3639.91015625,
+    "memory_avg_mb": 3234.0441994863013,
+    "sampling_time": {
+      "total_sampling_time_ms": 3.21,
+      "total_sampling_runs": 351,
+      "time_per_token_ms": 0.009145299145299145,
+      "tokens_per_sec": 109345.79439252337
+    },
+    "load_time_ms": 5963.51,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4577.97,
+      "total_prompt_eval_tokens": 331,
+      "time_per_token_ms": 13.830725075528703,
+      "tokens_per_sec": 72.30278922753972
+    },
+    "eval_time": {
+      "total_eval_time_ms": 1061.96,
+      "total_eval_tokens": 19,
+      "time_per_token_ms": 55.89263157894737,
+      "tokens_per_sec": 17.891446005499265
+    },
+    "total_time_ms": 7032.69,
+    "total_tokens": 350,
+    "graphs_reused": 18,
+    "exact_match": 0,
+    "f1": 0.15384615384615385
+  },
+  {
+    "id": 28,
+    "question": "What is Amphetamine's market name?",
+    "gold_answers": [
+      "Institute of Experimental Therapy"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn 1911 arsphenamine, the first synthetic anti-infective drug, was developed by Paul Ehrlich and chemist Alfred Bertheim of the Institute of Experimental Therapy in Berlin. The drug was given the commercial name Salvarsan. Ehrlich, noting both the general toxicity of arsenic and the selective absorption of certain dyes by bacteria, hypothesized that an arsenic-containing dye with similar selective absorption properties could be used to treat bacterial infections. Arsphenamine was prepared as part of a campaign to synthesize a series of such compounds, and found to exhibit partially selective toxicity. Arsphenamine proved to be the first effective treatment for syphilis, a disease which prior to that time was incurable and led inexorably to severe skin ulceration, neurological damage, and death.[citation needed]\n\nQuestion:\nWhat is Amphetamine's market name?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "None",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.60 ms /   312 runs   (    0.00 ms per token, 518272.43 tokens per second)\nllama_perf_context_print:        load time =    5211.66 ms\nllama_perf_context_print: prompt eval time =    3823.93 ms /   306 tokens (   12.50 ms per token,    80.02 tokens per second)\nllama_perf_context_print:        eval time =     251.51 ms /     5 runs   (   50.30 ms per token,    19.88 tokens per second)\nllama_perf_context_print:       total time =    5464.92 ms /   311 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3637.28125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3637.28125,
+    "memory_avg_mb": 3137.646724232456,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.6,
+      "total_sampling_runs": 312,
+      "time_per_token_ms": 0.001923076923076923,
+      "tokens_per_sec": 520000.0
+    },
+    "load_time_ms": 5211.66,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3823.93,
+      "total_prompt_eval_tokens": 306,
+      "time_per_token_ms": 12.496503267973855,
+      "tokens_per_sec": 80.0223853470121
+    },
+    "eval_time": {
+      "total_eval_time_ms": 251.51,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 50.302,
+      "tokens_per_sec": 19.879925251481055
+    },
+    "total_time_ms": 5464.92,
+    "total_tokens": 311,
+    "graphs_reused": 4,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 29,
+    "question": "When did Beyonce first make the Time 100 List?",
+    "gold_answers": [
+      "2013"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn The New Yorker music critic Jody Rosen described Beyoncé as \"the most important and compelling popular musician of the twenty-first century..... the result, the logical end point, of a century-plus of pop.\" When The Guardian named her Artist of the Decade, Llewyn-Smith wrote, \"Why Beyoncé? [...] Because she made not one but two of the decade's greatest singles, with Crazy in Love and Single Ladies (Put a Ring on It), not to mention her hits with Destiny's Child; and this was the decade when singles – particularly R&B singles – regained their status as pop's favourite medium. [...] [She] and not any superannuated rock star was arguably the greatest live performer of the past 10 years.\" In 2013, Beyoncé made the Time 100 list, Baz Luhrmann writing \"no one has that voice, no one moves the way she moves, no one can hold an audience the way she does... When Beyoncé does an album, when Beyoncé sings a song, when Beyoncé does anything, it's an event, and it's broadly influential. Right now, she is the heir-apparent diva of the USA — the reigning national voice.\" In 2014, Beyoncé was listed again on the Time 100 and also featured on the cover of the issue.\n\nQuestion:\nWhen did Beyonce first make the Time 100 List?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "2013",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.04 ms /   421 runs   (    0.00 ms per token, 405197.31 tokens per second)\nllama_perf_context_print:        load time =    7388.35 ms\nllama_perf_context_print: prompt eval time =    6067.76 ms /   413 tokens (   14.69 ms per token,    68.06 tokens per second)\nllama_perf_context_print:        eval time =     392.36 ms /     7 runs   (   56.05 ms per token,    17.84 tokens per second)\nllama_perf_context_print:       total time =    7783.56 ms /   420 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3645.41796875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3645.41796875,
+    "memory_avg_mb": 3267.642822265625,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.04,
+      "total_sampling_runs": 421,
+      "time_per_token_ms": 0.002470308788598575,
+      "tokens_per_sec": 404807.6923076923
+    },
+    "load_time_ms": 7388.35,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 6067.76,
+      "total_prompt_eval_tokens": 413,
+      "time_per_token_ms": 14.691912832929782,
+      "tokens_per_sec": 68.0646564794916
+    },
+    "eval_time": {
+      "total_eval_time_ms": 392.36,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 56.05142857142857,
+      "tokens_per_sec": 17.84075848710368
+    },
+    "total_time_ms": 7783.56,
+    "total_tokens": 420,
+    "graphs_reused": 6,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 30,
+    "question": "Who proposed an evolutionary concept of the gene as a unit of natural selection?",
+    "gold_answers": [
+      "George C. Williams"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe theories developed in the 1930s and 1940s to integrate molecular genetics with Darwinian evolution are called the modern evolutionary synthesis, a term introduced by Julian Huxley. Evolutionary biologists subsequently refined this concept, such as George C. Williams' gene-centric view of evolution. He proposed an evolutionary concept of the gene as a unit of natural selection with the definition: \"that which segregates and recombines with appreciable frequency.\":24 In this view, the molecular gene transcribes as a unit, and the evolutionary gene inherits as a unit. Related ideas emphasizing the centrality of genes in evolution were popularized by Richard Dawkins.\n\nQuestion:\nWho proposed an evolutionary concept of the gene as a unit of natural selection?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "George C. Williams",
+    "stderr": "llama_perf_sampler_print:    sampling time =       3.16 ms /   288 runs   (    0.01 ms per token, 91081.59 tokens per second)\nllama_perf_context_print:        load time =    5292.19 ms\nllama_perf_context_print: prompt eval time =    3930.20 ms /   279 tokens (   14.09 ms per token,    70.99 tokens per second)\nllama_perf_context_print:        eval time =     475.52 ms /     8 runs   (   59.44 ms per token,    16.82 tokens per second)\nllama_perf_context_print:       total time =    5774.07 ms /   287 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3633.65234375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3633.65234375,
+    "memory_avg_mb": 3137.4246285860654,
+    "sampling_time": {
+      "total_sampling_time_ms": 3.16,
+      "total_sampling_runs": 288,
+      "time_per_token_ms": 0.010972222222222223,
+      "tokens_per_sec": 91139.24050632911
+    },
+    "load_time_ms": 5292.19,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3930.2,
+      "total_prompt_eval_tokens": 279,
+      "time_per_token_ms": 14.08673835125448,
+      "tokens_per_sec": 70.98875375298967
+    },
+    "eval_time": {
+      "total_eval_time_ms": 475.52,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 59.44,
+      "tokens_per_sec": 16.823687752355315
+    },
+    "total_time_ms": 5774.07,
+    "total_tokens": 287,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 31,
+    "question": "How many Baptists registered for the meeting in Atlanta?",
+    "gold_answers": [
+      "More than 20,000"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nOn 20 June 1995, the Southern Baptist Convention voted to adopt a resolution renouncing its racist roots and apologizing for its past defense of slavery. More than 20,000 Southern Baptists registered for the meeting in Atlanta. The resolution declared that messengers, as SBC delegates are called, \"unwaveringly denounce racism, in all its forms, as deplorable sin\" and \"lament and repudiate historic acts of evil such as slavery from which we continue to reap a bitter harvest.\" It offered an apology to all African-Americans for \"condoning and/or perpetuating individual and systemic racism in our lifetime\" and repentance for \"racism of which we have been guilty, whether consciously or unconsciously.\" Although Southern Baptists have condemned racism in the past, this was the first time the predominantly white convention had dealt specifically with the issue of slavery.\n\nQuestion:\nHow many Baptists registered for the meeting in Atlanta?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "20,000",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.99 ms /   329 runs   (    0.00 ms per token, 330985.92 tokens per second)\nllama_perf_context_print:        load time =    5527.35 ms\nllama_perf_context_print: prompt eval time =    4314.86 ms /   320 tokens (   13.48 ms per token,    74.16 tokens per second)\nllama_perf_context_print:        eval time =     412.60 ms /     8 runs   (   51.57 ms per token,    19.39 tokens per second)\nllama_perf_context_print:       total time =    5942.14 ms /   328 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3639.0546875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3639.0546875,
+    "memory_avg_mb": 3197.375945060484,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.99,
+      "total_sampling_runs": 329,
+      "time_per_token_ms": 0.0030091185410334345,
+      "tokens_per_sec": 332323.23232323234
+    },
+    "load_time_ms": 5527.35,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4314.86,
+      "total_prompt_eval_tokens": 320,
+      "time_per_token_ms": 13.4839375,
+      "tokens_per_sec": 74.16231349336942
+    },
+    "eval_time": {
+      "total_eval_time_ms": 412.6,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 51.575,
+      "tokens_per_sec": 19.389238972370332
+    },
+    "total_time_ms": 5942.14,
+    "total_tokens": 328,
+    "graphs_reused": 7,
+    "exact_match": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "id": 32,
+    "question": "Which former CBS News correspondent graduated from BYU?",
+    "gold_answers": [
+      "Art Rascon"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn literature and journalism, BYU has produced several best-selling authors, including Orson Scott Card '75, Brandon Sanderson '00 & '05, Ben English '98, and Stephenie Meyer '95. BYU also graduated American activist and contributor for ABC News Elizabeth Smart-Gilmour. Other media personalities include former CBS News correspondent Art Rascon, award-winning ESPN sportscaster and former Miss America Sharlene Wells Hawkes '86 and former co-host of CBS's The Early Show Jane Clayson Johnson '90. In entertainment and television, BYU is represented by Jon Heder '02 (best known for his role as Napoleon Dynamite), writer-director Daryn Tufts '98, Golden Globe-nominated Aaron Eckhart '94, animator and filmmaker Don Bluth '54, Jeopardy! all-time champion Ken Jennings '00, and Richard Dutcher, the \"Father of Mormon Cinema.\" In the music industry BYU is represented by lead singer of the Grammy Award winning band Imagine Dragons Dan Reynolds, multi-platinum selling drummer Elaine Bradley from the band Neon Trees, crossover dubstep violinist Lindsey Stirling, former American Idol contestant Carmen Rasmusen, Mormon Tabernacle Choir director Mack Wilberg and pianist Massimiliano Frani.\n\nQuestion:\nWhich former CBS News correspondent graduated from BYU?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Art Rascon",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.06 ms /   401 runs   (    0.00 ms per token, 378659.11 tokens per second)\nllama_perf_context_print:        load time =    7015.21 ms\nllama_perf_context_print: prompt eval time =    5676.94 ms /   393 tokens (   14.45 ms per token,    69.23 tokens per second)\nllama_perf_context_print:        eval time =     396.77 ms /     7 runs   (   56.68 ms per token,    17.64 tokens per second)\nllama_perf_context_print:       total time =    7414.92 ms /   400 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3643.453125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3643.453125,
+    "memory_avg_mb": 3262.367855674342,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.06,
+      "total_sampling_runs": 401,
+      "time_per_token_ms": 0.0026433915211970076,
+      "tokens_per_sec": 378301.88679245283
+    },
+    "load_time_ms": 7015.21,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5676.94,
+      "total_prompt_eval_tokens": 393,
+      "time_per_token_ms": 14.445139949109414,
+      "tokens_per_sec": 69.22743590737264
+    },
+    "eval_time": {
+      "total_eval_time_ms": 396.77,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 56.68142857142857,
+      "tokens_per_sec": 17.64246288781914
+    },
+    "total_time_ms": 7414.92,
+    "total_tokens": 400,
+    "graphs_reused": 6,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 33,
+    "question": "As an inhaler, what was epinephrine used to treat?",
+    "gold_answers": [
+      "nasal congestion"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nBy the 1890s the profound effect of adrenal extracts on many different tissue types had been discovered, setting off a search both for the mechanism of chemical signalling and efforts to exploit these observations for the development of new drugs. The blood pressure raising and vasoconstrictive effects of adrenal extracts were of particular interest to surgeons as hemostatic agents and as treatment for shock, and a number of companies developed products based on adrenal extracts containing varying purities of the active substance. In 1897 John Abel of Johns Hopkins University identified the active principle as epinephrine, which he isolated in an impure state as the sulfate salt. Industrial chemist Jokichi Takamine later developed a method for obtaining epinephrine in a pure state, and licensed the technology to Parke Davis. Parke Davis marketed epinephrine under the trade name Adrenalin. Injected epinephrine proved to be especially efficacious for the acute treatment of asthma attacks, and an inhaled version was sold in the United States until 2011 (Primatene Mist). By 1929 epinephrine had been formulated into an inhaler for use in the treatment of nasal congestion.\n\nQuestion:\nAs an inhaler, what was epinephrine used to treat?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "nasal congestion",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.76 ms /   394 runs   (    0.00 ms per token, 520475.56 tokens per second)\nllama_perf_context_print:        load time =    7358.54 ms\nllama_perf_context_print: prompt eval time =    5888.71 ms /   387 tokens (   15.22 ms per token,    65.72 tokens per second)\nllama_perf_context_print:        eval time =     327.14 ms /     6 runs   (   54.52 ms per token,    18.34 tokens per second)\nllama_perf_context_print:       total time =    7687.80 ms /   393 tokens\nllama_perf_context_print:    graphs reused =          5",
+    "memory_usage_mb": 3643.3046875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3643.3046875,
+    "memory_avg_mb": 3246.699762658228,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.76,
+      "total_sampling_runs": 394,
+      "time_per_token_ms": 0.0019289340101522844,
+      "tokens_per_sec": 518421.05263157893
+    },
+    "load_time_ms": 7358.54,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5888.71,
+      "total_prompt_eval_tokens": 387,
+      "time_per_token_ms": 15.216304909560723,
+      "tokens_per_sec": 65.71897750101465
+    },
+    "eval_time": {
+      "total_eval_time_ms": 327.14,
+      "total_eval_tokens": 6,
+      "time_per_token_ms": 54.52333333333333,
+      "tokens_per_sec": 18.340771535122578
+    },
+    "total_time_ms": 7687.8,
+    "total_tokens": 393,
+    "graphs_reused": 5,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 34,
+    "question": "What significantly increased the magnates wealth?",
+    "gold_answers": [
+      "Magnates"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nMagnates often received gifts from monarchs, which significantly increased their wealth. Often, those gifts were only temporary leases, which the magnates never returned (in the 16th century, the anti-magnate opposition among szlachta was known as the ruch egzekucji praw—movement for execution of the laws—which demanded that all such possessions are returned to their proper owner, the king).\n\nQuestion:\nWhat significantly increased the magnates wealth?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Magnates' wealth.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.05 ms /   231 runs   (    0.00 ms per token, 219790.68 tokens per second)\nllama_perf_context_print:        load time =    4381.26 ms\nllama_perf_context_print: prompt eval time =    3053.90 ms /   221 tokens (   13.82 ms per token,    72.37 tokens per second)\nllama_perf_context_print:        eval time =     456.67 ms /     9 runs   (   50.74 ms per token,    19.71 tokens per second)\nllama_perf_context_print:       total time =    4840.24 ms /   230 tokens\nllama_perf_context_print:    graphs reused =          8",
+    "memory_usage_mb": 3625.66796875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3625.66796875,
+    "memory_avg_mb": 3032.5343903186276,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.05,
+      "total_sampling_runs": 231,
+      "time_per_token_ms": 0.004545454545454545,
+      "tokens_per_sec": 220000.0
+    },
+    "load_time_ms": 4381.26,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3053.9,
+      "total_prompt_eval_tokens": 221,
+      "time_per_token_ms": 13.818552036199096,
+      "tokens_per_sec": 72.36648220308457
+    },
+    "eval_time": {
+      "total_eval_time_ms": 456.67,
+      "total_eval_tokens": 9,
+      "time_per_token_ms": 50.74111111111111,
+      "tokens_per_sec": 19.7078853439026
+    },
+    "total_time_ms": 4840.24,
+    "total_tokens": 230,
+    "graphs_reused": 8,
+    "exact_match": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "id": 35,
+    "question": "Along with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?",
+    "gold_answers": [
+      "Baruch Spinoza"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nWestern philosophy regarded emotion in varying ways. In stoic theories it was seen as a hindrance to reason and therefore a hindrance to virtue. Aristotle believed that emotions were an essential component of virtue. In the Aristotelian view all emotions (called passions) corresponded to appetites or capacities. During the Middle Ages, the Aristotelian view was adopted and further developed by scholasticism and Thomas Aquinas in particular. There are also theories of emotions in the works of philosophers such as René Descartes, Niccolò Machiavelli, Baruch Spinoza and David Hume. In the 19th century emotions were considered adaptive and were studied more frequently from an empiricist psychiatric perspective.\n\nQuestion:\nAlong with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Aristotle",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.77 ms /   306 runs   (    0.00 ms per token, 397919.38 tokens per second)\nllama_perf_context_print:        load time =    5308.92 ms\nllama_perf_context_print: prompt eval time =    4012.99 ms /   300 tokens (   13.38 ms per token,    74.76 tokens per second)\nllama_perf_context_print:        eval time =     273.26 ms /     5 runs   (   54.65 ms per token,    18.30 tokens per second)\nllama_perf_context_print:       total time =    5584.03 ms /   305 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3636.44140625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3636.44140625,
+    "memory_avg_mb": 3134.234577047414,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.77,
+      "total_sampling_runs": 306,
+      "time_per_token_ms": 0.002516339869281046,
+      "tokens_per_sec": 397402.59740259737
+    },
+    "load_time_ms": 5308.92,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4012.99,
+      "total_prompt_eval_tokens": 300,
+      "time_per_token_ms": 13.376633333333332,
+      "tokens_per_sec": 74.75722590886097
+    },
+    "eval_time": {
+      "total_eval_time_ms": 273.26,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 54.652,
+      "tokens_per_sec": 18.297592036887945
+    },
+    "total_time_ms": 5584.03,
+    "total_tokens": 305,
+    "graphs_reused": 4,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 36,
+    "question": "In addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?",
+    "gold_answers": [
+      "Long Wharf Theatre, and the Shubert Theatre"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe city hosts numerous theatres and production houses, including the Yale Repertory Theatre, the Long Wharf Theatre, and the Shubert Theatre. There is also theatre activity from the Yale School of Drama, which works through the Yale University Theatre and the student-run Yale Cabaret. Southern Connecticut State University hosts the Lyman Center for the Performing Arts. The shuttered Palace Theatre (opposite the Shubert Theatre) is being renovated and will reopen as the College Street Music Hall in May, 2015. Smaller theatres include the Little Theater on Lincoln Street. Cooperative Arts and Humanities High School also boasts a state-of-the-art theatre on College Street. The theatre is used for student productions as well as the home to weekly services to a local non-denominational church, the City Church New Haven.\n\nQuestion:\nIn addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The Long Wharf Theatre and the Shubert Theatre.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.81 ms /   334 runs   (    0.01 ms per token, 184326.71 tokens per second)\nllama_perf_context_print:        load time =    5496.56 ms\nllama_perf_context_print: prompt eval time =    4069.43 ms /   316 tokens (   12.88 ms per token,    77.65 tokens per second)\nllama_perf_context_print:        eval time =    1231.45 ms /    17 runs   (   72.44 ms per token,    13.80 tokens per second)\nllama_perf_context_print:       total time =    6732.33 ms /   333 tokens\nllama_perf_context_print:    graphs reused =         16",
+    "memory_usage_mb": 3638.33203125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3638.33203125,
+    "memory_avg_mb": 3203.2035714285716,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.81,
+      "total_sampling_runs": 334,
+      "time_per_token_ms": 0.005419161676646707,
+      "tokens_per_sec": 184530.38674033148
+    },
+    "load_time_ms": 5496.56,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4069.43,
+      "total_prompt_eval_tokens": 316,
+      "time_per_token_ms": 12.877943037974683,
+      "tokens_per_sec": 77.65215275849444
+    },
+    "eval_time": {
+      "total_eval_time_ms": 1231.45,
+      "total_eval_tokens": 17,
+      "time_per_token_ms": 72.43823529411765,
+      "tokens_per_sec": 13.80486418449795
+    },
+    "total_time_ms": 6732.33,
+    "total_tokens": 333,
+    "graphs_reused": 16,
+    "exact_match": 0,
+    "f1": 0.9333333333333333
+  },
+  {
+    "id": 37,
+    "question": "What geographical feature separated Universal City Studios from Hollywood?",
+    "gold_answers": [
+      "Cahuenga Pass"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nOn March 15, 1915,:8 Laemmle opened the world's largest motion picture production facility, Universal City Studios, on a 230-acre (0.9-km²) converted farm just over the Cahuenga Pass from Hollywood. Studio management became the third facet of Universal's operations, with the studio incorporated as a distinct subsidiary organization. Unlike other movie moguls, Laemmle opened his studio to tourists. Universal became the largest studio in Hollywood, and remained so for a decade. However, it sought an audience mostly in small towns, producing mostly inexpensive melodramas, westerns and serials.\n\nQuestion:\nWhat geographical feature separated Universal City Studios from Hollywood?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Cahuenga Pass",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.89 ms /   276 runs   (    0.00 ms per token, 310461.19 tokens per second)\nllama_perf_context_print:        load time =    4958.77 ms\nllama_perf_context_print: prompt eval time =    3636.70 ms /   267 tokens (   13.62 ms per token,    73.42 tokens per second)\nllama_perf_context_print:        eval time =     419.69 ms /     8 runs   (   52.46 ms per token,    19.06 tokens per second)\nllama_perf_context_print:       total time =    5380.89 ms /   275 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3631.51171875,
+    "memory_min_mb": 1.015625,
+    "memory_max_mb": 3631.51171875,
+    "memory_avg_mb": 3106.4035295758927,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.89,
+      "total_sampling_runs": 276,
+      "time_per_token_ms": 0.0032246376811594204,
+      "tokens_per_sec": 310112.3595505618
+    },
+    "load_time_ms": 4958.77,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3636.7,
+      "total_prompt_eval_tokens": 267,
+      "time_per_token_ms": 13.620599250936328,
+      "tokens_per_sec": 73.41820881568455
+    },
+    "eval_time": {
+      "total_eval_time_ms": 419.69,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 52.46125,
+      "tokens_per_sec": 19.06168838904906
+    },
+    "total_time_ms": 5380.89,
+    "total_tokens": 275,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 38,
+    "question": "Project Gemini helped recruit experienced people for which upcoming lunar missions?",
+    "gold_answers": [
+      "Apollo"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nMost of the novice pilots on the early missions would command the later missions. In this way, Project Gemini built up spaceflight experience for the pool of astronauts who would be chosen to fly the Apollo lunar missions.\n\nQuestion:\nProject Gemini helped recruit experienced people for which upcoming lunar missions?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Experienced astronauts.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.79 ms /   192 runs   (    0.00 ms per token, 243346.01 tokens per second)\nllama_perf_context_print:        load time =    4259.17 ms\nllama_perf_context_print: prompt eval time =    2894.13 ms /   184 tokens (   15.73 ms per token,    63.58 tokens per second)\nllama_perf_context_print:        eval time =     357.21 ms /     7 runs   (   51.03 ms per token,    19.60 tokens per second)\nllama_perf_context_print:       total time =    4618.47 ms /   191 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3620.91796875,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3620.91796875,
+    "memory_avg_mb": 2986.2920918367345,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.79,
+      "total_sampling_runs": 192,
+      "time_per_token_ms": 0.004114583333333334,
+      "tokens_per_sec": 243037.97468354428
+    },
+    "load_time_ms": 4259.17,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 2894.13,
+      "total_prompt_eval_tokens": 184,
+      "time_per_token_ms": 15.728967391304348,
+      "tokens_per_sec": 63.57696440726574
+    },
+    "eval_time": {
+      "total_eval_time_ms": 357.21,
+      "total_eval_tokens": 7,
+      "time_per_token_ms": 51.029999999999994,
+      "tokens_per_sec": 19.59631589261219
+    },
+    "total_time_ms": 4618.47,
+    "total_tokens": 191,
+    "graphs_reused": 6,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 39,
+    "question": "How many people live on Norfolk Island?",
+    "gold_answers": [
+      "1,796"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nNorfolk Island (i/ˈnɔːrfək ˈaɪlənd/; Norfuk: Norf'k Ailen) is a small island in the Pacific Ocean located between Australia, New Zealand and New Caledonia, 1,412 kilometres (877 mi) directly east of mainland Australia's Evans Head, and about 900 kilometres (560 mi) from Lord Howe Island. The island is part of the Commonwealth of Australia. Together with two neighbouring islands, it forms one of Australia's external territories. It has 1,796 inhabitants living on a total area of about 35 km2 (14 sq mi). Its capital is Kingston.\n\nQuestion:\nHow many people live on Norfolk Island?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "1,796",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.07 ms /   290 runs   (    0.00 ms per token, 271790.07 tokens per second)\nllama_perf_context_print:        load time =    5653.99 ms\nllama_perf_context_print: prompt eval time =    4305.46 ms /   281 tokens (   15.32 ms per token,    65.27 tokens per second)\nllama_perf_context_print:        eval time =     457.83 ms /     8 runs   (   57.23 ms per token,    17.47 tokens per second)\nllama_perf_context_print:       total time =    6114.21 ms /   289 tokens\nllama_perf_context_print:    graphs reused =          7",
+    "memory_usage_mb": 3633.8984375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3633.8984375,
+    "memory_avg_mb": 3175.2344990079364,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.07,
+      "total_sampling_runs": 290,
+      "time_per_token_ms": 0.0036896551724137933,
+      "tokens_per_sec": 271028.03738317755
+    },
+    "load_time_ms": 5653.99,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4305.46,
+      "total_prompt_eval_tokens": 281,
+      "time_per_token_ms": 15.321921708185053,
+      "tokens_per_sec": 65.26596461237591
+    },
+    "eval_time": {
+      "total_eval_time_ms": 457.83,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 57.22875,
+      "tokens_per_sec": 17.47373479239019
+    },
+    "total_time_ms": 6114.21,
+    "total_tokens": 289,
+    "graphs_reused": 7,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 40,
+    "question": "More people belong to what religion than any other in the Western world?",
+    "gold_answers": [
+      "Christianity"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nChristianity remains the dominant religion in the Western World, where 70% are Christians. A 2011 Pew Research Center survey found that 76.2% of Europeans, 73.3% in Oceania, and about 86.0% in the Americas (90% in Latin America and 77.4% in North America) described themselves as Christians.\n\nQuestion:\nMore people belong to what religion than any other in the Western world?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Christianity",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.16 ms /   227 runs   (    0.01 ms per token, 196536.80 tokens per second)\nllama_perf_context_print:        load time =    4313.90 ms\nllama_perf_context_print: prompt eval time =    2892.36 ms /   221 tokens (   13.09 ms per token,    76.41 tokens per second)\nllama_perf_context_print:        eval time =     306.85 ms /     5 runs   (   61.37 ms per token,    16.29 tokens per second)\nllama_perf_context_print:       total time =    4623.51 ms /   226 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3625.55078125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3625.55078125,
+    "memory_avg_mb": 3001.612109375,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.16,
+      "total_sampling_runs": 227,
+      "time_per_token_ms": 0.005110132158590308,
+      "tokens_per_sec": 195689.6551724138
+    },
+    "load_time_ms": 4313.9,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 2892.36,
+      "total_prompt_eval_tokens": 221,
+      "time_per_token_ms": 13.087601809954752,
+      "tokens_per_sec": 76.40819261779308
+    },
+    "eval_time": {
+      "total_eval_time_ms": 306.85,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 61.370000000000005,
+      "tokens_per_sec": 16.29460648525338
+    },
+    "total_time_ms": 4623.51,
+    "total_tokens": 226,
+    "graphs_reused": 4,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 41,
+    "question": "What is the National Portrait Gallery known for housing?",
+    "gold_answers": [
+      "depictions of figures from British history"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIn the latter half of the 19th century the locale of South Kensington was developed as \"Albertopolis\", a cultural and scientific quarter. Three major national museums are there: the Victoria and Albert Museum (for the applied arts), the Natural History Museum and the Science Museum. The National Portrait Gallery was founded in 1856 to house depictions of figures from British history; its holdings now comprise the world's most extensive collection of portraits. The national gallery of British art is at Tate Britain, originally established as an annexe of the National Gallery in 1897. The Tate Gallery, as it was formerly known, also became a major centre for modern art; in 2000 this collection moved to Tate Modern, a new gallery housed in the former Bankside Power Station.\n\nQuestion:\nWhat is the National Portrait Gallery known for housing?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "the world's most extensive collection of portraits.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       2.06 ms /   311 runs   (    0.01 ms per token, 151191.05 tokens per second)\nllama_perf_context_print:        load time =    5632.39 ms\nllama_perf_context_print: prompt eval time =    4189.94 ms /   297 tokens (   14.11 ms per token,    70.88 tokens per second)\nllama_perf_context_print:        eval time =     718.28 ms /    13 runs   (   55.25 ms per token,    18.10 tokens per second)\nllama_perf_context_print:       total time =    6355.74 ms /   310 tokens\nllama_perf_context_print:    graphs reused =         12",
+    "memory_usage_mb": 3635.99609375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3635.99609375,
+    "memory_avg_mb": 3157.218690814394,
+    "sampling_time": {
+      "total_sampling_time_ms": 2.06,
+      "total_sampling_runs": 311,
+      "time_per_token_ms": 0.0066237942122186495,
+      "tokens_per_sec": 150970.87378640776
+    },
+    "load_time_ms": 5632.39,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4189.94,
+      "total_prompt_eval_tokens": 297,
+      "time_per_token_ms": 14.107542087542086,
+      "tokens_per_sec": 70.88406993894901
+    },
+    "eval_time": {
+      "total_eval_time_ms": 718.28,
+      "total_eval_tokens": 13,
+      "time_per_token_ms": 55.25230769230769,
+      "tokens_per_sec": 18.098791557609847
+    },
+    "total_time_ms": 6355.74,
+    "total_tokens": 310,
+    "graphs_reused": 12,
+    "exact_match": 0,
+    "f1": 0.14285714285714288
+  },
+  {
+    "id": 42,
+    "question": "Killer Queen reached what number on the Billboard Hot 100?",
+    "gold_answers": [
+      "12"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe single \"Killer Queen\" from Sheer Heart Attack reached number two on the British charts, and became their first US hit, reaching number 12 on the Billboard Hot 100. It combines camp, vaudeville, and British music hall with May's guitar virtuosity. The album's second single, \"Now I'm Here\", a more traditional hard rock composition, was a number eleven hit in Britain, while the high speed rocker \"Stone Cold Crazy\" featuring May's uptempo riffs is a precursor to speed metal. In recent years, the album has received acclaim from music publications: In 2006, Classic Rock ranked it number 28 in \"The 100 Greatest British Rock Albums Ever\", and in 2007, Mojo ranked it No.88 in \"The 100 Records That Changed the World\". It is also the second of three Queen albums to feature in the book 1001 Albums You Must Hear Before You Die.\n\nQuestion:\nKiller Queen reached what number on the Billboard Hot 100?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "12",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.84 ms /   343 runs   (    0.00 ms per token, 408333.33 tokens per second)\nllama_perf_context_print:        load time =    6517.31 ms\nllama_perf_context_print: prompt eval time =    5014.71 ms /   336 tokens (   14.92 ms per token,    67.00 tokens per second)\nllama_perf_context_print:        eval time =     360.50 ms /     6 runs   (   60.08 ms per token,    16.64 tokens per second)\nllama_perf_context_print:       total time =    6880.07 ms /   342 tokens\nllama_perf_context_print:    graphs reused =          5",
+    "memory_usage_mb": 3640.58984375,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3640.58984375,
+    "memory_avg_mb": 3192.5731183978874,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.84,
+      "total_sampling_runs": 343,
+      "time_per_token_ms": 0.0024489795918367346,
+      "tokens_per_sec": 408333.3333333334
+    },
+    "load_time_ms": 6517.31,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 5014.71,
+      "total_prompt_eval_tokens": 336,
+      "time_per_token_ms": 14.924732142857144,
+      "tokens_per_sec": 67.0028775342941
+    },
+    "eval_time": {
+      "total_eval_time_ms": 360.5,
+      "total_eval_tokens": 6,
+      "time_per_token_ms": 60.083333333333336,
+      "tokens_per_sec": 16.643550624133148
+    },
+    "total_time_ms": 6880.07,
+    "total_tokens": 342,
+    "graphs_reused": 5,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 43,
+    "question": "What was the windmill used for?",
+    "gold_answers": [
+      "irrigation and farming"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nAdvances were made in irrigation and farming, using new technology such as the windmill. Crops such as almonds and citrus fruit were brought to Europe through al-Andalus, and sugar cultivation was gradually adopted by the Europeans. Arab merchants dominated trade in the Indian Ocean until the arrival of the Portuguese in the 16th century. Hormuz was an important center for this trade. There was also a dense network of trade routes in the Mediterranean, along which Muslim countries traded with each other and with European powers such as Venice, Genoa and Catalonia. The Silk Road crossing Central Asia passed through Muslim states between China and Europe.\n\nQuestion:\nWhat was the windmill used for?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The windmill was used for irrigation and farming.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.95 ms /   279 runs   (    0.01 ms per token, 142857.14 tokens per second)\nllama_perf_context_print:        load time =    5071.13 ms\nllama_perf_context_print: prompt eval time =    3641.31 ms /   264 tokens (   13.79 ms per token,    72.50 tokens per second)\nllama_perf_context_print:        eval time =     784.45 ms /    14 runs   (   56.03 ms per token,    17.85 tokens per second)\nllama_perf_context_print:       total time =    5859.71 ms /   278 tokens\nllama_perf_context_print:    graphs reused =         13",
+    "memory_usage_mb": 3631.7578125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3631.7578125,
+    "memory_avg_mb": 3158.1079021516393,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.95,
+      "total_sampling_runs": 279,
+      "time_per_token_ms": 0.006989247311827957,
+      "tokens_per_sec": 143076.9230769231
+    },
+    "load_time_ms": 5071.13,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3641.31,
+      "total_prompt_eval_tokens": 264,
+      "time_per_token_ms": 13.79284090909091,
+      "tokens_per_sec": 72.50137999785791
+    },
+    "eval_time": {
+      "total_eval_time_ms": 784.45,
+      "total_eval_tokens": 14,
+      "time_per_token_ms": 56.03214285714286,
+      "tokens_per_sec": 17.846899101281153
+    },
+    "total_time_ms": 5859.71,
+    "total_tokens": 278,
+    "graphs_reused": 13,
+    "exact_match": 0,
+    "f1": 0.5454545454545454
+  },
+  {
+    "id": 44,
+    "question": "What will cause the amount of homosexuality to vary?",
+    "gold_answers": [
+      "which component of sexual orientation is being assessed"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nOne of the uses for scales that assess sexual orientation is determining what the prevalence of different sexual orientations are within a population. Depending on subject's age, culture and sex, the prevalence rates of homosexuality vary depending on which component of sexual orientation is being assessed: sexual attraction, sexual behavior, or sexual identity. Assessing sexual attraction will yield the greatest prevalence of homosexuality in a population whereby the proportion of individuals indicating they are same sex attracted is two to three times greater than the proportion reporting same sex behavior or identify as gay, lesbian, or bisexual. Furthermore, reports of same sex behavior usually exceed those of gay, lesbian, or bisexual identification. The following chart demonstrates how widely the prevalence of homosexuality can vary depending on what age, location and component of sexual orientation is being assessed:\n\nQuestion:\nWhat will cause the amount of homosexuality to vary?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "age, culture, and sex.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.26 ms /   307 runs   (    0.00 ms per token, 244232.30 tokens per second)\nllama_perf_context_print:        load time =    5613.53 ms\nllama_perf_context_print: prompt eval time =    4172.06 ms /   295 tokens (   14.14 ms per token,    70.71 tokens per second)\nllama_perf_context_print:        eval time =     599.24 ms /    11 runs   (   54.48 ms per token,    18.36 tokens per second)\nllama_perf_context_print:       total time =    6215.99 ms /   306 tokens\nllama_perf_context_print:    graphs reused =         10",
+    "memory_usage_mb": 3635.96875,
+    "memory_min_mb": 1.015625,
+    "memory_max_mb": 3635.96875,
+    "memory_avg_mb": 3165.7875,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.26,
+      "total_sampling_runs": 307,
+      "time_per_token_ms": 0.004104234527687297,
+      "tokens_per_sec": 243650.79365079364
+    },
+    "load_time_ms": 5613.53,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4172.06,
+      "total_prompt_eval_tokens": 295,
+      "time_per_token_ms": 14.142576271186442,
+      "tokens_per_sec": 70.70847495002468
+    },
+    "eval_time": {
+      "total_eval_time_ms": 599.24,
+      "total_eval_tokens": 11,
+      "time_per_token_ms": 54.47636363636364,
+      "tokens_per_sec": 18.35658500767639
+    },
+    "total_time_ms": 6215.99,
+    "total_tokens": 306,
+    "graphs_reused": 10,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 45,
+    "question": "What automotive brands exist in Portugal?",
+    "gold_answers": [
+      "Volkswagen Autoeuropa and Peugeot Citroen"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nIndustry is diversified, ranging from automotive (Volkswagen Autoeuropa and Peugeot Citroen), aerospace (Embraer and OGMA), electronics and textiles, to food, chemicals, cement and wood pulp. Volkswagen Group's AutoEuropa motor vehicle assembly plant in Palmela is among the largest foreign direct investment projects in Portugal. Modern non-traditional technology-based industries, such as aerospace, biotechnology and information technology, have been developed in several locations across the country. Alverca, Covilhã, Évora, and Ponte de Sor are the main centres of the Portuguese aerospace industry, which is led by Brazil-based company Embraer and the Portuguese company OGMA. Following the turn of the 21st century, many major biotechnology and information technology industries have been founded, and are concentrated in the metropolitan areas of Lisbon, Porto, Braga, Coimbra and Aveiro.[citation needed]\n\nQuestion:\nWhat automotive brands exist in Portugal?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Volkswagen",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.68 ms /   332 runs   (    0.00 ms per token, 490398.82 tokens per second)\nllama_perf_context_print:        load time =    5843.75 ms\nllama_perf_context_print: prompt eval time =    4449.84 ms /   326 tokens (   13.65 ms per token,    73.26 tokens per second)\nllama_perf_context_print:        eval time =     270.46 ms /     5 runs   (   54.09 ms per token,    18.49 tokens per second)\nllama_perf_context_print:       total time =    6116.18 ms /   331 tokens\nllama_perf_context_print:    graphs reused =          4",
+    "memory_usage_mb": 3639.328125,
+    "memory_min_mb": 1.00390625,
+    "memory_max_mb": 3639.328125,
+    "memory_avg_mb": 3137.2024536132812,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.68,
+      "total_sampling_runs": 332,
+      "time_per_token_ms": 0.0020481927710843373,
+      "tokens_per_sec": 488235.29411764705
+    },
+    "load_time_ms": 5843.75,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4449.84,
+      "total_prompt_eval_tokens": 326,
+      "time_per_token_ms": 13.649815950920246,
+      "tokens_per_sec": 73.26106107185876
+    },
+    "eval_time": {
+      "total_eval_time_ms": 270.46,
+      "total_eval_tokens": 5,
+      "time_per_token_ms": 54.092,
+      "tokens_per_sec": 18.487022110478446
+    },
+    "total_time_ms": 6116.18,
+    "total_tokens": 331,
+    "graphs_reused": 4,
+    "exact_match": 0,
+    "f1": 0.33333333333333337
+  },
+  {
+    "id": 46,
+    "question": "What is the Chinese Muslim community called?",
+    "gold_answers": [
+      "gya kachee"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nMuslims have been living in Tibet since as early as the 8th or 9th century. In Tibetan cities, there are small communities of Muslims, known as Kachee (Kache), who trace their origin to immigrants from three main regions: Kashmir (Kachee Yul in ancient Tibetan), Ladakh and the Central Asian Turkic countries. Islamic influence in Tibet also came from Persia. After 1959 a group of Tibetan Muslims made a case for Indian nationality based on their historic roots to Kashmir and the Indian government declared all Tibetan Muslims Indian citizens later on that year. Other Muslim ethnic groups who have long inhabited Tibet include Hui, Salar, Dongxiang and Bonan. There is also a well established Chinese Muslim community (gya kachee), which traces its ancestry back to the Hui ethnic group of China.\n\nQuestion:\nWhat is the Chinese Muslim community called?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "gya kachee",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.35 ms /   321 runs   (    0.00 ms per token, 238307.35 tokens per second)\nllama_perf_context_print:        load time =    5822.82 ms\nllama_perf_context_print: prompt eval time =    4373.97 ms /   311 tokens (   14.06 ms per token,    71.10 tokens per second)\nllama_perf_context_print:        eval time =     508.28 ms /     9 runs   (   56.48 ms per token,    17.71 tokens per second)\nllama_perf_context_print:       total time =    6334.00 ms /   320 tokens\nllama_perf_context_print:    graphs reused =          8",
+    "memory_usage_mb": 3637.7578125,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3637.7578125,
+    "memory_avg_mb": 3146.648319128788,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.35,
+      "total_sampling_runs": 321,
+      "time_per_token_ms": 0.004205607476635514,
+      "tokens_per_sec": 237777.77777777775
+    },
+    "load_time_ms": 5822.82,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4373.97,
+      "total_prompt_eval_tokens": 311,
+      "time_per_token_ms": 14.06421221864952,
+      "tokens_per_sec": 71.10245383484569
+    },
+    "eval_time": {
+      "total_eval_time_ms": 508.28,
+      "total_eval_tokens": 9,
+      "time_per_token_ms": 56.47555555555555,
+      "tokens_per_sec": 17.706775792870072
+    },
+    "total_time_ms": 6334.0,
+    "total_tokens": 320,
+    "graphs_reused": 8,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 47,
+    "question": "How did the army get to the new anchorage location?",
+    "gold_answers": [
+      "the army proceeded overland."
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe troops were reembarked and moved to the Bay of St. Lunaire in Brittany where, on 3 September, they were landed to operate against St. Malo; however, this action proved impractical. Worsening weather forced the two armies to separate: the ships sailed for the safer anchorage of St. Cast, while the army proceeded overland. The tardiness of Bligh in moving his forces allowed a French force of 10,000 from Brest to catch up with him and open fire on the reembarkation troops. A rear-guard of 1,400 under General Dury held off the French while the rest of the army embarked. They could not be saved; 750, including Dury, were killed and the rest captured.\n\nQuestion:\nHow did the army get to the new anchorage location?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The army proceeded overland.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.12 ms /   310 runs   (    0.00 ms per token, 277280.86 tokens per second)\nllama_perf_context_print:        load time =    5070.39 ms\nllama_perf_context_print: prompt eval time =    3708.71 ms /   299 tokens (   12.40 ms per token,    80.62 tokens per second)\nllama_perf_context_print:        eval time =     505.37 ms /    10 runs   (   50.54 ms per token,    19.79 tokens per second)\nllama_perf_context_print:       total time =    5578.63 ms /   309 tokens\nllama_perf_context_print:    graphs reused =          9",
+    "memory_usage_mb": 3636.5390625,
+    "memory_min_mb": 0.0078125,
+    "memory_max_mb": 3636.5390625,
+    "memory_avg_mb": 3158.4711745689656,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.12,
+      "total_sampling_runs": 310,
+      "time_per_token_ms": 0.003612903225806452,
+      "tokens_per_sec": 276785.71428571426
+    },
+    "load_time_ms": 5070.39,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 3708.71,
+      "total_prompt_eval_tokens": 299,
+      "time_per_token_ms": 12.40371237458194,
+      "tokens_per_sec": 80.62102456110075
+    },
+    "eval_time": {
+      "total_eval_time_ms": 505.37,
+      "total_eval_tokens": 10,
+      "time_per_token_ms": 50.537,
+      "tokens_per_sec": 19.787482438609334
+    },
+    "total_time_ms": 5578.63,
+    "total_tokens": 309,
+    "graphs_reused": 9,
+    "exact_match": 1,
+    "f1": 1.0
+  },
+  {
+    "id": 48,
+    "question": "Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",
+    "gold_answers": [
+      "Connie Francis"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nInitially, the vocalists consisted of artists such as Frank Sinatra, Doris Day, Johnny Mathis, Connie Francis, Nat King Cole, Perry Como, and others. The custom recordings were usually instrumental versions of current or recent rock and roll or pop hit songs, a move intended to give the stations more mass appeal without selling out. Some stations would also occasionally play earlier big band-era recordings from the 1940s and early 1950s.\n\nQuestion:\nAlong with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "Perry Como",
+    "stderr": "llama_perf_sampler_print:    sampling time =       0.93 ms /   261 runs   (    0.00 ms per token, 281553.40 tokens per second)\nllama_perf_context_print:        load time =    4271.57 ms\nllama_perf_context_print: prompt eval time =    2922.44 ms /   252 tokens (   11.60 ms per token,    86.23 tokens per second)\nllama_perf_context_print:        eval time =     420.05 ms /     8 runs   (   52.51 ms per token,    19.05 tokens per second)\nllama_perf_context_print:       total time =    4693.80 ms /   260 tokens\nllama_perf_context_print:    graphs reused =          6",
+    "memory_usage_mb": 3629.76953125,
+    "memory_min_mb": 1.03125,
+    "memory_max_mb": 3629.76953125,
+    "memory_avg_mb": 3076.954400510204,
+    "sampling_time": {
+      "total_sampling_time_ms": 0.93,
+      "total_sampling_runs": 261,
+      "time_per_token_ms": 0.003563218390804598,
+      "tokens_per_sec": 280645.16129032255
+    },
+    "load_time_ms": 4271.57,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 2922.44,
+      "total_prompt_eval_tokens": 252,
+      "time_per_token_ms": 11.596984126984127,
+      "tokens_per_sec": 86.22931522973953
+    },
+    "eval_time": {
+      "total_eval_time_ms": 420.05,
+      "total_eval_tokens": 8,
+      "time_per_token_ms": 52.50625,
+      "tokens_per_sec": 19.04535174384002
+    },
+    "total_time_ms": 4693.8,
+    "total_tokens": 260,
+    "graphs_reused": 6,
+    "exact_match": 0,
+    "f1": 0.0
+  },
+  {
+    "id": 49,
+    "question": "Where is the House of the Black Madonna located? ",
+    "gold_answers": [
+      "Old Town of Prague"
+    ],
+    "prompt": "<|start_header_id|>system<|end_header_id|>\n\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER*** followed immediately by the short answer. Do not include commentary before that marker.\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nThe following passage and question are from the SQuAD benchmark.\nReturn only the answer span from the context and begin with ***ANSWER***.\n\nContext:\nThe leading Cubist architects were Pavel Janák, Josef Gočár, Vlastislav Hofman, Emil Králíček and Josef Chochol. They worked mostly in Prague but also in other Bohemian towns. The best-known Cubist building is the House of the Black Madonna in the Old Town of Prague built in 1912 by Josef Gočár with the only Cubist café in the world, Grand Café Orient. Vlastislav Hofman built the entrance pavilions of Ďáblice Cemetery in 1912–1914, Josef Chochol designed several residential houses under Vyšehrad. A Cubist streetlamp has also been preserved near the Wenceslas Square, designed by Emil Králíček in 1912, who also built the Diamond House in the New Town of Prague around 1913.\n\nQuestion:\nWhere is the House of the Black Madonna located?\n<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+    "model_answer": "The House of the Black Madonna is located in the Old Town of Prague.",
+    "stderr": "llama_perf_sampler_print:    sampling time =       1.91 ms /   331 runs   (    0.01 ms per token, 173480.08 tokens per second)\nllama_perf_context_print:        load time =    5754.25 ms\nllama_perf_context_print: prompt eval time =    4382.37 ms /   311 tokens (   14.09 ms per token,    70.97 tokens per second)\nllama_perf_context_print:        eval time =    1951.68 ms /    19 runs   (  102.72 ms per token,     9.74 tokens per second)\nllama_perf_context_print:       total time =    7710.97 ms /   330 tokens\nllama_perf_context_print:    graphs reused =         18",
+    "memory_usage_mb": 3637.91015625,
+    "memory_min_mb": 1.1171875,
+    "memory_max_mb": 3637.91015625,
+    "memory_avg_mb": 3279.6415150316457,
+    "sampling_time": {
+      "total_sampling_time_ms": 1.91,
+      "total_sampling_runs": 331,
+      "time_per_token_ms": 0.005770392749244712,
+      "tokens_per_sec": 173298.42931937173
+    },
+    "load_time_ms": 5754.25,
+    "prompt_eval_time": {
+      "total_prompt_eval_time_ms": 4382.37,
+      "total_prompt_eval_tokens": 311,
+      "time_per_token_ms": 14.091221864951768,
+      "tokens_per_sec": 70.96616670888127
+    },
+    "eval_time": {
+      "total_eval_time_ms": 1951.68,
+      "total_eval_tokens": 19,
+      "time_per_token_ms": 102.72,
+      "tokens_per_sec": 9.735202492211839
+    },
+    "total_time_ms": 7710.97,
+    "total_tokens": 330,
+    "graphs_reused": 18,
+    "exact_match": 0,
+    "f1": 0.4444444444444445
+  }
+]

@@ -1,0 +1,512 @@
+{
+  "overall": {
+    "exact_match": 0.5,
+    "f1": 0.6848193037898919,
+    "question_count": 50
+  },
+  "per_question": [
+    {
+      "id": 0,
+      "question": "What group's burial practices over-lapped with the Roman's?",
+      "model_answer": "Christian and non-Christians",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 1,
+      "question": "what were the hydrogen lifted airships called?",
+      "model_answer": "Zeppelins",
+      "gold_answers": [
+        "Zeppelins"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 2,
+      "question": "How many people were killed as a result?",
+      "model_answer": "69,197",
+      "gold_answers": [
+        "69,197"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 3,
+      "question": "How long does sensory memory take to store information?",
+      "model_answer": "less than one second",
+      "gold_answers": [
+        "less than one second"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 4,
+      "question": "Through 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?",
+      "model_answer": "56 percent",
+      "gold_answers": [
+        "56"
+      ],
+      "exact_match": 0,
+      "f1": 0.6666666666666666
+    },
+    {
+      "id": 5,
+      "question": "What South African city participated in the first public video-conference?",
+      "model_answer": "Cape Town",
+      "gold_answers": [
+        "Cape Town"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 6,
+      "question": "Lebanese people of what religion sometimes consider Lebanese to be a distinct language?",
+      "model_answer": "Christian",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 7,
+      "question": "What movie won the 1930 Academy Award for Best Picture?",
+      "model_answer": "All Quiet on the Western Front (1930)",
+      "gold_answers": [
+        "All Quiet on the Western Front"
+      ],
+      "exact_match": 0,
+      "f1": 0.923076923076923
+    },
+    {
+      "id": 8,
+      "question": "What are the only Spielberg films since Sugarland Express to not have music by John Williams?",
+      "model_answer": "Bridge of Spies, The Color Purple and Twilight Zone: The Movie",
+      "gold_answers": [
+        "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 9,
+      "question": "Which member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?",
+      "model_answer": "Peter Pilz",
+      "gold_answers": [
+        "Peter Pilz"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 10,
+      "question": "What did English players do after the ban?",
+      "model_answer": "Several top English players had moved abroad.",
+      "gold_answers": [
+        "moved abroad"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445
+    },
+    {
+      "id": 11,
+      "question": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?",
+      "model_answer": "soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation",
+      "gold_answers": [
+        "tenets of Baptist churches"
+      ],
+      "exact_match": 0,
+      "f1": 0.07407407407407408
+    },
+    {
+      "id": 12,
+      "question": "What percentage of the New York City population is Japanese?",
+      "model_answer": "0.3%",
+      "gold_answers": [
+        "0.3%"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 13,
+      "question": "When did the English army start to retreat and evacuate NYC during the Battle of Long Island?",
+      "model_answer": "At the close of the war in 1783",
+      "gold_answers": [
+        "1783"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222
+    },
+    {
+      "id": 14,
+      "question": "Aside from human beings, what creature's needs were traditionally seen to at inns?",
+      "model_answer": "The traveller's horse(s)",
+      "gold_answers": [
+        "horses"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 15,
+      "question": "How many fans were in attendance during Everton's match against Liverpool on September 18, 1948?",
+      "model_answer": "78,299",
+      "gold_answers": [
+        "78,299"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 16,
+      "question": "What organization did General Ashcroft assign to lead organization in terrorism investigations?",
+      "model_answer": "The FBI",
+      "gold_answers": [
+        "FBI"
+      ],
+      "exact_match": 0,
+      "f1": 0.6666666666666666
+    },
+    {
+      "id": 17,
+      "question": "What did Uesugi encourage?",
+      "model_answer": "Go to the battlefield firmly confident of victory",
+      "gold_answers": [
+        "the \"way of the warrior as death\""
+      ],
+      "exact_match": 0,
+      "f1": 0.26666666666666666
+    },
+    {
+      "id": 18,
+      "question": "What type of climate is San Diego classified as having?",
+      "model_answer": "San Diego has been variously categorized as having either a semi-arid climate (BSh in the original classification and BSkn in modified Köppen classification) or a Mediterranean climate (Csa and Csb).",
+      "gold_answers": [
+        "semi-arid climate"
+      ],
+      "exact_match": 0,
+      "f1": 0.17142857142857143
+    },
+    {
+      "id": 19,
+      "question": "How many pigs died in Sichuan?",
+      "model_answer": "A million pigs died in Sichuan.",
+      "gold_answers": [
+        "1 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.25
+    },
+    {
+      "id": 20,
+      "question": "Which Minister could a conscripted soldier expect to serve under during his year of service?",
+      "model_answer": "The Minister of the Guards",
+      "gold_answers": [
+        "Minister of the Guards"
+      ],
+      "exact_match": 0,
+      "f1": 0.888888888888889
+    },
+    {
+      "id": 21,
+      "question": "Orozco's army was called by what name?",
+      "model_answer": "Orozquistas—also called the Colorados (\"Red Flaggers\")",
+      "gold_answers": [
+        "Orozquistas"
+      ],
+      "exact_match": 0,
+      "f1": 0.25
+    },
+    {
+      "id": 22,
+      "question": "Where were the 1952 Olympics held?",
+      "model_answer": "Helsinki",
+      "gold_answers": [
+        "Helsinki"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 23,
+      "question": "Which studio produced 'Super 8'?",
+      "model_answer": "Paramount Pictures",
+      "gold_answers": [
+        "Paramount Pictures"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 24,
+      "question": "Who is an example of someone that states that affirmative action is another form of discrimination?",
+      "model_answer": "Ward Connerly",
+      "gold_answers": [
+        "Ward Connerly"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 25,
+      "question": "Who developed EMALS?",
+      "model_answer": "General Atomics",
+      "gold_answers": [
+        "General Atomics"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 26,
+      "question": "What are two reasons for which Galicia's rural areas have been largely abandoned?",
+      "model_answer": "Economic development and mechanization of agriculture resulted in the fields being abandoned, and most of the population has moving to find jobs in the main cities.",
+      "gold_answers": [
+        "Economic development and mechanization of agriculture"
+      ],
+      "exact_match": 0,
+      "f1": 0.375
+    },
+    {
+      "id": 27,
+      "question": "What do the hole walls in two-layer PCBs have to be before they can be electroplated?",
+      "model_answer": "They can be made conductive",
+      "gold_answers": [
+        "conductive"
+      ],
+      "exact_match": 0,
+      "f1": 0.33333333333333337
+    },
+    {
+      "id": 28,
+      "question": "What is Amphetamine's market name?",
+      "model_answer": "Salvarsan",
+      "gold_answers": [
+        "Institute of Experimental Therapy"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 29,
+      "question": "When did Beyonce first make the Time 100 List?",
+      "model_answer": "In 2013, Beyoncé made the Time 100 list.",
+      "gold_answers": [
+        "2013"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222
+    },
+    {
+      "id": 30,
+      "question": "Who proposed an evolutionary concept of the gene as a unit of natural selection?",
+      "model_answer": "George C. Williams",
+      "gold_answers": [
+        "George C. Williams"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 31,
+      "question": "How many Baptists registered for the meeting in Atlanta?",
+      "model_answer": "More than 20,000 Southern Baptists registered for the meeting in Atlanta.",
+      "gold_answers": [
+        "More than 20,000"
+      ],
+      "exact_match": 0,
+      "f1": 0.5
+    },
+    {
+      "id": 32,
+      "question": "Which former CBS News correspondent graduated from BYU?",
+      "model_answer": "Art Rascon",
+      "gold_answers": [
+        "Art Rascon"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 33,
+      "question": "As an inhaler, what was epinephrine used to treat?",
+      "model_answer": "nasal congestion",
+      "gold_answers": [
+        "nasal congestion"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 34,
+      "question": "What significantly increased the magnates wealth?",
+      "model_answer": "Gifts from monarchs.",
+      "gold_answers": [
+        "Magnates"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 35,
+      "question": "Along with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?",
+      "model_answer": "René Descartes, Niccolò Machiavelli, and David Hume",
+      "gold_answers": [
+        "Baruch Spinoza"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 36,
+      "question": "In addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?",
+      "model_answer": "The Long Wharf Theatre, and the Shubert Theatre",
+      "gold_answers": [
+        "Long Wharf Theatre, and the Shubert Theatre"
+      ],
+      "exact_match": 0,
+      "f1": 0.9333333333333333
+    },
+    {
+      "id": 37,
+      "question": "What geographical feature separated Universal City Studios from Hollywood?",
+      "model_answer": "Cahuenga Pass",
+      "gold_answers": [
+        "Cahuenga Pass"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 38,
+      "question": "Project Gemini helped recruit experienced people for which upcoming lunar missions?",
+      "model_answer": "Apollo lunar missions",
+      "gold_answers": [
+        "Apollo"
+      ],
+      "exact_match": 0,
+      "f1": 0.5
+    },
+    {
+      "id": 39,
+      "question": "How many people live on Norfolk Island?",
+      "model_answer": "1,796",
+      "gold_answers": [
+        "1,796"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 40,
+      "question": "More people belong to what religion than any other in the Western world?",
+      "model_answer": "Christianity",
+      "gold_answers": [
+        "Christianity"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 41,
+      "question": "What is the National Portrait Gallery known for housing?",
+      "model_answer": "depictions of figures from British history",
+      "gold_answers": [
+        "depictions of figures from British history"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 42,
+      "question": "Killer Queen reached what number on the Billboard Hot 100?",
+      "model_answer": "12",
+      "gold_answers": [
+        "12"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 43,
+      "question": "What was the windmill used for?",
+      "model_answer": "Advances were made in irrigation and farming, using new technology such as the windmill.",
+      "gold_answers": [
+        "irrigation and farming"
+      ],
+      "exact_match": 0,
+      "f1": 0.35294117647058826
+    },
+    {
+      "id": 44,
+      "question": "What will cause the amount of homosexuality to vary?",
+      "model_answer": "Depending on subject's age, culture and sex",
+      "gold_answers": [
+        "which component of sexual orientation is being assessed"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 45,
+      "question": "What automotive brands exist in Portugal?",
+      "model_answer": "Volkswagen Autoeuropa and Peugeot Citroen",
+      "gold_answers": [
+        "Volkswagen Autoeuropa and Peugeot Citroen"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 46,
+      "question": "What is the Chinese Muslim community called?",
+      "model_answer": "gya kachee",
+      "gold_answers": [
+        "gya kachee"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 47,
+      "question": "How did the army get to the new anchorage location?",
+      "model_answer": "The army proceeded overland.",
+      "gold_answers": [
+        "the army proceeded overland."
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 48,
+      "question": "Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",
+      "model_answer": "Connie Francis",
+      "gold_answers": [
+        "Connie Francis"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 49,
+      "question": "Where is the House of the Black Madonna located? ",
+      "model_answer": "In the Old Town of Prague",
+      "gold_answers": [
+        "Old Town of Prague"
+      ],
+      "exact_match": 0,
+      "f1": 0.8
+    }
+  ],
+  "model_directory": "gemma3-4b",
+  "source_file": "parsed_outputs_gemma-3-4b-it.Q4_K_M.gguf.json",
+  "root": "/home/bonda/Documents/ESW/final-codes/gemma3-4b"
+}

@@ -1,0 +1,512 @@
+{
+  "overall": {
+    "exact_match": 0.28,
+    "f1": 0.4064379487093673,
+    "question_count": 50
+  },
+  "per_question": [
+    {
+      "id": 0,
+      "question": "What group's burial practices over-lapped with the Roman's?",
+      "model_answer": "Christian and non-Christian",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 1,
+      "question": "what were the hydrogen lifted airships called?",
+      "model_answer": "Zeppelins",
+      "gold_answers": [
+        "Zeppelins"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 2,
+      "question": "How many people were killed as a result?",
+      "model_answer": "69,197",
+      "gold_answers": [
+        "69,197"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 3,
+      "question": "How long does sensory memory take to store information?",
+      "model_answer": ": less than one second.",
+      "gold_answers": [
+        "less than one second"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 4,
+      "question": "Through 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?",
+      "model_answer": "56%",
+      "gold_answers": [
+        "56"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 5,
+      "question": "What South African city participated in the first public video-conference?",
+      "model_answer": "Cape Town",
+      "gold_answers": [
+        "Cape Town"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 6,
+      "question": "Lebanese people of what religion sometimes consider Lebanese to be a distinct language?",
+      "model_answer": ".\n\nContext:\nIn Lebanon, a part of the Christian population considers \"Lebanese\" to be in some sense a distinct language from Arabic and not merely a dialect. During the civil war Christians often used Lebanese Arabic officially, and sporadically used the Latin script to write Lebanese, thus further distinguishing it from Arabic. All Lebanese laws are written in the standard literary form of Arabic, though parliamentary debate may be conducted in Lebanese Arabic.\n\nQuestion:\nLebanese people of what religion sometimes consider Lebanese to be a distinct language?\nassistant",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.022727272727272724
+    },
+    {
+      "id": 7,
+      "question": "What movie won the 1930 Academy Award for Best Picture?",
+      "model_answer": "King of Jazz",
+      "gold_answers": [
+        "All Quiet on the Western Front"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 8,
+      "question": "What are the only Spielberg films since Sugarland Express to not have music by John Williams?",
+      "model_answer": "The only Spielberg films since Sugarland Express to not have music by John Williams are: Saving Private Ryan, The Color Purple, and Indiana Jones and the Last Crusade.",
+      "gold_answers": [
+        "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
+      ],
+      "exact_match": 0,
+      "f1": 0.25641025641025644
+    },
+    {
+      "id": 9,
+      "question": "Which member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?",
+      "model_answer": "Peter Pilz",
+      "gold_answers": [
+        "Peter Pilz"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 10,
+      "question": "What did English players do after the ban?",
+      "model_answer": ".\n\nContext:\nDespite significant European success during the 1970s and early 1980s, the late '80s had marked a low point for English football. Stadiums were crumbling, supporters endured poor facilities, hooliganism was rife, and English clubs were banned from European competition for five years following the Heysel Stadium disaster in 1985. The Football League First Division, which had been the top level of English football since 1888, was well behind leagues such as Italy's Serie A and Spain's La Liga in attendances and revenues, and several top English players had moved abroad.\n\nQuestion:\nWhat did English players do after the ban?\nassistant",
+      "gold_answers": [
+        "moved abroad"
+      ],
+      "exact_match": 0,
+      "f1": 0.03809523809523809
+    },
+    {
+      "id": 11,
+      "question": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?",
+      "model_answer": "1. Baptists recognize two ministerial offices, elders and deacons.",
+      "gold_answers": [
+        "tenets of Baptist churches"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 12,
+      "question": "What percentage of the New York City population is Japanese?",
+      "model_answer": ".\n\nContext:\nAsian Americans in New York City, according to the 2010 Census, number more than one million, greater than the combined totals of San Francisco and Los Angeles. New York contains the highest total Asian population of any U.S. city proper. The New York City borough of Queens is home to the state's largest Asian American population and the largest Andean (Colombian, Ecuadorian, Peruvian, and Bolivian) populations in the United States, and is also the most ethnically diverse urban area in the world. The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown (紐約華埠), in Brooklyn (布鲁克林華埠), and around Flushing, Queens (法拉盛華埠), are thriving as traditionally urban enclaves, while also expanding rapidly eastward into suburban Nassau County (拿騷縣) on Long Island (長島), as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas. In 2012, 6.3% of New York City was of Chinese ethnicity, with nearly three-fourths living in either Queens or Brooklyn, geographically on Long Island. A community numbering 20,000 Korean-Chinese (Chaoxianzu (Chinese: 朝鲜族) or Joseonjok (Hangul: 조선족)) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens. Koreans made up 1.2% of the city's population, and Japanese 0.3%. Filipinos were the largest Southeast Asian ethnic group at 0.8%, followed by Vietnamese, who made up 0.2% of New York City's population in 2010. Indians are the largest South Asian group, comprising 2.4% of the city's population, with Bangladeshis and Pakistanis at 0.7% and 0.5%, respectively. Queens is the preferred borough of settlement for Asian Indians, Koreans, and Filipinos, as well as Malaysians and other Southeast Asians; while Brooklyn is receiving large numbers of both West Indian as well as Asian Indian immigrants.\n\nQuestion:\nWhat percentage of the New York City population is Japanese?\nassistant\n\n***0.3%***",
+      "gold_answers": [
+        "0.3%"
+      ],
+      "exact_match": 0,
+      "f1": 0.011594202898550725
+    },
+    {
+      "id": 13,
+      "question": "When did the English army start to retreat and evacuate NYC during the Battle of Long Island?",
+      "model_answer": "1783",
+      "gold_answers": [
+        "1783"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 14,
+      "question": "Aside from human beings, what creature's needs were traditionally seen to at inns?",
+      "model_answer": "Stabling.",
+      "gold_answers": [
+        "horses"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 15,
+      "question": "How many fans were in attendance during Everton's match against Liverpool on September 18, 1948?",
+      "model_answer": "78,299",
+      "gold_answers": [
+        "78,299"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 16,
+      "question": "What organization did General Ashcroft assign to lead organization in terrorism investigations?",
+      "model_answer": "The U.S. Department of Homeland Security.",
+      "gold_answers": [
+        "FBI"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 17,
+      "question": "What did Uesugi encourage?",
+      "model_answer": "Those who are reluctant to give up their lives and embrace death are not true warriors....",
+      "gold_answers": [
+        "the \"way of the warrior as death\""
+      ],
+      "exact_match": 0,
+      "f1": 0.08695652173913043
+    },
+    {
+      "id": 18,
+      "question": "What type of climate is San Diego classified as having?",
+      "model_answer": "Mediterranean",
+      "gold_answers": [
+        "semi-arid climate"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 19,
+      "question": "How many pigs died in Sichuan?",
+      "model_answer": "1,000,000",
+      "gold_answers": [
+        "1 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 20,
+      "question": "Which Minister could a conscripted soldier expect to serve under during his year of service?",
+      "model_answer": ": The Minister of the Guards",
+      "gold_answers": [
+        "Minister of the Guards"
+      ],
+      "exact_match": 0,
+      "f1": 0.888888888888889
+    },
+    {
+      "id": 21,
+      "question": "Orozco's army was called by what name?",
+      "model_answer": "Orozco's army was called the Colorados.",
+      "gold_answers": [
+        "Orozquistas"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 22,
+      "question": "Where were the 1952 Olympics held?",
+      "model_answer": "Helsinki",
+      "gold_answers": [
+        "Helsinki"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 23,
+      "question": "Which studio produced 'Super 8'?",
+      "model_answer": "Paramount Pictures",
+      "gold_answers": [
+        "Paramount Pictures"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 24,
+      "question": "Who is an example of someone that states that affirmative action is another form of discrimination?",
+      "model_answer": ".\n\nContext:\nSome commentators have defined reverse discrimination as a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority.[non-primary source needed] Many argue that reverse discrimination results from affirmative action policies and that these policies are just another form of discrimination no different from examples in the past. People like Ward Connerly assert that affirmative action requires the very discrimination it is seeking to eliminate. According to these opponents, this contradiction might make affirmative action counter-productive. One argument for reverse discrimination is the idea that affirmative action encourages mediocrity and incompetence. Job positions would not be offered to the applicants who are the most qualified, but to applicants with a special trait such as a certain race, ethnicity, or gender. For example, opponents say affirmative action causes unprepared applicants to be accepted in highly demanding educational institutions or jobs which result in eventual failure (see, for example, Richard Sander's study of affirmative action in Law School, bar exam and eventual performance at law firms). Other opponents say that affirmative action lowers the bar and so denies those who strive for excellence on their own merit and the sense of real achievement. Opponents of affirmative action suggest that merit should be the primary factor considered in applying for job positions, college, graduate school, etc.\n\nQuestion:\nWho is an example of someone that states that affirmative action is another form of discrimination?\nassistant\n\nRichard Sander",
+      "gold_answers": [
+        "Ward Connerly"
+      ],
+      "exact_match": 0,
+      "f1": 0.016
+    },
+    {
+      "id": 25,
+      "question": "Who developed EMALS?",
+      "model_answer": "General Atomics",
+      "gold_answers": [
+        "General Atomics"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 26,
+      "question": "What are two reasons for which Galicia's rural areas have been largely abandoned?",
+      "model_answer": "1. The rapid increase of population in rural areas, particularly in Galicia, during the years following the Spanish Civil War.\n2. Economic development and mechanization of agriculture, resulting in the fields being abandoned.",
+      "gold_answers": [
+        "Economic development and mechanization of agriculture"
+      ],
+      "exact_match": 0,
+      "f1": 0.3076923076923077
+    },
+    {
+      "id": 27,
+      "question": "What do the hole walls in two-layer PCBs have to be before they can be electroplated?",
+      "model_answer": "The hole walls in two-layer PCBs have to be free of the high temperature decomposition products of the bonding agent in the laminate system.",
+      "gold_answers": [
+        "conductive"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 28,
+      "question": "What is Amphetamine's market name?",
+      "model_answer": "Methamphetamine",
+      "gold_answers": [
+        "Institute of Experimental Therapy"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 29,
+      "question": "When did Beyonce first make the Time 100 List?",
+      "model_answer": ".\n\nContext:\nIn The New Yorker music critic Jody Rosen described Beyoncé as \"the most important and compelling popular musician of the twenty-first century..... the result, the logical end point, of a century-plus of pop.\" When The Guardian named her Artist of the Decade, Llewyn-Smith wrote, \"Why Beyoncé? [...] Because she made not one but two of the decade's greatest singles, with Crazy in Love and Single Ladies (Put a Ring on It), not to mention her hits with Destiny's Child; and this was the decade when singles – particularly R&B singles – regained their status as pop's favourite medium. [...] [She] and not any superannuated rock star was arguably the greatest live performer of the past 10 years.\" In 2013, Beyoncé made the Time 100 list, Baz Luhrmann writing \"no one has that voice, no one moves the way she moves, no one can hold an audience the way she does... When Beyoncé does an album, when Beyoncé sings a song, when Beyoncé does anything, it's an event, and it's broadly influential. Right now, she is the heir-apparent diva of the USA — the reigning national voice.\" In 2014, Beyoncé was listed again on the Time 100 and also featured on the cover of the issue.\n\nQuestion:\nWhen did Beyonce first make the Time 100 List?\nassistant\n\n2013",
+      "gold_answers": [
+        "2013"
+      ],
+      "exact_match": 0,
+      "f1": 0.008928571428571428
+    },
+    {
+      "id": 30,
+      "question": "Who proposed an evolutionary concept of the gene as a unit of natural selection?",
+      "model_answer": ": George C. Williams",
+      "gold_answers": [
+        "George C. Williams"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 31,
+      "question": "How many Baptists registered for the meeting in Atlanta?",
+      "model_answer": "20,000",
+      "gold_answers": [
+        "More than 20,000"
+      ],
+      "exact_match": 0,
+      "f1": 0.6666666666666666
+    },
+    {
+      "id": 32,
+      "question": "Which former CBS News correspondent graduated from BYU?",
+      "model_answer": "Elizabeth Smart-Gilmour",
+      "gold_answers": [
+        "Art Rascon"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 33,
+      "question": "As an inhaler, what was epinephrine used to treat?",
+      "model_answer": ".\n\nContext:\nBy the 1890s the profound effect of adrenal extracts on many different tissue types had been discovered, setting off a search both for the mechanism of chemical signalling and efforts to exploit these observations for the development of new drugs. The blood pressure raising and vasoconstrictive effects of adrenal extracts were of particular interest to surgeons as hemostatic agents and as treatment for shock, and a number of companies developed products based on adrenal extracts containing varying purities of the active substance. In 1897 John Abel of Johns Hopkins University identified the active principle as epinephrine, which he isolated in an impure state as the sulfate salt. Industrial chemist Jokichi Takamine later developed a method for obtaining epinephrine in a pure state, and licensed the technology to Parke Davis. Parke Davis marketed epinephrine under the trade name Adrenalin. Injected epinephrine proved to be especially efficacious for the acute treatment of asthma attacks, and an inhaled version was sold in the United States until 2011 (Primatene Mist). By 1929 epinephrine had been formulated into an inhaler for use in the treatment of nasal congestion.\n\nQuestion:\nAs an inhaler, what was epinephrine used to treat?\nassistant",
+      "gold_answers": [
+        "nasal congestion"
+      ],
+      "exact_match": 0,
+      "f1": 0.020304568527918784
+    },
+    {
+      "id": 34,
+      "question": "What significantly increased the magnates wealth?",
+      "model_answer": "The gifts received from monarchs significantly increased the magnates' wealth.",
+      "gold_answers": [
+        "Magnates"
+      ],
+      "exact_match": 0,
+      "f1": 0.18181818181818182
+    },
+    {
+      "id": 35,
+      "question": "Along with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?",
+      "model_answer": "René Descartes",
+      "gold_answers": [
+        "Baruch Spinoza"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 36,
+      "question": "In addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?",
+      "model_answer": "1. The Shubert Theatre\n2. The Yale Cabaret",
+      "gold_answers": [
+        "Long Wharf Theatre, and the Shubert Theatre"
+      ],
+      "exact_match": 0,
+      "f1": 0.39999999999999997
+    },
+    {
+      "id": 37,
+      "question": "What geographical feature separated Universal City Studios from Hollywood?",
+      "model_answer": "The Cahuenga Pass",
+      "gold_answers": [
+        "Cahuenga Pass"
+      ],
+      "exact_match": 0,
+      "f1": 0.8
+    },
+    {
+      "id": 38,
+      "question": "Project Gemini helped recruit experienced people for which upcoming lunar missions?",
+      "model_answer": ": Project Gemini helped recruit experienced people for the Apollo lunar missions.",
+      "gold_answers": [
+        "Apollo"
+      ],
+      "exact_match": 0,
+      "f1": 0.16666666666666669
+    },
+    {
+      "id": 39,
+      "question": "How many people live on Norfolk Island?",
+      "model_answer": "1,796",
+      "gold_answers": [
+        "1,796"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 40,
+      "question": "More people belong to what religion than any other in the Western world?",
+      "model_answer": ".\n\nContext:\nChristianity remains the dominant religion in the Western World, where 70% are Christians. A 2011 Pew Research Center survey found that 76.2% of Europeans, 73.3% in Oceania, and about 86.0% in the Americas (90% in Latin America and 77.4% in North America) described themselves as Christians.\n\nQuestion:\nMore people belong to what religion than any other in the Western world?\nassistant",
+      "gold_answers": [
+        "Christianity"
+      ],
+      "exact_match": 0,
+      "f1": 0.02985074626865672
+    },
+    {
+      "id": 41,
+      "question": "What is the National Portrait Gallery known for housing?",
+      "model_answer": "The National Portrait Gallery is known for housing the world's most extensive collection of portraits.",
+      "gold_answers": [
+        "depictions of figures from British history"
+      ],
+      "exact_match": 0,
+      "f1": 0.09090909090909091
+    },
+    {
+      "id": 42,
+      "question": "Killer Queen reached what number on the Billboard Hot 100?",
+      "model_answer": "2",
+      "gold_answers": [
+        "12"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 43,
+      "question": "What was the windmill used for?",
+      "model_answer": ".\n\nContext:\nAdvances were made in irrigation and farming, using new technology such as the windmill. Crops such as almonds and citrus fruit were brought to Europe through al-Andalus, and sugar cultivation was gradually adopted by the Europeans. Arab merchants dominated trade in the Indian Ocean until the arrival of the Portuguese in the 16th century. Hormuz was an important center for this trade. There was also a dense network of trade routes in the Mediterranean, along which Muslim countries traded with each other and with European powers such as Venice, Genoa and Catalonia. The Silk Road crossing Central Asia passed through Muslim states between China and Europe.\n\nQuestion:\nWhat was the windmill used for?\nassistant",
+      "gold_answers": [
+        "irrigation and farming"
+      ],
+      "exact_match": 0,
+      "f1": 0.050420168067226885
+    },
+    {
+      "id": 44,
+      "question": "What will cause the amount of homosexuality to vary?",
+      "model_answer": "The amount of homosexuality will vary based on the component of sexual orientation being assessed.",
+      "gold_answers": [
+        "which component of sexual orientation is being assessed"
+      ],
+      "exact_match": 0,
+      "f1": 0.5217391304347827
+    },
+    {
+      "id": 45,
+      "question": "What automotive brands exist in Portugal?",
+      "model_answer": "Volkswagen Autoeuropa and Peugeot Citroen",
+      "gold_answers": [
+        "Volkswagen Autoeuropa and Peugeot Citroen"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 46,
+      "question": "What is the Chinese Muslim community called?",
+      "model_answer": "The Chinese Muslim community is called the gya kachee.",
+      "gold_answers": [
+        "gya kachee"
+      ],
+      "exact_match": 0,
+      "f1": 0.3636363636363636
+    },
+    {
+      "id": 47,
+      "question": "How did the army get to the new anchorage location?",
+      "model_answer": "The army got to the new anchorage location by sailing from the Bay of St. Malo to the safer anchorage of St. Cast.",
+      "gold_answers": [
+        "the army proceeded overland."
+      ],
+      "exact_match": 0,
+      "f1": 0.14814814814814817
+    },
+    {
+      "id": 48,
+      "question": "Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",
+      "model_answer": "Frank Sinatra",
+      "gold_answers": [
+        "Connie Francis"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 49,
+      "question": "Where is the House of the Black Madonna located? ",
+      "model_answer": "The House of the Black Madonna is located in the Old Town of Prague.",
+      "gold_answers": [
+        "Old Town of Prague"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445
+    }
+  ],
+  "model_directory": "llama1b",
+  "source_file": "parsed_outputs_Llama-3.2-1B-Instruct-Q4_0.gguf.json",
+  "root": "/home/bonda/Documents/ESW/final-codes/llama1b"
+}

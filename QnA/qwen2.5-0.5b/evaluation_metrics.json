@@ -1,0 +1,512 @@
+{
+  "overall": {
+    "exact_match": 0.02,
+    "f1": 0.05279874522754355,
+    "question_count": 50
+  },
+  "per_question": [
+    {
+      "id": 0,
+      "question": "What group's burial practices over-lapped with the Roman's?",
+      "model_answer": ".\n\nContext:\nIn the later Imperial era, the burial and commemorative practises of Christian and non-Christians overlapped. Tombs were shared by Christian and non-Christian family members, and the traditional funeral rites and feast of novemdialis found a part-match in the Christian Constitutio Apostolica. The customary offers of wine and food to the dead continued; St Augustine (following St Ambrose) feared that this invited the \"drunken\" practices of Parentalia but commended funeral feasts as a Christian opportunity to give alms of food to the poor. Christians attended Parentalia and its accompanying Feralia and Caristia in sufficient numbers for the Council of Tours to forbid them in AD 567. Other funerary and commemorative practices were very different. Traditional Roman practice spurned the corpse as a ritual pollution; inscriptions noted the day of birth and duration of life. The Christian Church fostered the veneration of saintly relics, and inscriptions marked the day of death as a transition to \"new life\".\n\nQuestion:\nWhat group's burial practices over-lapped with the Roman's?\n Kylie\n Kylie",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.011494252873563216
+    },
+    {
+      "id": 1,
+      "question": "what were the hydrogen lifted airships called?",
+      "model_answer": ".\n\nContext:\nThe first hydrogen-filled balloon was invented by Jacques Charles in 1783. Hydrogen provided the lift for the first reliable form of air-travel following the 1852 invention of the first hydrogen-lifted airship by Henri Giffard. German count Ferdinand von Zeppelin promoted the idea of rigid airships lifted by hydrogen that later were called Zeppelins; the first of which had its maiden flight in 1900. Regularly scheduled flights started in 1910 and by the outbreak of World War I in August 1914, they had carried 35,000 passengers without a serious incident. Hydrogen-lifted airships were used as observation platforms and bombers during the war.\n\nQuestion:\nwhat were the hydrogen lifted airships called?\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde",
+      "gold_answers": [
+        "Zeppelins"
+      ],
+      "exact_match": 0,
+      "f1": 0.013422818791946308
+    },
+    {
+      "id": 2,
+      "question": "How many people were killed as a result?",
+      "model_answer": ".\n\nContext:\nThe 2008 Sichuan earthquake or the Great Sichuan earthquake, measured at 8.0 Ms and 7.9 Mw, and occurred at 02:28:01 PM China Standard Time at epicenter (06:28:01 UTC) on May 12 in Sichuan province, killed 69,197 people and left 18,222 missing.\n\nQuestion:\nHow many people were killed as a result?\n\nassistant\nThe 2008 Sichuan earthquake killed 69,197 people and left 18,222 missing.",
+      "gold_answers": [
+        "69,197"
+      ],
+      "exact_match": 0,
+      "f1": 0.05333333333333332
+    },
+    {
+      "id": 3,
+      "question": "How long does sensory memory take to store information?",
+      "model_answer": ": 12",
+      "gold_answers": [
+        "less than one second"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 4,
+      "question": "Through 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?",
+      "model_answer": ".\n\nContext:\nThe 2013–14 season was the 12th season of the National Hockey League (NHL). The 2013–14 season was the 10th season of the NHL, and the 10th season of the current Stanley Cup playoffs era. The 2013–14 season was the 10th season of the NHL, and the 10th season of the current Stanley Cup playoffs era. The 2013–14 season was the 10th season of the NHL, and the 10th season of the current Stanley Cup playoffs era. The 2013–14 season was the 10th season of the NHL, and the 10th season of the current Stanley Cup playoffs era. The 2013–14 season was the 10th season of the NHL, and the 10th season of the current Stanley Cup playoffs era. The 2013–14 season was the 10th season of the NHL, and the 1",
+      "gold_answers": [
+        "56"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 5,
+      "question": "What South African city participated in the first public video-conference?",
+      "model_answer": ".\n\nContext:\nFinally, in the 1990s, Internet Protocol-based videoconferencing became possible, and more efficient video compression technologies were developed, permitting desktop, or personal computer (PC)-based videoconferencing. In 1992 CU-SeeMe was developed at Cornell by Tim Dorcey et al. In 1995 the first public videoconference between North America and Africa took place, linking a technofair in San Francisco with a techno-rave and cyberdeli in Cape Town. At the Winter Olympics opening ceremony in Nagano, Japan, Seiji Ozawa conducted the Ode to Joy from Beethoven's Ninth Symphony simultaneously across five continents in near-real time.\n\nQuestion:\nWhat South African city participated in the first public video-conference?\n Kylie",
+      "gold_answers": [
+        "Cape Town"
+      ],
+      "exact_match": 0,
+      "f1": 0.03571428571428572
+    },
+    {
+      "id": 6,
+      "question": "Lebanese people of what religion sometimes consider Lebanese to be a distinct language?",
+      "model_answer": ".\n\nContext:\nIn Lebanon, a part of the Christian population considers \"Lebanese\" to be in some sense a distinct language from Arabic and not merely a dialect. During the civil war Christians often used Lebanese Arabic officially, and sporadically used the Latin script to write Lebanese, thus further distinguishing it from Arabic. All Lebanese laws are written in the standard literary form of Arabic, though parliamentary debate may be conducted in Lebanese Arabic.\n\nQuestion:\nLebanese people of what religion sometimes consider Lebanese to be a distinct language?\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.013157894736842105
+    },
+    {
+      "id": 7,
+      "question": "What movie won the 1930 Academy Award for Best Picture?",
+      "model_answer": ".\n\nContext:\n\"Junior\" Laemmle persuaded his father to bring Universal up to date. He bought and built theaters, converted the studio to sound production, and made several forays into high-quality production. His early efforts included the critically mauled part-talkie version of Edna Ferber's novel Show Boat",
+      "gold_answers": [
+        "All Quiet on the Western Front"
+      ],
+      "exact_match": 0,
+      "f1": 0.037037037037037035
+    },
+    {
+      "id": 8,
+      "question": "What are the only Spielberg films since Sugarland Express to not have music by John Williams?",
+      "model_answer": ".\n\nContext:\nA famous example of Spielberg working with the same professionals is his long-time collaboration with John Williams and the use of his musical scores in all of his films since The Sugarland Express (except Bridge of Spies, The Color Purple and Twilight Zone: The Movie). One of Spielberg's trademarks is his use of music by Williams to add to the visual impact of his scenes and to try and create a lasting picture and sound of the film in the memories of the film audience. These visual scenes often uses images of the sun (e.g. Empire of the Sun, Saving Private Ryan, the final scene of Jurassic Park, and the end credits of Indiana Jones and the Last Crusade (where they ride into the sunset)), of which the last two feature a Williams score at that end scene. Spielberg is a contemporary of filmmakers George Lucas, Francis Ford Coppola, Martin Scorsese, John Milius, and Brian De Palma, collectively known as the \"Movie Brats\". Aside from his principal role as a director, Spielberg has acted as a producer for a considerable number of films, including early hits for Joe Dante and Robert Zemeckis.",
+      "gold_answers": [
+        "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
+      ],
+      "exact_match": 0,
+      "f1": 0.10628019323671499
+    },
+    {
+      "id": 9,
+      "question": "Which member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?",
+      "model_answer": ". The assistant will also not provide any additional information beyond the provided context.",
+      "gold_answers": [
+        "Peter Pilz"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 10,
+      "question": "What did English players do after the ban?",
+      "model_answer": ".\n\nContext:\nDespite significant European success during the 1970s and early 1980s, the late '80s had marked a low point for English football. Stadiums were crumbling, supporters endured poor facilities, hooliganism was rife, and English clubs were banned from European competition for five years following the Heysel Stadium disaster in 1985. The Football League First Division, which had been the top level of English football since 1888, was well behind leagues such as Italy's Serie A and Spain's La Liga in attendances and revenues, and several top English players had moved abroad.\n\nQuestion:\nWhat did English players do after the ban?\n\nassistant\nEnglish players did not move abroad after the ban.",
+      "gold_answers": [
+        "moved abroad"
+      ],
+      "exact_match": 0,
+      "f1": 0.03508771929824561
+    },
+    {
+      "id": 11,
+      "question": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?",
+      "model_answer": ".\n\nContext:\nBaptists are individuals who comprise a group of Christian denominations and churches that subscribe to a doctrine that baptism should be performed only for professing believers (believer's baptism, as opposed to infant baptism), and that it must be done by complete immersion (as opposed to affusion or sprinkling). Other tenets of Baptist churches include soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation. Baptists recognize two ministerial offices, elders and deacons. Baptist churches are widely considered to be Protestant churches, though some Baptists disavow this identity.\n\nQuestion:\nWhat are the tenets of Baptist churches?\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie",
+      "gold_answers": [
+        "tenets of Baptist churches"
+      ],
+      "exact_match": 0,
+      "f1": 0.05031446540880503
+    },
+    {
+      "id": 12,
+      "question": "What percentage of the New York City population is Japanese?",
+      "model_answer": ": 0.3%",
+      "gold_answers": [
+        "0.3%"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 13,
+      "question": "When did the English army start to retreat and evacuate NYC during the Battle of Long Island?",
+      "model_answer": ".\n\nContext:\nThe Battle of Long Island, the largest battle of the American Revolutionary War, was fought in August 1776 entirely within the modern-day borough of Brooklyn. After the battle, in which the Americans were defeated, leaving subsequent smaller armed engagements following in its wake, the city became the British military and political base of operations in North America. The city was a haven for Loyalist refugees, as well as escaped slaves who joined the British lines for freedom newly promised by the Crown for all fighters. As many as 10,000 escaped slaves crowded into the city during the British occupation. When the British forces evacuated at the close of the war in 1783, they transported 3,000 freedmen for resettlement in Nova Scotia. They resettled other freedmen in England and the Caribbean.\n\nQuestion:\nWhen did the English army start to retreat and evacuate NYC during the Battle of Long Island?\n\nassistant\nThe Battle of Long Island, the largest battle of the American Revolutionary War, was fought in August 1776 entirely within the modern-day borough of Brooklyn. After the battle, in which the Americans were defeated, leaving subsequent smaller armed engagements following in its wake, the city became the British military and political base of operations in North America. The city was a haven for Loyalist refugees, as well as escaped slaves who joined the British lines for freedom newly promised by the Crown for all fighters. As many as 10,000 escaped slaves crowded into the city during the British occupation. When the British forces evacuated at the close of the war in 1783, they transported 3,000 freedmen for resettlement in Nova Scotia. They resettled other freedmen in England and the Caribbean.",
+      "gold_answers": [
+        "1783"
+      ],
+      "exact_match": 0,
+      "f1": 0.006968641114982578
+    },
+    {
+      "id": 14,
+      "question": "Aside from human beings, what creature's needs were traditionally seen to at inns?",
+      "model_answer": ".\n\nContext:\nIn Europe, it is the provision of accommodation, if anything, that now distinguishes inns from taverns, alehouses and pubs. The latter tend to provide alcohol (and, in the UK, soft drinks and often food), but less commonly accommodation. Inns tend to be older and grander establishments: historically they provided not only food and lodging, but also stabling and fodder for the traveller's horse(s) and on some roads fresh horses for the mail coach. Famous London inns include The George, Southwark and The Tabard. There is however no longer a formal distinction between an inn and other kinds of establishment. Many pubs use \"Inn\" in their name, either because they are long established former coaching inns, or to summon up a particular kind of image, or in many cases simply as a pun on the word \"in\", as in \"The Welcome Inn\", the name of many pubs in Scotland.\n\nQuestion:\nAside from human beings, what creature's needs were traditionally seen to at inns?\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie",
+      "gold_answers": [
+        "horses"
+      ],
+      "exact_match": 0,
+      "f1": 0.011235955056179775
+    },
+    {
+      "id": 15,
+      "question": "How many fans were in attendance during Everton's match against Liverpool on September 18, 1948?",
+      "model_answer": ".\n\nContext:\nThe record attendance for an Everton home match is 78,299 against Liverpool on 18 September 1948. Amazingly, there was only 1 injury at this game-Tom Fleetwood was hit on the head by a coin thrown from the crowd whilst he marched around the perimeter with St Edward's Orphanage Band, playing the cornet. Goodison Park, like all major English football grounds since the recommendations of the Taylor Report were implemented, is now an all-seater and only holds just under 40,000, meaning it is unlikely that this attendance record will ever be broken at Goodison. Everton's record transfer paid was to Chelsea for Belgian forward Romelu Lukaku for a sum of £28m. Everton bought the player after he played the previous year with the team on loan.\n\nQuestion:\nHow many fans were in attendance during Everton's match against Liverpool on September 18, 1948?\n\nassistant\nThe answer is: 78,299",
+      "gold_answers": [
+        "78,299"
+      ],
+      "exact_match": 0,
+      "f1": 0.025477707006369425
+    },
+    {
+      "id": 16,
+      "question": "What organization did General Ashcroft assign to lead organization in terrorism investigations?",
+      "model_answer": ".\n\nContext:\nThe FBI often works in conjunction with other Federal agencies, including the U.S. Coast Guard (USCG) and U.S. Customs and Border Protection (CBP) in seap",
+      "gold_answers": [
+        "FBI"
+      ],
+      "exact_match": 0,
+      "f1": 0.0689655172413793
+    },
+    {
+      "id": 17,
+      "question": "What did Uesugi encourage?",
+      "model_answer": ".\n\nContext:\nThe rival of Takeda Shingen (1521–1573) was Uesugi Kenshin (1530–1578), a legendary Sengoku warlord well-versed in the Chinese military classics and who advocated the \"way of the warrior as death\". Japanese historian Daisetz Teitaro Suzuki describes Uesugi's beliefs as: \"Those who are reluctant to give up their lives and embrace death are not true warriors.... Go to the battlefield firmly confident of victory, and you will come home with no wounds whatever. Engage in combat fully determined to die and you will be alive; wish to survive in the battle and you will be alive; wish to survive in the battle and you will come home with no wounds whatever. When you leave the house determined not to see it again you will come home safely; when you have any thought of returning you will not return. You may not be in the wrong to think that the world is always subject to change, but the warrior must not entertain this way of thinking, for his fate is always determined.\"\n\nQuestion:\nWhat did Uesugi",
+      "gold_answers": [
+        "the \"way of the warrior as death\""
+      ],
+      "exact_match": 0,
+      "f1": 0.07526881720430108
+    },
+    {
+      "id": 18,
+      "question": "What type of climate is San Diego classified as having?",
+      "model_answer": ".\n\nContext:\nSan Diego is one of the top-ten best climates in the Farmers' Almanac and is one of the two best summer climates in America as scored by The Weather Channel. Under the Köppen–Geiger climate classification system, the San Diego area has been variously categorized as having either a semi-arid climate (BSh in the original classification and BSkn in modified Köppen classification) or a Mediterranean climate (Csa and Csb). San Diego's climate is characterized by warm, dry summers and mild winters with most of the annual precipitation falling between December and March. The city has a mild climate year-round, with an average of 201 days above 70 °F (21 °C) and low rainfall (9–13 inches [230–330 mm] annually). Dewpoints in the summer months range from 57.0 °F (13.9 °C) to 62.4 °F (16.9 °C).\n\nQuestion:\nWhat type of climate is San Diego classified as having?\n\nassistant\nAssistant: San Diego is classified as having a Mediterranean climate.",
+      "gold_answers": [
+        "semi-arid climate"
+      ],
+      "exact_match": 0,
+      "f1": 0.03488372093023256
+    },
+    {
+      "id": 19,
+      "question": "How many pigs died in Sichuan?",
+      "model_answer": ".\n\nContext:\nThe earthquake left at least 5 million people without housing, although the number could be as high as 11 million. Millions of livestock and a significant amount of agriculture were also destroyed, including 12.5 million animals, mainly birds. In the Sichuan province a million pigs died out of 60 million total. Catastrophe modeling firm AIR Worldwide reported official estimates of insurers' losses at US$1 billion from the earthquake; estimated total damages exceed US$20 billion. It values Chengdu, at the time having an urban population of 4.5 million people, at around US$115 billion, with only a small portion covered by insurance.\n\nQuestion:\nHow many pigs died in Sichuan?\n\nassistant\nThe earthquake left at least 5 million people without housing, although the number could be as high as 11 million. Millions of livestock and a significant amount of agriculture were also destroyed, including 12.5 million animals, mainly birds. In the Sichuan province a million pigs died out of 60 million total. Catastrophe modeling firm AIR Worldwide reported official estimates of insurers' losses at US$1 billion from the earthquake; estimated total damages exceed US$20 billion. It values Chengdu, at the time having an urban population of 4.5 million people, at around US$115 billion, with only a small portion covered by insurance.",
+      "gold_answers": [
+        "1 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.01809954751131222
+    },
+    {
+      "id": 20,
+      "question": "Which Minister could a conscripted soldier expect to serve under during his year of service?",
+      "model_answer": ".\n\nContext:\nAt the beginning of the Han dynasty, every male commoner aged twenty-three was liable for conscription into the military. The minimum age for the military draft was reduced to twenty after Emperor Zhao's (r. 87–74 BC) reign. Conscripted soldiers underwent one year of training and one year of service as non-professional soldiers. The year of training was served in one of three branches of the armed forces: infantry, cavalry or navy. The year of active service was served either on the frontier, in a king's court or under the Minister of the Guards in the capital. A small professional (paid) standing army was stationed near the capital.\n\nQuestion:\nWhich Minister could a conscripted soldier expect to serve under during his year of service?\n\nassistant\nAssistant:\nThe Minister who could a conscripted soldier expect to serve under during his year of service is the Minister of the Guards.",
+      "gold_answers": [
+        "Minister of the Guards"
+      ],
+      "exact_match": 0,
+      "f1": 0.05095541401273886
+    },
+    {
+      "id": 21,
+      "question": "Orozco's army was called by what name?",
+      "model_answer": ".\n\nContext:\nIn response to Madero's letter to action, Pascual Orozco (a wealthy mining baron) and Chihuahua Governor Abraham González formed a powerful military union in the north, taking military control of several northern Mexican cities with other revolutionary leaders, including Pancho Villa. Against Madero's wishes, Orozco and Villa fought for and won Ciudad Juárez. After militias loyal to Madero defeated the Mexican federal army, on May 21, 1911, Madero signed the Treaty of Ciudad Juárez with Díaz. It required that Díaz abdicate his rule and be replaced by Madero. Insisting on a new election, Madero won overwhelmingly in late 1911, and he established a liberal democracy and received support from the United States and popular leaders such as Orozco and Villa. Orozco eventually became disappointed with the Madero's government and led a rebellion against him. He organized his own army, called \"Orozquistas\"—also called the Colorados (\"Red Flaggers\")—after Madero refused to agree to social reforms calling for better working hours, pay and conditions. The rural working class, which had supported Madero, now took up arms against him in support of Orozco.\n\nQuestion:\nOrozco's army was called by what name?\n\nassistant\nThe assistant will provide the answer to the question based on the context provided. The assistant will not generate any additional information beyond the context provided. The assistant will not generate any code or any other code related to the question.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "gold_answers": [
+        "Orozquistas"
+      ],
+      "exact_match": 0,
+      "f1": 0.005747126436781608
+    },
+    {
+      "id": 22,
+      "question": "Where were the 1952 Olympics held?",
+      "model_answer": ".\n\nContext:\nDuring Soviet rule, Armenian athletes rose to prominence winning plenty of medals and helping the USSR win the medal standings at the Olympics on numerous occasions. The first medal won by an Armenian in modern Olympic history was by Hrant Shahinyan, who won two golds and two silvers in gymnastics at the 1952 Summer Olympics in Helsinki. In football, their most successful team was Yerevan's FC Ararat, which had claimed most of the Soviet championships in the 70s and had also gone to post victories against professional clubs like FC Bayern Munich in the Euro cup.\n\nQuestion:\nWhere were the 1952 Olympics held?\n\nassistant\nThe 1952 Olympics were held in Helsinki, Finland.",
+      "gold_answers": [
+        "Helsinki"
+      ],
+      "exact_match": 0,
+      "f1": 0.017391304347826087
+    },
+    {
+      "id": 23,
+      "question": "Which studio produced 'Super 8'?",
+      "model_answer": ".\n\nContext:\nThe 2010–11 Australian Football League season was the 10th season of the Australian Football League. The season was played in the Australian Football League's new AFLNet Stadium in Melbourne, Australia. The season was the first to be played in the new stadium, which was opened on 15 August 2010. The season was played in the new AFLNet Stadium, which was opened on 15 August 2010. The season was the first to be played in the new stadium, which was opened on 15 August 2010. The season was the first to be played in the new stadium, which was opened on 15 August 2010. The season was the first to be played in the new stadium, which was opened on 15 August 2010. The season was the first to be played in the new stadium, which was opened on 15 August 2010. The season was the first to be played in the new stadium, which was opened on 15 August 2010",
+      "gold_answers": [
+        "Paramount Pictures"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 24,
+      "question": "Who is an example of someone that states that affirmative action is another form of discrimination?",
+      "model_answer": ".\n\nContext:\nSome commentators have defined reverse discrimination as a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority.[non-primary source needed] Many argue that reverse discrimination results from affirmative action policies and that these policies are just another form of discrimination no different from examples in the past. People like Ward Connerly assert that affirmative action requires the very discrimination it is seeking to eliminate. According to these opponents, this contradiction might make affirmative action counter-productive. One argument for reverse discrimination is the idea that affirmative action encourages mediocrity and incompetence. Job positions would not be offered to the applicants who are the most qualified, but to applicants with a special trait such as a certain race, ethnicity, or gender. For example, opponents say affirmative action causes unprepared applicants to be accepted in highly demanding educational institutions or jobs which result in eventual failure (see, for example, Richard Sander's study of affirmative action in Law School, bar exam and eventual performance at law firms). Other opponents say that affirmative action lowers the bar and so denies those who strive for excellence on their own merit and the sense of real achievement.",
+      "gold_answers": [
+        "Ward Connerly"
+      ],
+      "exact_match": 0,
+      "f1": 0.01923076923076923
+    },
+    {
+      "id": 25,
+      "question": "Who developed EMALS?",
+      "model_answer": ".\n\nContext:\nIn December 2009, then Indian Navy chief Admiral Nirmal Kumar Verma said at his maiden navy week press conference that concepts currently being examined by the Directorate of Naval Design for the second indigenous aircraft carrier (IAC-2), are for a conventionally powered carrier displacing over 50,000 tons and equipped with steam catapults (rather than the ski-jump on the Gorshkov/Vikramaditya and the IAC) to launch fourth-generation aircraft. Later on in August 2013 Vice Admiral RK Dhowan, while talking about the detailed study underway on the IAC-II project, said that nuclear propulsion was also being considered. The navy also evaluated the Electromagnetic Aircraft Launch System (EMALS), which is being used by the US Navy in their latest Gerald R. Ford-class aircraft carriers. General Atomics, the developer of the EMALS, was cleared by the US government to give a technical demonstration to Indian Navy officers, who were impressed by the new capabilities of the system. The EMALS enables launching varied aircraft including unmanned combat air vehicles (UCAV).",
+      "gold_answers": [
+        "General Atomics"
+      ],
+      "exact_match": 0,
+      "f1": 0.022988505747126436
+    },
+    {
+      "id": 26,
+      "question": "What are two reasons for which Galicia's rural areas have been largely abandoned?",
+      "model_answer": ".\n\nContext:\nThe rapid increase of population of A Coruña, Vigo and to a lesser degree other major Galician cities, like Ourense, Pontevedra or Santiago de Compostela during the years that followed the Spanish Civil War during the",
+      "gold_answers": [
+        "Economic development and mechanization of agriculture"
+      ],
+      "exact_match": 0,
+      "f1": 0.09090909090909091
+    },
+    {
+      "id": 27,
+      "question": "What do the hole walls in two-layer PCBs have to be before they can be electroplated?",
+      "model_answer": ".\n\nContext:\nThe hole walls for boards with two or more layers can be made conductive and then electroplated with copper to form plated-through holes.  These holes electrically connect the conducting layers of the PCB. For multi-layer boards, those with three layers or more, drilling typically produces a smear of the high temperature decomposition products of bonding agent in the laminate system. Before the holes can be plated through, this smear must be removed by a chemical de-smear process, or by plasma-etch. The de-smear process ensures that a good connection is made to the copper layers when the hole is plated through. On high reliability boards a process called etch-back is performed chemically with a potassium permanganate based etchant or plasma. The etch-back removes resin and the glass fibers so that the copper layers extend into the hole and as the hole is plated become integral with the deposited copper.\n\nQuestion:\nWhat do the hole walls in two-layer PCBs have to be before they can be electroplated?\n\nassistant\nThe hole walls in two-layer PCBs have to be made conductive and then electroplated with copper to form plated-through holes.",
+      "gold_answers": [
+        "conductive"
+      ],
+      "exact_match": 0,
+      "f1": 0.010101010101010102
+    },
+    {
+      "id": 28,
+      "question": "What is Amphetamine's market name?",
+      "model_answer": ".\n\nContext:\nIn 1911 arsphenamine, the first synthetic anti-infective drug, was developed by Paul Ehrlich and chemist Alfred Bertheim of the Institute of Experimental Therapy in Berlin. The drug was given the commercial name Salvarsan. Ehrlich, noting both the general toxicity of arsenic and the selective absorption of certain dyes by bacteria, hypothesized that an arsenic-containing dye with similar selective absorption properties could be used to treat bacterial infections. Arsphenamine was prepared as part of a campaign to synthesize a series of such compounds, and found to exhibit partially selective toxicity. Arsphenamine proved to be the first effective treatment for syphilis, a disease which prior to that time was incurable and led inexorably to severe skin ulceration, neurological damage, and death.[citation needed]\n\nQuestion:\nWhat is Amphetamine's market name?\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie\n Kylie",
+      "gold_answers": [
+        "Institute of Experimental Therapy"
+      ],
+      "exact_match": 0,
+      "f1": 0.04968944099378882
+    },
+    {
+      "id": 29,
+      "question": "When did Beyonce first make the Time 100 List?",
+      "model_answer": ".\n\nContext:\nIn The New Yorker music critic Jody Rosen described Beyoncé as \"the most important and compelling popular musician of the twenty-first century..... the result, the logical end point, of a century-plus of pop.\" When The Guardian named her Artist of the Decade, Llewyn-Smith wrote, \"Why Beyoncé? [...] Because she made not one but two of the decade's greatest singles, with Crazy in Love and Single Ladies (Put a Ring on It), not to mention her hits with Destiny's Child; and this was the decade when singles – particularly R&B singles – regained their status as pop's favourite medium. [...] [She] and not any superannuated rock star was arguably the greatest live performer of the past 10 years.\" In 2013, Beyoncé made the Time 100 list, Baz Luhrmann writing \"no one has that voice, no one moves the way she moves, no one can hold an audience the way she does... When Beyoncé does an album, when Beyoncé sings a song, when Beyoncé does anything, it's an event, and it's broadly influential.",
+      "gold_answers": [
+        "2013"
+      ],
+      "exact_match": 0,
+      "f1": 0.011235955056179775
+    },
+    {
+      "id": 30,
+      "question": "Who proposed an evolutionary concept of the gene as a unit of natural selection?",
+      "model_answer": ".\n\nContext:\nThe theories developed in the 1930s and 1940s to integrate molecular genetics with Darwinian evolution are called the modern evolutionary synthesis, a term introduced by Julian Huxley. Evolutionary biologists subsequently refined this concept, such as George C. Williams' gene-centric view of evolution. He proposed an evolutionary concept of the gene as a unit of natural selection with the definition: \"that which segregates and recombines with appreciable frequency.\":24 In this view, the molecular gene transcribes as a unit, and the evolutionary gene inherits as a unit. Related ideas emphasizing the centrality of genes in evolution were popularized by Richard Dawkins.\n\nQuestion:\nWho proposed an evolutionary concept of the gene as a unit of natural selection?\n\nassistant\nThe answer is: Julian Huxley.",
+      "gold_answers": [
+        "George C. Williams"
+      ],
+      "exact_match": 0,
+      "f1": 0.047619047619047616
+    },
+    {
+      "id": 31,
+      "question": "How many Baptists registered for the meeting in Atlanta?",
+      "model_answer": ".\n\nContext:\nOn 20 June 1995, the Southern Baptist Convention voted to adopt a resolution renouncing its racist roots and apologizing for its past defense of slavery. More than 20,000 Southern Baptists registered for the meeting in Atlanta. The resolution declared that messengers, as SBC delegates are called, \"unwaveringly denounce racism, in all its forms, as deplorable sin\" and \"lament and repudiate historic acts of evil such as slavery from which we continue to reap a bitter harvest.\" It offered an apology to all African-Americans for \"condoning and/or perpetuating individual and systemic racism in our lifetime\" and repentance for \"racism of which we have been guilty, whether consciously or unconsciously.\" Although Southern Baptists have condemned racism in the past, this was the first time the predominantly white convention had dealt specifically with the issue of slavery.\n\nQuestion:\nHow many Baptists registered for the meeting in Atlanta?\n\nassistant\nThe answer is: 20,000",
+      "gold_answers": [
+        "More than 20,000"
+      ],
+      "exact_match": 0,
+      "f1": 0.05063291139240507
+    },
+    {
+      "id": 32,
+      "question": "Which former CBS News correspondent graduated from BYU?",
+      "model_answer": ".\n\nContext:\nIn literature and journalism, BYU has produced several best-selling authors, including Orson Scott Card '75, Brandon Sanderson '00 & '05, Ben English '98, and Stephenie Meyer '95. BYU also graduated American activist and contributor for ABC News Elizabeth Smart-Gilmour. Other media personalities include former CBS News correspondent Art Rascon, award-winning ESPN sportscaster and former Miss America Sharlene Wells Hawkes '86 and former co-host of CBS's The Early Show Jane Clayson Johnson '90. In entertainment and television, BYU is represented by Jon Heder '02 (best known for his role as Napoleon Dynamite), writer-director Daryn Tufts '98, Golden Globe-nominated Aaron Eckhart '94, animator and filmmaker Don Bluth '54, Jeopardy! all-time champion Ken Jennings '00, and Richard Dutcher, the \"Father of Mormon Cinema.\" In the music industry BYU is represented by lead singer of the Grammy Award winning band Imagine Dragons Dan Reynolds, multi-platinum selling drummer Elaine Bradley from the band Neon Trees, crossover dub",
+      "gold_answers": [
+        "Art Rascon"
+      ],
+      "exact_match": 0,
+      "f1": 0.024539877300613494
+    },
+    {
+      "id": 33,
+      "question": "As an inhaler, what was epinephrine used to treat?",
+      "model_answer": ".\n\nContext:\nBy the 1890s the profound effect of adrenal extracts on many different tissue types had been discovered, setting off a search both for the mechanism of chemical signalling and efforts to exploit these observations for the development of new drugs. The blood pressure raising and vasoconstrictive effects of adrenal extracts were of particular interest to surgeons as hemostatic agents and as treatment for shock, and a number of companies developed products based on adrenal extracts containing varying purities of the active substance. In 1897 John Abel of Johns Hopkins University identified the active principle as epinephrine, which he isolated in an impure state as the sulfate salt. Industrial chemist Jokichi Takamine later developed a method for obtaining epinephrine in a pure state, and licensed the technology to Parke Davis. Parke Davis marketed epinephrine under the trade name Adrenalin. Injected epinephrine proved to be especially efficacious for the acute treatment of asthma attacks, and an inhaled version was sold in the United States until 2011 (Primatene Mist). By 1929 ep",
+      "gold_answers": [
+        "nasal congestion"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 34,
+      "question": "What significantly increased the magnates wealth?",
+      "model_answer": ".\n\nContext:\nMagnates often received gifts from monarchs, which significantly increased their wealth. Often, those gifts were only temporary leases, which the magnates never returned (in the 16th century, the anti-magnate opposition among szlachta was known as the ruch egzekucji praw—movement for execution of the laws—which demanded that all such possessions are returned to their proper owner, the king).\n\nQuestion:\nWhat significantly increased the magnates wealth?\n\nassistant\nThe magnates often received gifts from monarchs, which significantly increased their wealth. Often, those gifts were only temporary leases, which the magnates never returned (in the 16th century, the anti-magnate opposition among szlachta was known as the ruch egzekucji praw—movement for execution of the laws—which demanded that all such possessions are returned to their proper owner, the king).\nLETE: magnates often received gifts from monarchs, which significantly increased their wealth. Often, those gifts were only temporary leases, which the magnates never returned (in the 16th century, the anti-magnate opposition among szlachta was known as the ruch egzekucji praw—movement for execution of the laws—which demanded that all such possessions are returned to their proper owner, the king).\nLETE: magnates often received gifts from monarchs, which significantly increased their wealth. Often, those gifts were only temporary leases, which the magnates never returned (in the 16th century, the anti-magnate opposition among szlachta was known as the ruch egzekucji praw—movement for execution of the laws—which demanded that all such possessions are returned to their proper owner, the king",
+      "gold_answers": [
+        "Magnates"
+      ],
+      "exact_match": 0,
+      "f1": 0.007905138339920948
+    },
+    {
+      "id": 35,
+      "question": "Along with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?",
+      "model_answer": ".\n\nContext:\nThe 2010–11 English Premier League season was the 17th season of the English Premier League, the top tier",
+      "gold_answers": [
+        "Baruch Spinoza"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 36,
+      "question": "In addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?",
+      "model_answer": ".\n\nContext:\nThe city hosts numerous theatres and production houses, including the",
+      "gold_answers": [
+        "Long Wharf Theatre, and the Shubert Theatre"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222
+    },
+    {
+      "id": 37,
+      "question": "What geographical feature separated Universal City Studios from Hollywood?",
+      "model_answer": ".\n\nContext:\nOn March 15, 1915,:8 Laemmle opened the world's largest motion picture production facility, Universal City Studios, on a 230-acre (0.9-km²) converted farm just over the Cahuenga Pass from Hollywood. Studio management became the third facet of Universal's operations, with the studio incorporated as a distinct subsidiary organization. Unlike other movie moguls, Laemmle opened his studio to tourists. Universal became the largest studio in Hollywood, and remained so for a decade. However, it sought an audience mostly in small towns, producing mostly inexpensive melodramas, westerns and serials.\n\nQuestion:\nWhat geographical feature separated Universal City Studios from Hollywood?\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde",
+      "gold_answers": [
+        "Cahuenga Pass"
+      ],
+      "exact_match": 0,
+      "f1": 0.026845637583892617
+    },
+    {
+      "id": 38,
+      "question": "Project Gemini helped recruit experienced people for which upcoming lunar missions?",
+      "model_answer": ".\n\nContext:\nMost of the novice pilots on the early missions would command the later missions. In this way, Project Gemini built up spaceflight experience for the pool of astronauts who would be chosen to fly the Apollo lunar missions.\n\nQuestion:\nProject Gemini helped recruit experienced people for which upcoming lunar missions?\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "gold_answers": [
+        "Apollo"
+      ],
+      "exact_match": 0,
+      "f1": 0.014285714285714287
+    },
+    {
+      "id": 39,
+      "question": "How many people live on Norfolk Island?",
+      "model_answer": ".\n\nContext:\nNorfolk Island (i/ˈnɔːrfək ˈaɪlənd/; Norfuk: Norf'k Ailen) is a small island in the Pacific Ocean located between Australia, New Zealand and New Caledonia, 1,412 kilometres (877 mi) directly east of mainland Australia's Evans Head, and about 900 kilometres (560 mi) from Lord Howe Island. The island is part of the Commonwealth of Australia. Together with two neighbouring islands, it forms one of Australia's external territories. It has 1,796 inhabitants living on a total area of about 35 km2 (14 sq mi). Its capital is Kingston.\n\nQuestion:\nHow many people live on Norfolk Island?\n<thank you\nYou are a grounded question answering model that is currently undergoing an extractive Q&A benchmark (SQuAD-50). Keep every answer precise, cite only what is supported by the provided context, and never guess. To help with downstream evaluation, always demarcate the start of your final response with the literal token ***ANSWER",
+      "gold_answers": [
+        "1,796"
+      ],
+      "exact_match": 0,
+      "f1": 0.024999999999999998
+    },
+    {
+      "id": 40,
+      "question": "More people belong to what religion than any other in the Western world?",
+      "model_answer": ".\n\nContext:\nChristianity remains the dominant religion in the Western World, where 70% are Christians. A 2011 Pew Research Center survey found that 76.2% of Europeans, 73.3% in Oceania, and about 86.0% in the Americas (90% in Latin America and 77.4% in North America) described themselves as Christians.\n\nQuestion:\nMore people belong to what religion than any other in the Western world?",
+      "gold_answers": [
+        "Christianity"
+      ],
+      "exact_match": 0,
+      "f1": 0.030303030303030307
+    },
+    {
+      "id": 41,
+      "question": "What is the National Portrait Gallery known for housing?",
+      "model_answer": ".\n\nContext:\nIn the latter half of the 19th century the locale of South Kensington was developed as \"Albertopolis\", a cultural",
+      "gold_answers": [
+        "depictions of figures from British history"
+      ],
+      "exact_match": 0,
+      "f1": 0.07692307692307691
+    },
+    {
+      "id": 42,
+      "question": "Killer Queen reached what number on the Billboard Hot 100?",
+      "model_answer": ".\n\nContext:\nThe single \"Killer Queen\" from Sheer Heart Attack reached number two on the British charts, and became their first US hit, reaching number 12 on the Billboard Hot 100. It combines camp, vaudeville, and British music hall with May's guitar virtuosity. The album's second single, \"Now I'm Here\", a more traditional hard rock composition, was a number eleven hit in Britain, while the high speed rocker \"Stone Cold Crazy\" featuring May's uptempo riffs is a precursor to speed metal. In recent years, the album has received acclaim from music publications: In 2006, Classic Rock ranked it number 28 in \"The 100 Greatest British Rock Albums Ever\", and in 2007, Mojo ranked it No.88 in \"The 100 Records That Changed the World\". It is also the second of three Queen albums to feature in the book 1001 Albums You Must Hear Before You Die.\n\nQuestion:\nKiller Queen reached what number on the Billboard Hot 100?\n\nassistant\nThe single \"Killer Queen\" from Sheer Heart Attack reached number two on the British charts, and became their first US hit, reaching number 12 on the Billboard Hot 100. It combines camp, vaudeville, and British music hall with May's guitar virtuosity. The album's second single, \"Now I'm Here\", a more traditional hard rock composition, was a number eleven hit in Britain, while the high speed rocker \"Stone Cold Crazy\" featuring May's uptempo riffs is a precursor to speed metal. In recent years, the album has received acclaim from music publications: In 2006, Classic Rock ranked it number 28 in \"The 100 Greatest British Rock Albums Ever\", and in 2007, Mojo ranked it No.88 in \"The 100 Records That Changed the World\". It is also the second of three Queen albums to feature in the book 1001 Albums You Must Hear Before You Die.",
+      "gold_answers": [
+        "12"
+      ],
+      "exact_match": 0,
+      "f1": 0.0064516129032258064
+    },
+    {
+      "id": 43,
+      "question": "What was the windmill used for?",
+      "model_answer": ".\n\nContext:\nAdvances were made in irrigation and farming, using new technology such as the windmill. Crops such as almonds and citrus fruit were brought to Europe through al-Andalus, and sugar cultivation was gradually adopted by the Europeans. Arab merchants dominated trade in the Indian Ocean until the arrival of the Portuguese in the 16th century. Hormuz was an important center for this trade. There was also a dense network of trade routes in the Mediterranean, along which Muslim countries traded with each other and with European powers such as Venice, Genoa and Catalonia. The Silk Road crossing Central Asia passed through Muslim states between China and Europe.\n\nQuestion:\nWhat was the windmill used for?\n\nassistant\nThe windmill was used for harvesting water and producing electricity.",
+      "gold_answers": [
+        "irrigation and farming"
+      ],
+      "exact_match": 0,
+      "f1": 0.046511627906976744
+    },
+    {
+      "id": 44,
+      "question": "What will cause the amount of homosexuality to vary?",
+      "model_answer": ".\n\nContext:\nOne of the uses for scales that assess sexual orientation is determining what the prevalence of different sexual orientations are within a population. Depending on subject's age, culture and sex, the prevalence rates of homosexuality vary depending on which component of sexual orientation is being assessed: sexual attraction, sexual behavior, or sexual identity. Assessing sexual attraction will yield the greatest prevalence of homosexuality in a population whereby the proportion of individuals indicating they are same sex attracted is two to three times greater than the proportion reporting same sex behavior or identify as gay, lesbian, or bisexual. Furthermore, reports of same sex behavior usually exceed those of gay, lesbian, or bisexual identification. The following chart demonstrates how widely the prevalence of homosexuality can vary depending on what age, location and component of sexual orientation is being assessed:\n\nQuestion:\nWhat will cause the amount of homosexuality to vary?\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde\nponde",
+      "gold_answers": [
+        "which component of sexual orientation is being assessed"
+      ],
+      "exact_match": 0,
+      "f1": 0.08465608465608467
+    },
+    {
+      "id": 45,
+      "question": "What automotive brands exist in Portugal?",
+      "model_answer": ".\n\nContext:\nThe 2010 census of the European Union was the 10th census of the European Union. The census was conducted by the European Union Statistics Office (Eurostat) in 2010. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was conducted in 2010, and the results were published in 2011. The census was",
+      "gold_answers": [
+        "Volkswagen Autoeuropa and Peugeot Citroen"
+      ],
+      "exact_match": 0,
+      "f1": 0.014184397163120567
+    },
+    {
+      "id": 46,
+      "question": "What is the Chinese Muslim community called?",
+      "model_answer": ".\n\nContext:\nThe 2010 census of the United States of America showed that the population of the United States was 318,730,000. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,730,000 in 2010. The population of the United States was 318,73",
+      "gold_answers": [
+        "gya kachee"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 47,
+      "question": "How did the army get to the new anchorage location?",
+      "model_answer": ".\n\nContext:\nThe troops were reembarked and moved to the Bay of St. Lunaire in Brittany where, on 3 September, they were landed to operate against St. Malo; however, this action proved impractical. Worsening weather forced the two armies to separate: the ships sailed for the safer anchorage of St. Cast, while the army proceeded overland. The tardiness of Bligh in moving his forces allowed a French force of 10,000 from Brest to catch up with him and open fire on the reembarkation troops. A rear-guard of 1,400 under General Dury held off the French while the rest of the army embarked. They could not be saved; 750, including Dury, were killed and the rest captured.\n\nQuestion:\nHow did the army get to the new anchorage location?\n\nassistant\nThe army got to the new anchorage location by moving overland from the Bay of St. Lunaire to the safer anchorage of St. Cast. The tardiness of Bligh in moving his forces allowed a French force of 10,000 from Brest to catch up with him and open fire on the reembarkation troops. A rear-guard of 1,400 under General Dury held off the French while the rest of the army embarked. They could not be saved; 750, including Dury, were killed.",
+      "gold_answers": [
+        "the army proceeded overland."
+      ],
+      "exact_match": 0,
+      "f1": 0.03686635944700461
+    },
+    {
+      "id": 48,
+      "question": "Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",
+      "model_answer": ".\n\nContext:\nThe 1970s saw the rise of the adult contemporary (AC) radio format, which was a new genre of music that was popular in the United States. The format was created by the Adult Contemporary Association (ACA) in 1971, and it was a response to the decline of the pop music format in the 1960s and 1970s. Adult contemporary radio stations were typically 10-15 minutes long, and they featured a mix of rock, pop, and country music.\n\nQuestion:\nWhat was the name of the adult contemporary radio format that was created by the Adult Contemporary Association in 1971?\nLETE\nLETE",
+      "gold_answers": [
+        "Connie Francis"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 49,
+      "question": "Where is the House of the Black Madonna located? ",
+      "model_answer": ".\n\nContext:\nThe leading Cubist architects were Pavel Janák, Josef Gočár, Vlastislav Hofman, Emil Králíček and Josef Chochol. They worked mostly in Prague but also in other Bohemian towns. The best-known Cubist building is the House of the Black Madonna in the Old Town of Prague built in 1912 by Josef Gočár with the only Cubist café in the world, Grand Café Orient. Vlastislav Hofman built the entrance pavilions of Ďáblice Cemetery in 1912–1914, Josef Chochol designed several residential houses under Vyšehrad. A Cubist streetlamp has also been preserved near the Wenceslas Square, designed by Emil Králíček in 1912, who also built the Diamond House in the New Town of Prague around 1913.\n\nQuestion:\nWhere is the House of the Black Madonna located?\n\nassistant\nThe House of the Black Madonna is located in the Old Town of Prague, which is the center of the city of Prague.",
+      "gold_answers": [
+        "Old Town of Prague"
+      ],
+      "exact_match": 0,
+      "f1": 0.05
+    }
+  ],
+  "model_directory": "qwen2.5-0.5b",
+  "source_file": "parsed_outputs_qwen2.5-0.5b-q4_k_m.gguf.json",
+  "root": "/home/bonda/Documents/ESW/final-codes/qwen2.5-0.5b"
+}

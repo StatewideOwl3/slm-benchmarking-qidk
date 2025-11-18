@@ -1,0 +1,512 @@
+{
+  "overall": {
+    "exact_match": 0.02,
+    "f1": 0.11537147956333377,
+    "question_count": 50
+  },
+  "per_question": [
+    {
+      "id": 0,
+      "question": "What group's burial practices over-lapped with the Roman's?",
+      "model_answer": "**ANSWER**\n**Explanation:**\nThe Roman burial practices were largely characterized by a focus on the deceased's dignity and the preservation of their souls. The Christian Church, while acknowledging the opportunity to offer food to the poor, did not strictly adhere to the Roman tradition. The emphasis was on the deceased's spiritual well-being and the preservation of their souls.",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.03278688524590164
+    },
+    {
+      "id": 1,
+      "question": "what were the hydrogen lifted airships called?",
+      "model_answer": "The first hydrogen-filled balloon was invented by Jacques Charles in 1783.",
+      "gold_answers": [
+        "Zeppelins"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 2,
+      "question": "How many people were killed as a result?",
+      "model_answer": "69,197 people were killed as a result.",
+      "gold_answers": [
+        "69,197"
+      ],
+      "exact_match": 0,
+      "f1": 0.4
+    },
+    {
+      "id": 3,
+      "question": "How long does sensory memory take to store information?",
+      "model_answer": "**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**\n\n**60 seconds**\n\n**Final Answer**",
+      "gold_answers": [
+        "less than one second"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 4,
+      "question": "Through 7/1/13, what percentage of all Ultrabook sales in the U.S. were MacBook Airs?",
+      "model_answer": "2.8 million MacBooks in Q2 2012 (the majority of which are the MacBook Air)",
+      "gold_answers": [
+        "56"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 5,
+      "question": "What South African city participated in the first public video-conference?",
+      "model_answer": "followed immediately by the short answer. Do not include commentary before that marker.\n\nContext:\nFinally, in the 1990s, Internet Protocol-based videoconferencing became possible, and more efficient video compression technologies were developed, permitting desktop, or personal computer (PC)-based videoconferencing. In 1992 CU-SeeMe was developed at Cornell by Tim Dorcey et al. In 1995 the first public videoconference between North America and Africa took place, linking a technofair in San Francisco with a techno-rave and cyberdeli in Cape Town. At the Winter Olympics opening ceremony in Nagano, Japan, Seiji Ozawa conducted the Ode to Joy from Beethoven's Ninth Symphony simultaneously across five continents in near-real time.\n\nQuestion:\nWhat South African city participated in the first public video-conference?\nmodel",
+      "gold_answers": [
+        "Cape Town"
+      ],
+      "exact_match": 0,
+      "f1": 0.032
+    },
+    {
+      "id": 6,
+      "question": "Lebanese people of what religion sometimes consider Lebanese to be a distinct language?",
+      "model_answer": "The literal meaning of \"Lebanese\" is not a specific, universally defined religious term. It is a common term used by Christians in Lebanon, often in a sense of identity and distinctness. The context suggests that the Christian population in Lebanon may consider Lebanese to be a distinct language, which could be a form of identity or a specific religious concept.",
+      "gold_answers": [
+        "Christian"
+      ],
+      "exact_match": 0,
+      "f1": 0.03278688524590164
+    },
+    {
+      "id": 7,
+      "question": "What movie won the 1930 Academy Award for Best Picture?",
+      "model_answer": "\"Junior\" Laemmle persuaded his father to bring Universal up to date. He bought and built theaters, converted the studio to sound production, and made several forays into high-quality production. His early efforts included the critically mauled part-talkie version of Edna Ferber's novel Show Boat (1929), the lavish musical Broadway (1929) which included Technicolor sequences; and the first all-color musical feature (for Universal), King of Jazz (1930).\n\nThe more serious All Quiet on the Western Front (1930), won its year's Best Picture Oscar.",
+      "gold_answers": [
+        "All Quiet on the Western Front"
+      ],
+      "exact_match": 0,
+      "f1": 0.12903225806451613
+    },
+    {
+      "id": 8,
+      "question": "What are the only Spielberg films since Sugarland Express to not have music by John Williams?",
+      "model_answer": "```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```",
+      "gold_answers": [
+        "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 9,
+      "question": "Which member of Austrian parliament wanted Schwarzenegger to lose his Austrian citizenship?",
+      "model_answer": "Following the context, Peter Pilz, a member of the Austrian Green Party, demanded that Parliament revoke Schwarzenegger's Austrian citizenship due to his decision not to prevent the executions of Donald Beardslee and Stanley Williams, causing damage of reputation to Austria, where the death penalty has been abolished since 1968.",
+      "gold_answers": [
+        "Peter Pilz"
+      ],
+      "exact_match": 0,
+      "f1": 0.07692307692307693
+    },
+    {
+      "id": 10,
+      "question": "What did English players do after the ban?",
+      "model_answer": "**ANSWER**\n\n**Explanation:**\n\nThe late '80s saw a significant decline in English football performance, with the late '80s being a low point for the league. The Football League First Division, which had been the top level of English football since 1888, was well behind leagues such as Italy's Serie A and Spain's La Liga in attendances and revenues, and several top English players had moved abroad.\n\n**Therefore,** the late '80s had marked a low point for English football performance.",
+      "gold_answers": [
+        "moved abroad"
+      ],
+      "exact_match": 0,
+      "f1": 0.04878048780487806
+    },
+    {
+      "id": 11,
+      "question": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?",
+      "model_answer": "Soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n\n**Answer:**\n\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n\n**Answer:**\n\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n\n**Answer:**\n\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n\n**Answer:**\n\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n\n**Answer:**\n\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation what examples of what?\n\n**Answer:**\n\nSoul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy",
+      "gold_answers": [
+        "tenets of Baptist churches"
+      ],
+      "exact_match": 0,
+      "f1": 0.010471204188481674
+    },
+    {
+      "id": 12,
+      "question": "What percentage of the New York City population is Japanese?",
+      "model_answer": "6.3% of New York City is Japanese.",
+      "gold_answers": [
+        "0.3%"
+      ],
+      "exact_match": 0,
+      "f1": 0.2
+    },
+    {
+      "id": 13,
+      "question": "When did the English army start to retreat and evacuate NYC during the Battle of Long Island?",
+      "model_answer": "Following the battle, the city became the British military and political base of operations in North America.",
+      "gold_answers": [
+        "1783"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 14,
+      "question": "Aside from human beings, what creature's needs were traditionally seen to at inns?",
+      "model_answer": "The creature's needs were typically seen to at inns.",
+      "gold_answers": [
+        "horses"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 15,
+      "question": "How many fans were in attendance during Everton's match against Liverpool on September 18, 1948?",
+      "model_answer": "followed immediately by the short answer. Do not include commentary before that marker.\n\nContext:\nThe record attendance for an Everton home match is 78,299 against Liverpool on 18 September 1948. Amazingly, there was only 1 injury at this game-Tom Fleetwood was hit on the head by a coin thrown from the crowd whilst he marched around the perimeter with St Edward's Orphanage Band, playing the cornet. Goodison Park, like all major English football grounds since the recommendations of the Taylor Report were implemented, is now an all-seater and only holds just under 40,000, meaning it is unlikely that this attendance record will ever be broken at Goodison. Everton's record transfer paid was to Chelsea for Belgian forward Romelu Lukaku for a sum of £28m. Everton bought the player after he played the previous year with the team on loan.\n\nQuestion:\nHow many fans were in attendance during Everton's match against Liverpool on September 18, 1948?\nmodel\n```\n78,299\n```",
+      "gold_answers": [
+        "78,299"
+      ],
+      "exact_match": 0,
+      "f1": 0.02395209580838323
+    },
+    {
+      "id": 16,
+      "question": "What organization did General Ashcroft assign to lead organization in terrorism investigations?",
+      "model_answer": "**FBI**",
+      "gold_answers": [
+        "FBI"
+      ],
+      "exact_match": 1,
+      "f1": 1.0
+    },
+    {
+      "id": 17,
+      "question": "What did Uesugi encourage?",
+      "model_answer": "followed immediately by the short answer.",
+      "gold_answers": [
+        "the \"way of the warrior as death\""
+      ],
+      "exact_match": 0,
+      "f1": 0.15384615384615383
+    },
+    {
+      "id": 18,
+      "question": "What type of climate is San Diego classified as having?",
+      "model_answer": "**Answer:** San Diego is classified as having a semi-arid climate.",
+      "gold_answers": [
+        "semi-arid climate"
+      ],
+      "exact_match": 0,
+      "f1": 0.42857142857142855
+    },
+    {
+      "id": 19,
+      "question": "How many pigs died in Sichuan?",
+      "model_answer": "12.5 million pigs died in Sichuan.",
+      "gold_answers": [
+        "1 million"
+      ],
+      "exact_match": 0,
+      "f1": 0.22222222222222224
+    },
+    {
+      "id": 20,
+      "question": "Which Minister could a conscripted soldier expect to serve under during his year of service?",
+      "model_answer": "Followed by the short answer.",
+      "gold_answers": [
+        "Minister of the Guards"
+      ],
+      "exact_match": 0,
+      "f1": 0.22222222222222224
+    },
+    {
+      "id": 21,
+      "question": "Orozco's army was called by what name?",
+      "model_answer": "Followed by the short answer.",
+      "gold_answers": [
+        "Orozquistas"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 22,
+      "question": "Where were the 1952 Olympics held?",
+      "model_answer": "The 1952 Olympics were held in Helsinki, Finland.",
+      "gold_answers": [
+        "Helsinki"
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222
+    },
+    {
+      "id": 23,
+      "question": "Which studio produced 'Super 8'?",
+      "model_answer": "followed immediately by the short answer. Do not include commentary before that marker.\n\nContext:\nSpielberg served as an uncredited executive producer on The Haunting, The Prince of Egypt, Just Like Heaven, Shrek, Road to Perdition, and Evolution. He served as an executive producer for the 1997 film Men in Black, and its sequels, Men in Black II and Men in Black III. In 2005, he served as a producer of Memoirs of a Geisha, an adaptation of the novel by Arthur Golden, a film to which he was previously attached as director. In 2006, Spielberg co-executive produced with famed filmmaker Robert Zemeckis a CGI children's film called Monster House, marking their eighth collaboration since 1990's Back to the Future Part III. He also teamed with Clint Eastwood for the first time in their careers, co-producing Eastwood's Flags of Our Fathers and Letters from Iwo Jima with Robert Lorenz and Eastwood himself. He earned his twelfth Academy Award nomination for the latter film as it was nominated for Best Picture. Spielberg served as executive producer for Disturbia and the Transformers live action film with Brian Goldner, an employee of Hasbro. The film was directed by Michael Bay and written by Roberto Orci and Alex Kurtzman, and Spielberg continued to collaborate on the sequels, Transformers: Revenge of the Fallen and Transformers: Dark of the Moon. In 2011, he produced the J. J. Abrams science fiction thriller film Super 8 for Paramount Pictures.\n\nQuestion:\nWhich studio produced 'Super 8'?\nmodel",
+      "gold_answers": [
+        "Paramount Pictures"
+      ],
+      "exact_match": 0,
+      "f1": 0.015748031496062992
+    },
+    {
+      "id": 24,
+      "question": "Who is an example of someone that states that affirmative action is another form of discrimination?",
+      "model_answer": "The Ward Connerlyean, who asserts that affirmative action requires the very discrimination it is seeking to eliminate.",
+      "gold_answers": [
+        "Ward Connerly"
+      ],
+      "exact_match": 0,
+      "f1": 0.10526315789473684
+    },
+    {
+      "id": 25,
+      "question": "Who developed EMALS?",
+      "model_answer": "The Indian Navy chief Admiral Nirmal Kumar Verma developed EMALS.",
+      "gold_answers": [
+        "General Atomics"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 26,
+      "question": "What are two reasons for which Galicia's rural areas have been largely abandoned?",
+      "model_answer": "Here are two reasons for the disappearance of rural areas in Galicia:\n\n1.  **Economic decline:** The rapid increase of population, particularly during the mid-20th century, led to a significant decrease in the number of people working in the Tertiary and Quaternary sectors of the economy.\n\n2.  **Lack of access to essential services:** The decline in agricultural productivity and the shrinking number of people working in the Tertiary and Quaternary sectors resulted in a significant reduction in the number of people who could access essential services, such as healthcare, education, and social welfare.\n\n***FINAL ANSWER***",
+      "gold_answers": [
+        "Economic development and mechanization of agriculture"
+      ],
+      "exact_match": 0,
+      "f1": 0.05940594059405941
+    },
+    {
+      "id": 27,
+      "question": "What do the hole walls in two-layer PCBs have to be before they can be electroplated?",
+      "model_answer": "**ANSWER**\n\n**Explanation:**\n\nThe hole walls in two-layer PCBs have a specific requirement of being *before* the holes can be electroplated. This is because the high-temperature decomposition products of bonding agent in the laminate system, while not directly damaging the copper layers, can also cause a significant reduction in the conductivity of the holes. This is because the holes are designed to be *very* small, typically only a few nanometers in diameter. This small size makes it difficult to effectively create a strong, stable connection, which is crucial for the high-reliability properties of the board. Silver (Ag) is a common and relatively inexpensive metal that is inert under normal conditions, but it is also susceptible to corrosion. Therefore, the need for a small hole wall is a fundamental requirement for the high-reliability properties of a two-layer PCB.\n\n**Further Considerations:**\n\n*   **Effectiveness:** The effectiveness of the hole wall depends on several factors:\n    *   **Thickness:** A smaller hole wall generally provides a stronger and more stable connection.\n    *   **Material:** The material of the hole wall (e.g., silver) can influence its conductivity.\n    *   **Presence of other materials:**",
+      "gold_answers": [
+        "conductive"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 28,
+      "question": "What is Amphetamine's market name?",
+      "model_answer": "Following the context, Amphetamine's market name is **\"Receptiva\"**.",
+      "gold_answers": [
+        "Institute of Experimental Therapy"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 29,
+      "question": "When did Beyonce first make the Time 100 List?",
+      "model_answer": "The Guardian named her Artist of the Decade, Llewyn-Smith wrote, \"Why Beyoncé? [...] because she made not one but two of the decade's greatest singles, with Crazy in Love and Single Ladies (Put a Ring on It), not to mention her hits with Destiny's Child; and this was the decade when singles – particularly R&B singles – regained their status as pop's favourite medium. [...] [She] and not any superannuated rock star was arguably the greatest live performer of the past 10 years.\"",
+      "gold_answers": [
+        "2013"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 30,
+      "question": "Who proposed an evolutionary concept of the gene as a unit of natural selection?",
+      "model_answer": "Following the 1930s and 1940s to integrate molecular genetics with Darwinian evolution, which was introduced by Julian Huxley, evolutionary biologists subsequently refined this concept, such as George C. Williams' gene-centric view of evolution.",
+      "gold_answers": [
+        "George C. Williams"
+      ],
+      "exact_match": 0,
+      "f1": 0.1621621621621622
+    },
+    {
+      "id": 31,
+      "question": "How many Baptists registered for the meeting in Atlanta?",
+      "model_answer": "20,000",
+      "gold_answers": [
+        "More than 20,000"
+      ],
+      "exact_match": 0,
+      "f1": 0.6666666666666666
+    },
+    {
+      "id": 32,
+      "question": "Which former CBS News correspondent graduated from BYU?",
+      "model_answer": "Followed by the short answer.",
+      "gold_answers": [
+        "Art Rascon"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 33,
+      "question": "As an inhaler, what was epinephrine used to treat?",
+      "model_answer": "**ANSWER**\n\n**Explanation:**\n\nEpinephrine was a potent anesthetic and anti-inflammatory agent, used to treat a variety of conditions, including asthma attacks, respiratory distress, and even certain types of cancer. It was particularly effective for acute respiratory distress, which was a common complication of asthma. The act of injecting it into the lungs, while not directly lethal to the body, was a relatively safe and non-invasive method of administering it. The specific use of epinephrine in the context of asthma was a specific and often difficult-to-control condition. The \"Purine\" designation in the context of the active compound suggests that the active substance was a specific, low-potency purine, which could be metabolized into its various active forms, including the potent form of epinephrine. This specific purine was a significant benefit for the patient, as it was a relatively safe and non-invasive treatment.\n\n**Further Considerations:**\n\n*   **Specificity:** The \"Purine\" designation in the context of the active compound is a key feature that makes it a valuable tool for the patient. It suggests that the active substance was a specific, low-potency purine, which could be metabolized into its various active forms, including the potent form of epinephrine",
+      "gold_answers": [
+        "nasal congestion"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 34,
+      "question": "What significantly increased the magnates wealth?",
+      "model_answer": "**Answer:** 16th century\n\n**Explanation:**\n\nThe 16th century was a time of significant political and economic upheaval. The anti-magnate movement, which was gaining momentum, demanded that all such possessions be returned to their proper owner, the king. This was a direct challenge to the power of the szlachta, a small group of individuals who were often marginalized and impoverished.\n\n**Therefore, the magnates' wealth was significantly increased.**",
+      "gold_answers": [
+        "Magnates"
+      ],
+      "exact_match": 0,
+      "f1": 0.02985074626865672
+    },
+    {
+      "id": 35,
+      "question": "Along with Descartes, Machiavelli and Hume, what notable philosopher developed a theory of emotions?",
+      "model_answer": "**Answer:**\n\n**Machiavelli** developed a theory of emotions, which was later popularized by **Renée Descartes**.\n\n**Explanation:**\n\n*   **Renée Descartes**, a prominent figure in the 19th century, believed that the world was governed by a divine order and that the soul was the only thing that could be known. This led him to the conclusion that all emotions were necessary for virtue, and that the soul was the only thing that could be learned through reason.\n\n*   **Machiavelli** also developed a theory of emotions, which was later popularized by **Renée Descartes**.\n\n*   **Renée Descartes**, a key figure in the 19th century, believed that the world was governed by a divine order and that the soul was the only thing that could be known. This led him to the conclusion that all emotions were necessary for virtue, and that the soul was the only thing that could be learned through reason.\n\n*   **Machiavelli** also developed a theory of emotions, which was later popularized by **Renée Descartes**.\n\n*   **Renée Descartes**, a key figure in the 19th century, believed that the world was governed by a divine order and that the soul was",
+      "gold_answers": [
+        "Baruch Spinoza"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 36,
+      "question": "In addition to Yale Reparatory Theatre, what are two additional major theatre houses located in New Haven?",
+      "model_answer": "The Long Wharf Theatre, the Shubert Theatre, and the College Street Music Hall.",
+      "gold_answers": [
+        "Long Wharf Theatre, and the Shubert Theatre"
+      ],
+      "exact_match": 0,
+      "f1": 0.7000000000000001
+    },
+    {
+      "id": 37,
+      "question": "What geographical feature separated Universal City Studios from Hollywood?",
+      "model_answer": "**ANSWER**\n\n**Explanation:**\n\nUniversal City Studios was the largest studio in Hollywood, and remained so for a decade. However, it sought an audience mostly in small towns, producing mostly inexpensive melodramas, westerns, and serials.\n\n**Further Considerations:**\n\n*   **Specificity:** The question is specific to a particular location, making it difficult to determine a definitive geographical feature.\n*   **Uncertainty:** The question implies a lack of clarity about the location.\n*   **Potential for Misinterpretation:** The question could be a form of misdirection, as it could be a question about a specific location.\n*   **Uncertainty about the \"Why\":** The question also suggests a lack of a clear reason for the location.\n*   **Possible Interpretations:** The question could be a question about a specific location, making it difficult to determine a definitive answer.\n*   **Uncertainty about the \"What\":** The question could be a question about a specific location, making it difficult to determine a definitive answer.\n*   **Uncertainty about the \"How\":** The question could be a question about a specific location, making it difficult to determine a definitive answer.\n*",
+      "gold_answers": [
+        "Cahuenga Pass"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 38,
+      "question": "Project Gemini helped recruit experienced people for which upcoming lunar missions?",
+      "model_answer": "Yes, Project Gemini helped recruit experienced people for which upcoming lunar missions.",
+      "gold_answers": [
+        "Apollo"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 39,
+      "question": "How many people live on Norfolk Island?",
+      "model_answer": "1,796 inhabitants living on Norfolk Island.",
+      "gold_answers": [
+        "1,796"
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445
+    },
+    {
+      "id": 40,
+      "question": "More people belong to what religion than any other in the Western world?",
+      "model_answer": "More people belong to what religion than any other in the Western world?",
+      "gold_answers": [
+        "Christianity"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 41,
+      "question": "What is the National Portrait Gallery known for housing?",
+      "model_answer": "The National Portrait Gallery known for housing.",
+      "gold_answers": [
+        "depictions of figures from British history"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 42,
+      "question": "Killer Queen reached what number on the Billboard Hot 100?",
+      "model_answer": "Followed by the short answer.",
+      "gold_answers": [
+        "12"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 43,
+      "question": "What was the windmill used for?",
+      "model_answer": "**ANSWER**\n\n**Explanation:**\n\nThe windmill was a significant technological advancement that significantly reduced the cost and time required to produce a large quantity of crops like almonds and citrus fruits. It was a crucial tool for the burgeoning economies of Europe and the Arab world.\n\n**Further Considerations:**\n\n*   **Specificity:** The question's focus was on the windmill, which was a relatively small, but important, device. The context highlights the importance of trade and the increasing importance of agricultural production.\n*   **Accuracy:** The question's accuracy depends on the specific context provided. For example, if the question was about the windmill's use in the Arab world, the context would specify the specific type of crop it was used for.\n*   **Uncertainty:** The question's lack of specific details could be interpreted in different ways. For example, if the question was about the windmill's impact on the Arab world, it could be interpreted as a statement about the windmill's role in the Arab world.\n*   **Potential for Misinterpretation:** The question could be a simple test of recall, but it could also be a more nuanced question requiring a deeper understanding of the windmill's capabilities and its impact on the Arab",
+      "gold_answers": [
+        "irrigation and farming"
+      ],
+      "exact_match": 0,
+      "f1": 0.009999999999999998
+    },
+    {
+      "id": 44,
+      "question": "What will cause the amount of homosexuality to vary?",
+      "model_answer": "The amount of homosexuality to vary depends on what component of sexual orientation is being assessed:\n\n*   **Sexual attraction:** 7-10\n*   **Sexual behavior:** 10-12\n*   **Sexual identity:** 10-12\n\nTherefore, the prevalence of homosexuality to vary will be higher in individuals who are experiencing a combination of these factors, such as being both same-sex attracted and gay, lesbian, or bisexual.",
+      "gold_answers": [
+        "which component of sexual orientation is being assessed"
+      ],
+      "exact_match": 0,
+      "f1": 0.20588235294117646
+    },
+    {
+      "id": 45,
+      "question": "What automotive brands exist in Portugal?",
+      "model_answer": "The automotive brands exist in Portugal.",
+      "gold_answers": [
+        "Volkswagen Autoeuropa and Peugeot Citroen"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 46,
+      "question": "What is the Chinese Muslim community called?",
+      "model_answer": ", the Chinese Muslim community is called the **Hui**.",
+      "gold_answers": [
+        "gya kachee"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 47,
+      "question": "How did the army get to the new anchorage location?",
+      "model_answer": "**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**\n\n**Answer:**",
+      "gold_answers": [
+        "the army proceeded overland."
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    },
+    {
+      "id": 48,
+      "question": "Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",
+      "model_answer": "The vocalists consisted of artists such as Frank Sinatra, Doris Day, Johnny Mathis, Connie Francis, Nat King Cole, and Perry Como, a prominent early adult contemporary radio artist.",
+      "gold_answers": [
+        "Connie Francis"
+      ],
+      "exact_match": 0,
+      "f1": 0.13333333333333333
+    },
+    {
+      "id": 49,
+      "question": "Where is the House of the Black Madonna located? ",
+      "model_answer": "```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```\n```",
+      "gold_answers": [
+        "Old Town of Prague"
+      ],
+      "exact_match": 0,
+      "f1": 0.0
+    }
+  ],
+  "model_directory": "gemma3-270m",
+  "source_file": "parsed_outputs_gemma-3-270m-it-q4_0.gguf.json",
+  "root": "/home/bonda/Documents/ESW/final-codes/gemma3-270m"
+}
