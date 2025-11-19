@@ -1,0 +1,607 @@
+{
+  "task": "cnn_dailymail_summarization",
+  "model": "/data/data/com.termux/files/home/models/Qwen3-1.7B.Q4_K_M.gguf",
+  "model_slug": "Qwen3-1.7B.Q4_K_M.gguf",
+  "entries": [
+    {
+      "id": 0,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      21.42 ms /   532 runs   (    0.04 ms per token, 24831.96 tokens per second)",
+        "llama_perf_context_print:        load time =    3917.12 ms",
+        "llama_perf_context_print: prompt eval time =    2932.88 ms /   276 tokens (   10.63 ms per token,    94.11 tokens per second)",
+        "llama_perf_context_print:        eval time =    6898.81 ms /   255 runs   (   27.05 ms per token,    36.96 tokens per second)",
+        "llama_perf_context_print:       total time =   10895.53 ms /   531 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 5.572985264810433e-07
+    },
+    {
+      "id": 1,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      24.30 ms /   498 runs   (    0.05 ms per token, 20492.98 tokens per second)",
+        "llama_perf_context_print:        load time =    3274.65 ms",
+        "llama_perf_context_print: prompt eval time =    2773.52 ms /   242 tokens (   11.46 ms per token,    87.25 tokens per second)",
+        "llama_perf_context_print:        eval time =    7117.28 ms /   255 runs   (   27.91 ms per token,    35.83 tokens per second)",
+        "llama_perf_context_print:       total time =   10476.87 ms /   497 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 5.38287718379012e-07
+    },
+    {
+      "id": 2,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      22.49 ms /   470 runs   (    0.05 ms per token, 20900.04 tokens per second)",
+        "llama_perf_context_print:        load time =    3530.00 ms",
+        "llama_perf_context_print: prompt eval time =    3019.53 ms /   252 tokens (   11.98 ms per token,    83.46 tokens per second)",
+        "llama_perf_context_print:        eval time =    6342.89 ms /   217 runs   (   29.23 ms per token,    34.21 tokens per second)",
+        "llama_perf_context_print:       total time =    9949.83 ms /   469 tokens",
+        "llama_perf_context_print:    graphs reused =        215"
+      ],
+      "carbon_emissions_kg": 5.074819559419733e-07
+    },
+    {
+      "id": 3,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      27.58 ms /   500 runs   (    0.06 ms per token, 18131.05 tokens per second)",
+        "llama_perf_context_print:        load time =    3535.09 ms",
+        "llama_perf_context_print: prompt eval time =    3008.90 ms /   244 tokens (   12.33 ms per token,    81.09 tokens per second)",
+        "llama_perf_context_print:        eval time =    7695.52 ms /   255 runs   (   30.18 ms per token,    33.14 tokens per second)",
+        "llama_perf_context_print:       total time =   11319.97 ms /   499 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 5.786383666999244e-07
+    },
+    {
+      "id": 4,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      29.57 ms /   514 runs   (    0.06 ms per token, 17379.54 tokens per second)",
+        "llama_perf_context_print:        load time =    3796.13 ms",
+        "llama_perf_context_print: prompt eval time =    3262.78 ms /   258 tokens (   12.65 ms per token,    79.07 tokens per second)",
+        "llama_perf_context_print:        eval time =    7905.69 ms /   255 runs   (   31.00 ms per token,    32.26 tokens per second)",
+        "llama_perf_context_print:       total time =   11796.45 ms /   513 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.037858249273558e-07
+    },
+    {
+      "id": 5,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      30.14 ms /   512 runs   (    0.06 ms per token, 16990.21 tokens per second)",
+        "llama_perf_context_print:        load time =    3847.61 ms",
+        "llama_perf_context_print: prompt eval time =    3289.82 ms /   256 tokens (   12.85 ms per token,    77.82 tokens per second)",
+        "llama_perf_context_print:        eval time =    8050.22 ms /   255 runs   (   31.57 ms per token,    31.68 tokens per second)",
+        "llama_perf_context_print:       total time =   11996.87 ms /   511 tokens",
+        "llama_perf_context_print:    graphs reused =        254"
+      ],
+      "carbon_emissions_kg": 6.087862708137665e-07
+    },
+    {
+      "id": 6,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      30.28 ms /   521 runs   (    0.06 ms per token, 17206.08 tokens per second)",
+        "llama_perf_context_print:        load time =    4635.47 ms",
+        "llama_perf_context_print: prompt eval time =    4070.27 ms /   265 tokens (   15.36 ms per token,    65.11 tokens per second)",
+        "llama_perf_context_print:        eval time =    8108.24 ms /   255 runs   (   31.80 ms per token,    31.45 tokens per second)",
+        "llama_perf_context_print:       total time =   12839.49 ms /   520 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.538938097849253e-07
+    },
+    {
+      "id": 7,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      31.93 ms /   515 runs   (    0.06 ms per token, 16129.03 tokens per second)",
+        "llama_perf_context_print:        load time =    4569.91 ms",
+        "llama_perf_context_print: prompt eval time =    4018.15 ms /   259 tokens (   15.51 ms per token,    64.46 tokens per second)",
+        "llama_perf_context_print:        eval time =    8283.54 ms /   255 runs   (   32.48 ms per token,    30.78 tokens per second)",
+        "llama_perf_context_print:       total time =   12952.98 ms /   514 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.594168528357932e-07
+    },
+    {
+      "id": 8,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      32.42 ms /   504 runs   (    0.06 ms per token, 15547.88 tokens per second)",
+        "llama_perf_context_print:        load time =    3887.81 ms",
+        "llama_perf_context_print: prompt eval time =    3342.07 ms /   248 tokens (   13.48 ms per token,    74.21 tokens per second)",
+        "llama_perf_context_print:        eval time =    8366.77 ms /   255 runs   (   32.81 ms per token,    30.48 tokens per second)",
+        "llama_perf_context_print:       total time =   12357.43 ms /   503 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.339669861407719e-07
+    },
+    {
+      "id": 9,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      33.37 ms /   494 runs   (    0.07 ms per token, 14804.60 tokens per second)",
+        "llama_perf_context_print:        load time =    3825.64 ms",
+        "llama_perf_context_print: prompt eval time =    3265.33 ms /   238 tokens (   13.72 ms per token,    72.89 tokens per second)",
+        "llama_perf_context_print:        eval time =    8385.56 ms /   255 runs   (   32.88 ms per token,    30.41 tokens per second)",
+        "llama_perf_context_print:       total time =   12314.63 ms /   493 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.282631567028497e-07
+    },
+    {
+      "id": 10,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      33.58 ms /   495 runs   (    0.07 ms per token, 14743.11 tokens per second)",
+        "llama_perf_context_print:        load time =    4382.07 ms",
+        "llama_perf_context_print: prompt eval time =    3815.08 ms /   239 tokens (   15.96 ms per token,    62.65 tokens per second)",
+        "llama_perf_context_print:        eval time =    8488.91 ms /   255 runs   (   33.29 ms per token,    30.04 tokens per second)",
+        "llama_perf_context_print:       total time =   12975.83 ms /   494 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.592588738637682e-07
+    },
+    {
+      "id": 11,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      34.21 ms /   497 runs   (    0.07 ms per token, 14528.77 tokens per second)",
+        "llama_perf_context_print:        load time =    4470.96 ms",
+        "llama_perf_context_print: prompt eval time =    3907.74 ms /   241 tokens (   16.21 ms per token,    61.67 tokens per second)",
+        "llama_perf_context_print:        eval time =    8657.72 ms /   255 runs   (   33.95 ms per token,    29.45 tokens per second)",
+        "llama_perf_context_print:       total time =   13232.91 ms /   496 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.739090004854316e-07
+    },
+    {
+      "id": 12,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      34.33 ms /   503 runs   (    0.07 ms per token, 14651.05 tokens per second)",
+        "llama_perf_context_print:        load time =    4642.50 ms",
+        "llama_perf_context_print: prompt eval time =    4066.61 ms /   247 tokens (   16.46 ms per token,    60.74 tokens per second)",
+        "llama_perf_context_print:        eval time =    8831.29 ms /   255 runs   (   34.63 ms per token,    28.87 tokens per second)",
+        "llama_perf_context_print:       total time =   13578.95 ms /   502 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.896010705779456e-07
+    },
+    {
+      "id": 13,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      34.73 ms /   495 runs   (    0.07 ms per token, 14251.58 tokens per second)",
+        "llama_perf_context_print:        load time =    4633.42 ms",
+        "llama_perf_context_print: prompt eval time =    3974.74 ms /   239 tokens (   16.63 ms per token,    60.13 tokens per second)",
+        "llama_perf_context_print:        eval time =    8898.15 ms /   255 runs   (   34.89 ms per token,    28.66 tokens per second)",
+        "llama_perf_context_print:       total time =   13639.71 ms /   494 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.94617550473731e-07
+    },
+    {
+      "id": 14,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      34.86 ms /   500 runs   (    0.07 ms per token, 14344.73 tokens per second)",
+        "llama_perf_context_print:        load time =    4724.60 ms",
+        "llama_perf_context_print: prompt eval time =    4163.75 ms /   249 tokens (   16.72 ms per token,    59.80 tokens per second)",
+        "llama_perf_context_print:        eval time =    8800.79 ms /   250 runs   (   35.20 ms per token,    28.41 tokens per second)",
+        "llama_perf_context_print:       total time =   13631.52 ms /   499 tokens",
+        "llama_perf_context_print:    graphs reused =        248"
+      ],
+      "carbon_emissions_kg": 6.943268026313601e-07
+    },
+    {
+      "id": 15,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      34.95 ms /   494 runs   (    0.07 ms per token, 14136.10 tokens per second)",
+        "llama_perf_context_print:        load time =    4020.65 ms",
+        "llama_perf_context_print: prompt eval time =    3442.74 ms /   242 tokens (   14.23 ms per token,    70.29 tokens per second)",
+        "llama_perf_context_print:        eval time =    8904.45 ms /   251 runs   (   35.48 ms per token,    28.19 tokens per second)",
+        "llama_perf_context_print:       total time =   13032.36 ms /   493 tokens",
+        "llama_perf_context_print:    graphs reused =        249"
+      ],
+      "carbon_emissions_kg": 6.638248248844556e-07
+    },
+    {
+      "id": 16,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      36.59 ms /   498 runs   (    0.07 ms per token, 13608.79 tokens per second)",
+        "llama_perf_context_print:        load time =    4093.28 ms",
+        "llama_perf_context_print: prompt eval time =    3507.24 ms /   242 tokens (   14.49 ms per token,    69.00 tokens per second)",
+        "llama_perf_context_print:        eval time =    9133.06 ms /   255 runs   (   35.82 ms per token,    27.92 tokens per second)",
+        "llama_perf_context_print:       total time =   13336.56 ms /   497 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.791793090433188e-07
+    },
+    {
+      "id": 17,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      37.12 ms /   489 runs   (    0.08 ms per token, 13173.85 tokens per second)",
+        "llama_perf_context_print:        load time =    4578.33 ms",
+        "llama_perf_context_print: prompt eval time =    3994.95 ms /   233 tokens (   17.15 ms per token,    58.32 tokens per second)",
+        "llama_perf_context_print:        eval time =    9176.29 ms /   255 runs   (   35.99 ms per token,    27.79 tokens per second)",
+        "llama_perf_context_print:       total time =   13865.81 ms /   488 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.04142746799965e-07
+    },
+    {
+      "id": 18,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      33.67 ms /   475 runs   (    0.07 ms per token, 14105.84 tokens per second)",
+        "llama_perf_context_print:        load time =    4146.91 ms",
+        "llama_perf_context_print: prompt eval time =    3555.27 ms /   244 tokens (   14.57 ms per token,    68.63 tokens per second)",
+        "llama_perf_context_print:        eval time =    8347.08 ms /   230 runs   (   36.29 ms per token,    27.55 tokens per second)",
+        "llama_perf_context_print:       total time =   12595.60 ms /   474 tokens",
+        "llama_perf_context_print:    graphs reused =        228"
+      ],
+      "carbon_emissions_kg": 6.432954646615506e-07
+    },
+    {
+      "id": 19,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      31.39 ms /   460 runs   (    0.07 ms per token, 14653.41 tokens per second)",
+        "llama_perf_context_print:        load time =    4165.92 ms",
+        "llama_perf_context_print: prompt eval time =    3574.64 ms /   244 tokens (   14.65 ms per token,    68.26 tokens per second)",
+        "llama_perf_context_print:        eval time =    7790.30 ms /   215 runs   (   36.23 ms per token,    27.60 tokens per second)",
+        "llama_perf_context_print:       total time =   12051.48 ms /   459 tokens",
+        "llama_perf_context_print:    graphs reused =        213"
+      ],
+      "carbon_emissions_kg": 6.132475844787322e-07
+    },
+    {
+      "id": 20,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      38.33 ms /   500 runs   (    0.08 ms per token, 13043.59 tokens per second)",
+        "llama_perf_context_print:        load time =    4202.04 ms",
+        "llama_perf_context_print: prompt eval time =    3597.66 ms /   244 tokens (   14.74 ms per token,    67.82 tokens per second)",
+        "llama_perf_context_print:        eval time =    9437.79 ms /   255 runs   (   37.01 ms per token,    27.02 tokens per second)",
+        "llama_perf_context_print:       total time =   13754.24 ms /   499 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.994568487557367e-07
+    },
+    {
+      "id": 21,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      38.70 ms /   484 runs   (    0.08 ms per token, 12504.84 tokens per second)",
+        "llama_perf_context_print:        load time =    3959.18 ms",
+        "llama_perf_context_print: prompt eval time =    3371.24 ms /   228 tokens (   14.79 ms per token,    67.63 tokens per second)",
+        "llama_perf_context_print:        eval time =    9478.09 ms /   255 runs   (   37.17 ms per token,    26.90 tokens per second)",
+        "llama_perf_context_print:       total time =   13554.14 ms /   483 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 6.891211722088375e-07
+    },
+    {
+      "id": 22,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      32.54 ms /   473 runs   (    0.07 ms per token, 14536.85 tokens per second)",
+        "llama_perf_context_print:        load time =    4469.63 ms",
+        "llama_perf_context_print: prompt eval time =    3878.21 ms /   258 tokens (   15.03 ms per token,    66.53 tokens per second)",
+        "llama_perf_context_print:        eval time =    7933.93 ms /   214 runs   (   37.07 ms per token,    26.97 tokens per second)",
+        "llama_perf_context_print:       total time =   12499.63 ms /   472 tokens",
+        "llama_perf_context_print:    graphs reused =        213"
+      ],
+      "carbon_emissions_kg": 6.390342003960289e-07
+    },
+    {
+      "id": 23,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      37.94 ms /   518 runs   (    0.07 ms per token, 13652.06 tokens per second)",
+        "llama_perf_context_print:        load time =    4548.14 ms",
+        "llama_perf_context_print: prompt eval time =    3949.62 ms /   262 tokens (   15.07 ms per token,    66.34 tokens per second)",
+        "llama_perf_context_print:        eval time =    9530.05 ms /   255 runs   (   37.37 ms per token,    26.76 tokens per second)",
+        "llama_perf_context_print:       total time =   14195.24 ms /   517 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.254575626705886e-07
+    },
+    {
+      "id": 24,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      38.82 ms /   513 runs   (    0.08 ms per token, 13213.48 tokens per second)",
+        "llama_perf_context_print:        load time =    5233.31 ms",
+        "llama_perf_context_print: prompt eval time =    4618.97 ms /   257 tokens (   17.97 ms per token,    55.64 tokens per second)",
+        "llama_perf_context_print:        eval time =    9691.20 ms /   255 runs   (   38.00 ms per token,    26.31 tokens per second)",
+        "llama_perf_context_print:       total time =   15042.41 ms /   512 tokens",
+        "llama_perf_context_print:    graphs reused =        254"
+      ],
+      "carbon_emissions_kg": 7.663597088038132e-07
+    },
+    {
+      "id": 25,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      42.95 ms /   512 runs   (    0.08 ms per token, 11920.56 tokens per second)",
+        "llama_perf_context_print:        load time =    4526.44 ms",
+        "llama_perf_context_print: prompt eval time =    3909.66 ms /   256 tokens (   15.27 ms per token,    65.48 tokens per second)",
+        "llama_perf_context_print:        eval time =    9870.77 ms /   255 runs   (   38.71 ms per token,    25.83 tokens per second)",
+        "llama_perf_context_print:       total time =   14524.34 ms /   511 tokens",
+        "llama_perf_context_print:    graphs reused =        254"
+      ],
+      "carbon_emissions_kg": 7.398519072585276e-07
+    },
+    {
+      "id": 26,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      40.80 ms /   509 runs   (    0.08 ms per token, 12474.88 tokens per second)",
+        "llama_perf_context_print:        load time =    5221.28 ms",
+        "llama_perf_context_print: prompt eval time =    4591.35 ms /   253 tokens (   18.15 ms per token,    55.10 tokens per second)",
+        "llama_perf_context_print:        eval time =    9780.38 ms /   255 runs   (   38.35 ms per token,    26.07 tokens per second)",
+        "llama_perf_context_print:       total time =   15124.40 ms /   508 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.66840560263275e-07
+    },
+    {
+      "id": 27,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      40.97 ms /   510 runs   (    0.08 ms per token, 12448.44 tokens per second)",
+        "llama_perf_context_print:        load time =    4536.25 ms",
+        "llama_perf_context_print: prompt eval time =    3900.22 ms /   254 tokens (   15.36 ms per token,    65.12 tokens per second)",
+        "llama_perf_context_print:        eval time =    9828.80 ms /   255 runs   (   38.54 ms per token,    25.94 tokens per second)",
+        "llama_perf_context_print:       total time =   14486.38 ms /   509 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.353722639213758e-07
+    },
+    {
+      "id": 28,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      36.68 ms /   466 runs   (    0.08 ms per token, 12706.20 tokens per second)",
+        "llama_perf_context_print:        load time =    5098.97 ms",
+        "llama_perf_context_print: prompt eval time =    4473.06 ms /   241 tokens (   18.56 ms per token,    53.88 tokens per second)",
+        "llama_perf_context_print:        eval time =    8575.46 ms /   224 runs   (   38.28 ms per token,    26.12 tokens per second)",
+        "llama_perf_context_print:       total time =   13784.97 ms /   465 tokens",
+        "llama_perf_context_print:    graphs reused =        222"
+      ],
+      "carbon_emissions_kg": 7.051613180602532e-07
+    },
+    {
+      "id": 29,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      40.84 ms /   487 runs   (    0.08 ms per token, 11924.29 tokens per second)",
+        "llama_perf_context_print:        load time =    4254.68 ms",
+        "llama_perf_context_print: prompt eval time =    3639.36 ms /   238 tokens (   15.29 ms per token,    65.40 tokens per second)",
+        "llama_perf_context_print:        eval time =    9618.26 ms /   248 runs   (   38.78 ms per token,    25.78 tokens per second)",
+        "llama_perf_context_print:       total time =   13994.90 ms /   486 tokens",
+        "llama_perf_context_print:    graphs reused =        246"
+      ],
+      "carbon_emissions_kg": 7.101408552730502e-07
+    },
+    {
+      "id": 30,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      42.00 ms /   500 runs   (    0.08 ms per token, 11905.90 tokens per second)",
+        "llama_perf_context_print:        load time =    5229.77 ms",
+        "llama_perf_context_print: prompt eval time =    4600.29 ms /   245 tokens (   18.78 ms per token,    53.26 tokens per second)",
+        "llama_perf_context_print:        eval time =    9879.34 ms /   254 runs   (   38.90 ms per token,    25.71 tokens per second)",
+        "llama_perf_context_print:       total time =   15233.75 ms /   499 tokens",
+        "llama_perf_context_print:    graphs reused =        252"
+      ],
+      "carbon_emissions_kg": 7.720433835145408e-07
+    },
+    {
+      "id": 31,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      41.35 ms /   506 runs   (    0.08 ms per token, 12237.89 tokens per second)",
+        "llama_perf_context_print:        load time =    4481.67 ms",
+        "llama_perf_context_print: prompt eval time =    3856.76 ms /   250 tokens (   15.43 ms per token,    64.82 tokens per second)",
+        "llama_perf_context_print:        eval time =    9904.26 ms /   255 runs   (   38.84 ms per token,    25.75 tokens per second)",
+        "llama_perf_context_print:       total time =   14508.22 ms /   505 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.409895742791833e-07
+    },
+    {
+      "id": 32,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      42.78 ms /   497 runs   (    0.09 ms per token, 11618.66 tokens per second)",
+        "llama_perf_context_print:        load time =    5090.75 ms",
+        "llama_perf_context_print: prompt eval time =    4465.90 ms /   241 tokens (   18.53 ms per token,    53.96 tokens per second)",
+        "llama_perf_context_print:        eval time =   10080.03 ms /   255 runs   (   39.53 ms per token,    25.30 tokens per second)",
+        "llama_perf_context_print:       total time =   15297.26 ms /   496 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.771476825619653e-07
+    },
+    {
+      "id": 33,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      40.42 ms /   493 runs   (    0.08 ms per token, 12196.93 tokens per second)",
+        "llama_perf_context_print:        load time =    5147.89 ms",
+        "llama_perf_context_print: prompt eval time =    4524.13 ms /   241 tokens (   18.77 ms per token,    53.27 tokens per second)",
+        "llama_perf_context_print:        eval time =    9797.78 ms /   251 runs   (   39.03 ms per token,    25.62 tokens per second)",
+        "llama_perf_context_print:       total time =   15067.88 ms /   492 tokens",
+        "llama_perf_context_print:    graphs reused =        249"
+      ],
+      "carbon_emissions_kg": 7.66495205815472e-07
+    },
+    {
+      "id": 34,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      41.04 ms /   512 runs   (    0.08 ms per token, 12475.63 tokens per second)",
+        "llama_perf_context_print:        load time =    5607.07 ms",
+        "llama_perf_context_print: prompt eval time =    4968.88 ms /   267 tokens (   18.61 ms per token,    53.73 tokens per second)",
+        "llama_perf_context_print:        eval time =    9619.45 ms /   244 runs   (   39.42 ms per token,    25.37 tokens per second)",
+        "llama_perf_context_print:       total time =   15348.64 ms /   511 tokens",
+        "llama_perf_context_print:    graphs reused =        243"
+      ],
+      "carbon_emissions_kg": 7.815972830359826e-07
+    },
+    {
+      "id": 35,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      42.54 ms /   500 runs   (    0.09 ms per token, 11754.20 tokens per second)",
+        "llama_perf_context_print:        load time =    4445.86 ms",
+        "llama_perf_context_print: prompt eval time =    3816.04 ms /   244 tokens (   15.64 ms per token,    63.94 tokens per second)",
+        "llama_perf_context_print:        eval time =   10299.09 ms /   255 runs   (   40.39 ms per token,    24.76 tokens per second)",
+        "llama_perf_context_print:       total time =   14875.97 ms /   499 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.566426010812975e-07
+    },
+    {
+      "id": 36,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      44.78 ms /   493 runs   (    0.09 ms per token, 11010.36 tokens per second)",
+        "llama_perf_context_print:        load time =    5078.15 ms",
+        "llama_perf_context_print: prompt eval time =    4419.05 ms /   237 tokens (   18.65 ms per token,    53.63 tokens per second)",
+        "llama_perf_context_print:        eval time =   10097.53 ms /   255 runs   (   39.60 ms per token,    25.25 tokens per second)",
+        "llama_perf_context_print:       total time =   15306.04 ms /   492 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.774643393099785e-07
+    },
+    {
+      "id": 37,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      43.47 ms /   485 runs   (    0.09 ms per token, 11156.09 tokens per second)",
+        "llama_perf_context_print:        load time =    5004.49 ms",
+        "llama_perf_context_print: prompt eval time =    4379.78 ms /   235 tokens (   18.64 ms per token,    53.66 tokens per second)",
+        "llama_perf_context_print:        eval time =    9954.03 ms /   249 runs   (   39.98 ms per token,    25.01 tokens per second)",
+        "llama_perf_context_print:       total time =   15086.28 ms /   484 tokens",
+        "llama_perf_context_print:    graphs reused =        247"
+      ],
+      "carbon_emissions_kg": 7.665326348860386e-07
+    },
+    {
+      "id": 38,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      44.25 ms /   485 runs   (    0.09 ms per token, 10960.95 tokens per second)",
+        "llama_perf_context_print:        load time =    4915.35 ms",
+        "llama_perf_context_print: prompt eval time =    4280.06 ms /   229 tokens (   18.69 ms per token,    53.50 tokens per second)",
+        "llama_perf_context_print:        eval time =   10274.92 ms /   255 runs   (   40.29 ms per token,    24.82 tokens per second)",
+        "llama_perf_context_print:       total time =   15322.46 ms /   484 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.813504407526314e-07
+    },
+    {
+      "id": 39,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      38.09 ms /   467 runs   (    0.08 ms per token, 12259.79 tokens per second)",
+        "llama_perf_context_print:        load time =    4308.50 ms",
+        "llama_perf_context_print: prompt eval time =    3675.91 ms /   234 tokens (   15.71 ms per token,    63.66 tokens per second)",
+        "llama_perf_context_print:        eval time =    9325.62 ms /   232 runs   (   40.20 ms per token,    24.88 tokens per second)",
+        "llama_perf_context_print:       total time =   13749.89 ms /   466 tokens",
+        "llama_perf_context_print:    graphs reused =        230"
+      ],
+      "carbon_emissions_kg": 7.00789521363834e-07
+    },
+    {
+      "id": 40,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      47.78 ms /   500 runs   (    0.10 ms per token, 10464.63 tokens per second)",
+        "llama_perf_context_print:        load time =    4471.92 ms",
+        "llama_perf_context_print: prompt eval time =    3835.05 ms /   244 tokens (   15.72 ms per token,    63.62 tokens per second)",
+        "llama_perf_context_print:        eval time =   10451.64 ms /   255 runs   (   40.99 ms per token,    24.40 tokens per second)",
+        "llama_perf_context_print:       total time =   15060.19 ms /   499 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.666571983627338e-07
+    },
+    {
+      "id": 41,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      46.87 ms /   483 runs   (    0.10 ms per token, 10304.44 tokens per second)",
+        "llama_perf_context_print:        load time =    4880.23 ms",
+        "llama_perf_context_print: prompt eval time =    4245.91 ms /   227 tokens (   18.70 ms per token,    53.46 tokens per second)",
+        "llama_perf_context_print:        eval time =   10241.34 ms /   255 runs   (   40.16 ms per token,    24.90 tokens per second)",
+        "llama_perf_context_print:       total time =   15255.32 ms /   482 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.774201662283672e-07
+    },
+    {
+      "id": 42,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      45.24 ms /   491 runs   (    0.09 ms per token, 10852.03 tokens per second)",
+        "llama_perf_context_print:        load time =    5008.12 ms",
+        "llama_perf_context_print: prompt eval time =    4376.00 ms /   235 tokens (   18.62 ms per token,    53.70 tokens per second)",
+        "llama_perf_context_print:        eval time =   10330.58 ms /   255 runs   (   40.51 ms per token,    24.68 tokens per second)",
+        "llama_perf_context_print:       total time =   15469.61 ms /   490 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.821977403957926e-07
+    },
+    {
+      "id": 43,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      44.76 ms /   501 runs   (    0.09 ms per token, 11192.28 tokens per second)",
+        "llama_perf_context_print:        load time =    5255.14 ms",
+        "llama_perf_context_print: prompt eval time =    4600.66 ms /   245 tokens (   18.78 ms per token,    53.25 tokens per second)",
+        "llama_perf_context_print:        eval time =   10393.60 ms /   255 runs   (   40.76 ms per token,    24.53 tokens per second)",
+        "llama_perf_context_print:       total time =   15779.52 ms /   500 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 8.018653554667886e-07
+    },
+    {
+      "id": 44,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      44.19 ms /   470 runs   (    0.09 ms per token, 10636.61 tokens per second)",
+        "llama_perf_context_print:        load time =    4342.82 ms",
+        "llama_perf_context_print: prompt eval time =    3711.14 ms /   234 tokens (   15.86 ms per token,    63.05 tokens per second)",
+        "llama_perf_context_print:        eval time =    9652.95 ms /   235 runs   (   41.08 ms per token,    24.34 tokens per second)",
+        "llama_perf_context_print:       total time =   14120.29 ms /   469 tokens",
+        "llama_perf_context_print:    graphs reused =        233"
+      ],
+      "carbon_emissions_kg": 7.151076133871917e-07
+    },
+    {
+      "id": 45,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      49.18 ms /   498 runs   (    0.10 ms per token, 10126.07 tokens per second)",
+        "llama_perf_context_print:        load time =    4490.39 ms",
+        "llama_perf_context_print: prompt eval time =    3838.87 ms /   242 tokens (   15.86 ms per token,    63.04 tokens per second)",
+        "llama_perf_context_print:        eval time =   10493.13 ms /   255 runs   (   41.15 ms per token,    24.30 tokens per second)",
+        "llama_perf_context_print:       total time =   15122.84 ms /   497 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.664737406404245e-07
+    },
+    {
+      "id": 46,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      44.58 ms /   499 runs   (    0.09 ms per token, 11194.62 tokens per second)",
+        "llama_perf_context_print:        load time =    5237.30 ms",
+        "llama_perf_context_print: prompt eval time =    4577.49 ms /   243 tokens (   18.84 ms per token,    53.09 tokens per second)",
+        "llama_perf_context_print:        eval time =   10315.24 ms /   255 runs   (   40.45 ms per token,    24.72 tokens per second)",
+        "llama_perf_context_print:       total time =   15683.00 ms /   498 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.9733875856172e-07
+    },
+    {
+      "id": 47,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      41.39 ms /   462 runs   (    0.09 ms per token, 11161.58 tokens per second)",
+        "llama_perf_context_print:        load time =    5034.64 ms",
+        "llama_perf_context_print: prompt eval time =    4393.39 ms /   233 tokens (   18.86 ms per token,    53.03 tokens per second)",
+        "llama_perf_context_print:        eval time =    9189.86 ms /   228 runs   (   40.31 ms per token,    24.81 tokens per second)",
+        "llama_perf_context_print:       total time =   14347.06 ms /   461 tokens",
+        "llama_perf_context_print:    graphs reused =        226"
+      ],
+      "carbon_emissions_kg": 7.308508235907959e-07
+    },
+    {
+      "id": 48,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      43.05 ms /   491 runs   (    0.09 ms per token, 11405.08 tokens per second)",
+        "llama_perf_context_print:        load time =    5057.85 ms",
+        "llama_perf_context_print: prompt eval time =    4421.35 ms /   235 tokens (   18.81 ms per token,    53.15 tokens per second)",
+        "llama_perf_context_print:        eval time =   10250.01 ms /   255 runs   (   40.20 ms per token,    24.88 tokens per second)",
+        "llama_perf_context_print:       total time =   15435.43 ms /   490 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 7.823369326327668e-07
+    },
+    {
+      "id": 49,
+      "stderr_lines": [
+        "llama_perf_sampler_print:    sampling time =      47.40 ms /   503 runs   (    0.09 ms per token, 10611.37 tokens per second)",
+        "llama_perf_context_print:        load time =    5296.30 ms",
+        "llama_perf_context_print: prompt eval time =    4643.32 ms /   247 tokens (   18.80 ms per token,    53.19 tokens per second)",
+        "llama_perf_context_print:        eval time =   10499.38 ms /   255 runs   (   41.17 ms per token,    24.29 tokens per second)",
+        "llama_perf_context_print:       total time =   15933.31 ms /   502 tokens",
+        "llama_perf_context_print:    graphs reused =        253"
+      ],
+      "carbon_emissions_kg": 8.080306474292177e-07
+    }
+  ]
+}
