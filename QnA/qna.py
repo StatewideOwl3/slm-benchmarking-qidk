@@ -394,10 +394,8 @@ def run_single_example(
 	if EmissionsTracker is not None:
 		try:
 			tracker = EmissionsTracker(
-				measure_power_secs=1,
+				project_name="qna_benchmark",
 				save_to_file=False,
-				tracking_mode="machine",
-				log_level="error",
 			)
 		except Exception:
 			tracker = None

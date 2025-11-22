@@ -2,7 +2,9 @@
   "overall": {
     "exact_match": 0.5,
     "f1": 0.6705836917668038,
-    "question_count": 50
+    "question_count": 50,
+    "carbon_emissions_kg_sum": 1.2768052984975011e-05,
+    "carbon_emissions_kg_avg": 2.5536105969950025e-07
   },
   "per_question": [
     {
@@ -13,7 +15,8 @@
         "Christian"
       ],
       "exact_match": 0,
-      "f1": 0.2857142857142857
+      "f1": 0.2857142857142857,
+      "carbon_emissions_kg": 2.629673439338873e-07
     },
     {
       "id": 1,
@@ -23,7 +26,8 @@
         "Zeppelins"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 1.9779377804723365e-07
     },
     {
       "id": 2,
@@ -33,7 +37,8 @@
         "69,197"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 1.7268341757604044e-07
     },
     {
       "id": 3,
@@ -43,7 +48,8 @@
         "less than one second"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.5863494688359356e-07
     },
     {
       "id": 4,
@@ -53,7 +59,8 @@
         "56"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.947362342373276e-07
     },
     {
       "id": 5,
@@ -63,7 +70,8 @@
         "Cape Town"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.0347983650884586e-07
     },
     {
       "id": 6,
@@ -73,7 +81,8 @@
         "Christian"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 1.829919439015928e-07
     },
     {
       "id": 7,
@@ -83,7 +92,8 @@
         "All Quiet on the Western Front"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.033441198528831e-07
     },
     {
       "id": 8,
@@ -93,7 +103,8 @@
         "Bridge of Spies, The Color Purple and Twilight Zone: The Movie"
       ],
       "exact_match": 0,
-      "f1": 0.7058823529411764
+      "f1": 0.7058823529411764,
+      "carbon_emissions_kg": 2.896008805693144e-07
     },
     {
       "id": 9,
@@ -103,7 +114,8 @@
         "Peter Pilz"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.8467557928076917e-07
     },
     {
       "id": 10,
@@ -113,7 +125,8 @@
         "moved abroad"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.0328052505014316e-07
     },
     {
       "id": 11,
@@ -123,7 +136,8 @@
         "tenets of Baptist churches"
       ],
       "exact_match": 0,
-      "f1": 0.6666666666666666
+      "f1": 0.6666666666666666,
+      "carbon_emissions_kg": 2.2350126653186686e-07
     },
     {
       "id": 12,
@@ -133,7 +147,8 @@
         "0.3%"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 4.061555029213697e-07
     },
     {
       "id": 13,
@@ -143,7 +158,8 @@
         "1783"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.2847459979539143e-07
     },
     {
       "id": 14,
@@ -153,7 +169,8 @@
         "horses"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.485743369922561e-07
     },
     {
       "id": 15,
@@ -163,7 +180,8 @@
         "78,299"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.4388749711301793e-07
     },
     {
       "id": 16,
@@ -173,7 +191,8 @@
         "FBI"
       ],
       "exact_match": 0,
-      "f1": 0.6666666666666666
+      "f1": 0.6666666666666666,
+      "carbon_emissions_kg": 2.2861824577634705e-07
     },
     {
       "id": 17,
@@ -183,7 +202,8 @@
         "the \"way of the warrior as death\""
       ],
       "exact_match": 0,
-      "f1": 0.8750000000000001
+      "f1": 0.8750000000000001,
+      "carbon_emissions_kg": 2.7415410076135043e-07
     },
     {
       "id": 18,
@@ -193,7 +213,8 @@
         "semi-arid climate"
       ],
       "exact_match": 0,
-      "f1": 0.16666666666666666
+      "f1": 0.16666666666666666,
+      "carbon_emissions_kg": 2.68945120853326e-07
     },
     {
       "id": 19,
@@ -203,7 +224,8 @@
         "1 million"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.1319126807083163e-07
     },
     {
       "id": 20,
@@ -213,7 +235,8 @@
         "Minister of the Guards"
       ],
       "exact_match": 0,
-      "f1": 0.888888888888889
+      "f1": 0.888888888888889,
+      "carbon_emissions_kg": 2.3354629537916538e-07
     },
     {
       "id": 21,
@@ -223,7 +246,8 @@
         "Orozquistas"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.9912872284457684e-07
     },
     {
       "id": 22,
@@ -233,7 +257,8 @@
         "Helsinki"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.079874470302738e-07
     },
     {
       "id": 23,
@@ -243,7 +268,8 @@
         "Paramount Pictures"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 3.0977163295250045e-07
     },
     {
       "id": 24,
@@ -253,7 +279,8 @@
         "Ward Connerly"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 3.0475292296396366e-07
     },
     {
       "id": 25,
@@ -263,7 +290,8 @@
         "General Atomics"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.8954734640810064e-07
     },
     {
       "id": 26,
@@ -273,7 +301,8 @@
         "Economic development and mechanization of agriculture"
       ],
       "exact_match": 0,
-      "f1": 0.3870967741935484
+      "f1": 0.3870967741935484,
+      "carbon_emissions_kg": 2.944061922381424e-07
     },
     {
       "id": 27,
@@ -283,7 +312,8 @@
         "conductive"
       ],
       "exact_match": 0,
-      "f1": 0.15384615384615385
+      "f1": 0.15384615384615385,
+      "carbon_emissions_kg": 3.2000754102880864e-07
     },
     {
       "id": 28,
@@ -293,7 +323,8 @@
         "Institute of Experimental Therapy"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.4366663480954145e-07
     },
     {
       "id": 29,
@@ -303,7 +334,8 @@
         "2013"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 3.147174202084654e-07
     },
     {
       "id": 30,
@@ -313,7 +345,8 @@
         "George C. Williams"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.48418792283399e-07
     },
     {
       "id": 31,
@@ -323,7 +356,8 @@
         "More than 20,000"
       ],
       "exact_match": 0,
-      "f1": 0.6666666666666666
+      "f1": 0.6666666666666666,
+      "carbon_emissions_kg": 2.5376192242811057e-07
     },
     {
       "id": 32,
@@ -333,7 +367,8 @@
         "Art Rascon"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 3.047555636150942e-07
     },
     {
       "id": 33,
@@ -343,7 +378,8 @@
         "nasal congestion"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.9953133619801514e-07
     },
     {
       "id": 34,
@@ -353,7 +389,8 @@
         "Magnates"
       ],
       "exact_match": 0,
-      "f1": 0.6666666666666666
+      "f1": 0.6666666666666666,
+      "carbon_emissions_kg": 2.1293541655378211e-07
     },
     {
       "id": 35,
@@ -363,7 +400,8 @@
         "Baruch Spinoza"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.437879142783261e-07
     },
     {
       "id": 36,
@@ -373,7 +411,8 @@
         "Long Wharf Theatre, and the Shubert Theatre"
       ],
       "exact_match": 0,
-      "f1": 0.9333333333333333
+      "f1": 0.9333333333333333,
+      "carbon_emissions_kg": 2.78928248194053e-07
     },
     {
       "id": 37,
@@ -383,7 +422,8 @@
         "Cahuenga Pass"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.3874917807856816e-07
     },
     {
       "id": 38,
@@ -393,7 +433,8 @@
         "Apollo"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 1.8284883630362895e-07
     },
     {
       "id": 39,
@@ -403,7 +444,8 @@
         "1,796"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.435403867716684e-07
     },
     {
       "id": 40,
@@ -413,7 +455,8 @@
         "Christianity"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.081827389121252e-07
     },
     {
       "id": 41,
@@ -423,7 +466,8 @@
         "depictions of figures from British history"
       ],
       "exact_match": 0,
-      "f1": 0.14285714285714288
+      "f1": 0.14285714285714288,
+      "carbon_emissions_kg": 2.642289091767277e-07
     },
     {
       "id": 42,
@@ -433,7 +477,8 @@
         "12"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.6367850832397303e-07
     },
     {
       "id": 43,
@@ -443,7 +488,8 @@
         "irrigation and farming"
       ],
       "exact_match": 0,
-      "f1": 0.5454545454545454
+      "f1": 0.5454545454545454,
+      "carbon_emissions_kg": 2.437247033764539e-07
     },
     {
       "id": 44,
@@ -453,7 +499,8 @@
         "which component of sexual orientation is being assessed"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.642082641352373e-07
     },
     {
       "id": 45,
@@ -463,7 +510,8 @@
         "Volkswagen Autoeuropa and Peugeot Citroen"
       ],
       "exact_match": 0,
-      "f1": 0.33333333333333337
+      "f1": 0.33333333333333337,
+      "carbon_emissions_kg": 2.590060617364124e-07
     },
     {
       "id": 46,
@@ -473,7 +521,8 @@
         "gya kachee"
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.687812422660821e-07
     },
     {
       "id": 47,
@@ -483,7 +532,8 @@
         "the army proceeded overland."
       ],
       "exact_match": 1,
-      "f1": 1.0
+      "f1": 1.0,
+      "carbon_emissions_kg": 2.642291341927403e-07
     },
     {
       "id": 48,
@@ -493,7 +543,8 @@
         "Connie Francis"
       ],
       "exact_match": 0,
-      "f1": 0.0
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.2334911026809532e-07
     },
     {
       "id": 49,
@@ -503,10 +554,11 @@
         "Old Town of Prague"
       ],
       "exact_match": 0,
-      "f1": 0.4444444444444445
+      "f1": 0.4444444444444445,
+      "carbon_emissions_kg": 2.9418401736159097e-07
     }
   ],
   "model_directory": "llama3b",
   "source_file": "parsed_outputs_Llama-3.2-3B-Instruct-Q4_0.gguf.json",
-  "root": "/home/bonda/Documents/ESW/final-codes/llama3b"
+  "root": "/Users/lohithkola/Desktop/IIIT-H/2-1/ESW/slm-benchmarking-qidk/QnA/llama3b"
 }

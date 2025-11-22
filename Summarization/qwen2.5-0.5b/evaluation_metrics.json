@@ -1,0 +1,613 @@
+{
+  "overall": {
+    "f1": 0.07764456190852191,
+    "sample_count": 50,
+    "carbon_emissions_kg_sum": 1.3948893621373514e-05,
+    "carbon_emissions_kg_avg": 2.789778724274703e-07
+  },
+  "per_sample": [
+    {
+      "id": 0,
+      "article": "Scientists at the Indian Institute of Space Research have successfully tested a new reusable launch vehicle prototype off the coast of Andhra Pradesh. The winged craft, lifted by a solid-fuel booster, climbed to an altitude of 70 kilometers before gliding back to a controlled splashdown in the Bay of Bengal. Engineers say the data gathered from this flight will shape the design of a larger vehicle capable of cutting launch costs by more than 50 percent. The mission, which lasted just under 15 minutes, is seen as a key milestone in India's effort to compete in the global commercial launch market. Officials stressed that at least half a dozen more tests will be needed before a full-scale demonstration, but called the debut \"a major step toward low-cost access to space.\"",
+      "model_summary": ".\n\nArticle:\nScientists at the Indian Institute of Space Research have successfully tested a new reusable launch vehicle prototype off the coast of Andhra Pradesh. The winged craft, lifted by a solid",
+      "highlights": [
+        "India tests reusable launch vehicle prototype over Bay of Bengal.",
+        "Short suborbital flight gathers data to cut future launch costs.",
+        "Officials hail mission as milestone toward low-cost access to space."
+      ],
+      "f1": 0.24390243902439024,
+      "carbon_emissions_kg": 2.430956735815683e-07
+    },
+    {
+      "id": 1,
+      "article": "Heavy pre-monsoon showers brought relief to residents across Hyderabad on Tuesday evening after weeks of sweltering heat. The India Meteorological Department recorded over 40 millimeters of rain in less than two hours in several parts of the city, leading to waterlogging on major arterial roads. Traffic police deployed additional personnel at critical junctions as commuters struggled with knee-deep water in low-lying areas. Power distribution companies reported scattered outages but said most were restored within an hour. Weather officials say more thunderstorms are likely over the next three days as a low-pressure system strengthens over the Bay of Bengal.",
+      "model_summary": ".\n\nArticle:\nHeavy pre-monsoon showers brought relief to residents across Hyderabad on Tuesday evening after weeks of sweltering heat. The India Meteorological Department recorded over 40 millimeters of rain in less than two hours in several parts of the city, leading to waterlogging on major arterial roads. Traffic police deployed additional personnel at critical junctions as commuters struggled with knee-deep water in low-lying areas. Power distribution companies reported scattered outages but said most were restored within an hour. Weather officials say more thunderstorms are likely over the next three days as a low-pressure system strengthens over the Bay of Bengal.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Pre-monsoon showers cool Hyderabad after prolonged heatwave.",
+        "Downpour causes waterlogging and traffic disruptions in low-lying areas.",
+        "Meteorological department predicts more thunderstorms in coming days."
+      ],
+      "f1": 0.0736196319018405,
+      "carbon_emissions_kg": 2.3335345636230572e-07
+    },
+    {
+      "id": 2,
+      "article": "A small rural school in Karnataka has become a national example for integrating technology into primary education. Teachers at the government-run campus in Tumakuru district have converted an unused storeroom into a digital classroom, equipped with second-hand tablets, a low-cost projector and open-source learning software. The project began when a group of alumni working in Bengaluru pooled funds and volunteered to conduct weekend training sessions for staff. Within a year, attendance at the school rose by nearly 20 percent, and test scores in mathematics and science improved across all grades. State officials have since visited the campus and are exploring ways to replicate the model in other districts with limited budgets.",
+      "model_summary": ".\n\nArticle:\nA small rural school in Karnataka has become a national example for integrating technology into primary education. Teachers at the government-run campus in Tumakuru district have converted an unused storeroom into a digital classroom, equipped with second-hand tablets, a low-cost projector and open-source learning software. The project began when a group of alumni working in Bengaluru pooled funds and volunteered to conduct weekend training sessions for staff. Within a year, attendance at the school rose by nearly 20 percent, and test scores in mathematics and science improved across all grades. State officials have since visited the campus and are exploring ways to replicate the model in other districts with limited budgets.\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "highlights": [
+        "Rural Karnataka school transforms storeroom into digital classroom.",
+        "Alumni-funded project boosts attendance and test scores.",
+        "State authorities weigh scaling low-cost model to other districts."
+      ],
+      "f1": 0.08187134502923978,
+      "carbon_emissions_kg": 2.386248991326702e-07
+    },
+    {
+      "id": 3,
+      "article": "Global oil prices fell sharply on Thursday after fresh data showed weaker-than-expected manufacturing output in the United States and Europe. Brent crude futures dropped below $80 a barrel for the first time in six months, extending a week-long slide triggered by concerns over slowing demand. Analysts said investors were also reacting to signals from major producers that they might not cut output as aggressively as previously anticipated. Airline and shipping stocks rallied on the news, while energy companies saw their share prices decline. Economists cautioned that the lower prices, while beneficial for consumers, could destabilize budgets in oil-exporting countries already under fiscal pressure.",
+      "model_summary": ".\n\nArticle:\nGlobal oil prices fell sharply on Thursday after fresh data showed weaker-than-expected manufacturing output in the United States and Europe. Brent crude futures dropped below $80 a barrel for the first time in six months, extending a week-long slide triggered by concerns over slowing demand. Analysts said investors were also reacting to signals from major producers that they might not cut output as aggressively as previously anticipated. Airline and shipping stocks rallied on the news, while energy companies saw their share prices decline. Economists cautioned that the lower prices, while beneficial for consumers, could destabilize budgets in oil-exporting countries already under fiscal pressure.\nLETE",
+      "highlights": [
+        "Brent crude falls below $80 amid weak manufacturing data.",
+        "Investors doubt that major producers will cut output deeply.",
+        "Cheaper oil lifts transport stocks but pressures exporters' budgets."
+      ],
+      "f1": 0.1016949152542373,
+      "carbon_emissions_kg": 1.822990910172245e-07
+    },
+    {
+      "id": 4,
+      "article": "A new study published in a leading medical journal has found that a common diabetes drug can significantly reduce the risk of heart failure in high-risk patients. Researchers tracked more than 10,000 participants across 20 countries over a five-year period, comparing those who received the drug to a control group on standard therapy. Patients on the medication experienced fewer hospitalizations and lower overall mortality, with benefits observed regardless of age or baseline cardiovascular health. The findings are expected to influence updated treatment guidelines for type 2 diabetes, which affects more than 400 million people worldwide. Doctors cautioned, however, that the drug is not a substitute for lifestyle changes such as diet and exercise.",
+      "model_summary": ".\n\nArticle:\nA new study published in a leading medical journal has found that a common diabetes drug can significantly reduce the risk of heart failure in high-risk patients. Researchers tracked more than 10,000 participants across 20 countries over a five-year period, comparing those who received the drug to a control group on standard therapy. Patients on the medication experienced fewer hospitalizations and lower overall mortality, with benefits observed regardless of age or baseline cardiovascular health. The findings are expected to influence updated treatment guidelines for type 2 diabetes, which affects more than 400 million people worldwide. Doctors cautioned, however, that the drug is not a substitute for lifestyle changes such as diet and exercise.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Large trial links popular diabetes drug to reduced heart failure risk.",
+        "Patients on the medication show fewer hospitalizations and deaths.",
+        "Experts say results will shape new treatment guidelines worldwide."
+      ],
+      "f1": 0.08235294117647059,
+      "carbon_emissions_kg": 2.484150230857259e-07
+    },
+    {
+      "id": 5,
+      "article": "An ambitious urban forest project in Ahmedabad aims to plant more than 1 million trees over the next three years to combat rising temperatures and air pollution. The initiative, launched by the municipal corporation in partnership with local nonprofits, focuses on creating dense micro-forests on unused government land and along major roadways. Volunteers, including schoolchildren and corporate employees, are being trained in native-species plantation techniques inspired by the Miyawaki method. Early pilot plots have already shown faster growth rates and improved soil moisture retention, according to environmental engineers overseeing the effort. City officials hope the project will also raise public awareness about the role of green cover in mitigating the effects of climate change.",
+      "model_summary": ".\n\nArticle:\nAn ambitious urban forest project in Ahmedabad aims to plant more than 1 million trees over the next three years to combat rising temperatures and air pollution. The initiative, launched by the municipal corporation in partnership with local nonprofits, focuses on creating dense micro-forests on unused",
+      "highlights": [
+        "Ahmedabad launches plan to plant 1 million trees in three years.",
+        "Dense micro-forests use native species to cool city and clean air.",
+        "Officials see project as climate action and public awareness drive."
+      ],
+      "f1": 0.30508474576271183,
+      "carbon_emissions_kg": 2.538591737530811e-07
+    },
+    {
+      "id": 6,
+      "article": "In a landmark decision, the Supreme Court of a European nation has ruled that gig workers for major food-delivery apps must be classified as employees rather than independent contractors. The unanimous verdict followed years of legal challenges brought by trade unions, which argued that couriers were denied basic protections such as minimum wage, paid leave and social security benefits. The court found that the platforms exercised significant control over working hours, pricing and performance metrics, making the gig workers functionally indistinguishable from traditional staff. Industry groups warned the ruling could increase costs and lead to higher prices for consumers, while labor advocates hailed it as a victory for precarious workers. Lawmakers are now expected to draft new regulations to clarify how the decision will be implemented nationwide.",
+      "model_summary": ".\n\nArticle:\nIn a landmark decision, the Supreme Court of a European nation has ruled that gig workers for major food-delivery apps must be classified as employees rather than independent contractors. The unanimous verdict followed years of legal challenges brought by trade unions, which argued that couriers were denied basic protections such as minimum wage, paid leave and social security benefits. The court found that the platforms exercised significant control over working hours, pricing and performance metrics, making the gig workers functionally indistinguishable from traditional staff. Industry groups warned the ruling could increase costs and lead to higher prices for consumers, while labor advocates hailed it as a victory for precarious workers. Lawmakers are now expected to draft new regulations to clarify how the decision will be implemented nationwide.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Top court rules food-delivery couriers are employees, not contractors.",
+        "Gig workers gain access to minimum wage, leave and social benefits.",
+        "Industry warns of higher costs as unions celebrate landmark ruling."
+      ],
+      "f1": 0.09999999999999999,
+      "carbon_emissions_kg": 2.582881494722738e-07
+    },
+    {
+      "id": 7,
+      "article": "A newly discovered exoplanet roughly 40 light-years from Earth may offer clues about how atmospheres evolve on rocky worlds, astronomers say. Using data from a space-based telescope, an international team detected traces of water vapor and carbon dioxide in the planet's thin atmosphere, despite its close orbit around a small red dwarf star. The world, slightly larger than Earth, is believed to have once hosted a thick, volatile-rich envelope that was gradually stripped away by stellar radiation. By comparing the measurements to computer simulations, scientists hope to better understand why some planets remain habitable while others become barren. The findings also demonstrate the growing power of next-generation instruments to characterize smaller, cooler exoplanets.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the human brain is capable of learning new skills and retaining them for long periods of time. The study, published in the journal Nature, found that the brain can learn new skills and retain them for up to 100 hours. The study was conducted on a group of 100 participants who were given a series of tasks to perform. The participants were then tested on their ability to perform the tasks after a 100-hour period. The results showed that the participants were able to perform the tasks with high accuracy and retention for up to 100 hours. The study suggests that the human brain has the ability to learn new skills and retain them for long periods of time. The findings also suggest that the brain can be trained to perform new tasks and retain them for a long period of time. The study also suggests that the brain can be trained to perform new tasks and retain them for a long period of time. The study suggests that the human brain has the ability to learn new skills and retain them for long periods of time. The findings also suggest that the brain can be",
+      "highlights": [
+        "Scientists detect water vapor and CO2 on rocky exoplanet 40 light-years away.",
+        "Thin atmosphere suggests world was gradually stripped by stellar radiation.",
+        "Observations help explain why some planets stay habitable as others dry out."
+      ],
+      "f1": 0.0187793427230047,
+      "carbon_emissions_kg": 2.6331643098214246e-07
+    },
+    {
+      "id": 8,
+      "article": "A small coastal town in Kerala has turned to community-owned solar power to shield residents from volatile electricity prices. Local authorities partnered with a cooperative bank and engineering college to install rooftop panels on schools, markets and apartment blocks, selling excess power back to the grid. Households buy shares in the cooperative, which uses revenue from electricity sales to repay loans and subsidize bills for low-income families. In just two years, the town has cut its dependence on coal-fired power plants by nearly 30 percent and reduced frequent blackouts during peak demand. The model has attracted attention from other municipalities looking for ways to decarbonize while keeping energy affordable.",
+      "model_summary": ".\n\nArticle:\nA small coastal town in Kerala has turned to community-owned solar power to shield residents from volatile electricity prices. Local authorities partnered with a cooperative bank and engineering college to install rooftop panels on schools, markets and apartment blocks, selling excess power back to the grid. Households buy shares in the cooperative, which",
+      "highlights": [
+        "Kerala town builds community-owned solar network to cut power costs.",
+        "Residents buy cooperative shares and sell excess energy to the grid.",
+        "Project reduces coal reliance and blackouts while aiding poor households."
+      ],
+      "f1": 0.2727272727272727,
+      "carbon_emissions_kg": 2.5903498035023137e-07
+    },
+    {
+      "id": 9,
+      "article": "International health agencies are racing to contain an outbreak of a viral respiratory illness in a densely populated megacity. Authorities have reported several hundred confirmed cases and a handful of deaths, with hospitals instructed to reserve isolation beds and expand testing. Preliminary genetic sequencing suggests the virus is related to a strain that circulated a decade ago but has since accumulated new mutations. Officials have urged people to wear masks on public transport and avoid large indoor gatherings while scientists study how easily the pathogen spreads. Neighboring countries have begun screening passengers at airports, though the World Health Organization has not yet recommended broad travel restrictions.",
+      "model_summary": ".\n\nArticle:\nThe U.S. government has announced a new plan to help the U.S. military and its allies in Afghanistan. The plan, which is expected to be announced in the coming weeks, will include a $100 million grant to the U.S. military to help it develop new technologies to help the troops in Afghanistan. The grant will be used to develop new technologies that will help the troops in Afghanistan to better protect themselves from the Taliban and other insurgents. The grant will also help the U.S. military to better coordinate its efforts with other countries in the region. The U.S. military has already developed new technologies to help protect its troops in Afghanistan, but the new grant will help it to develop new technologies that will help the troops in Afghanistan better protect themselves from the Taliban and other insurgents.\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "highlights": [
+        "New respiratory virus outbreak reported in crowded global megacity.",
+        "Hospitals boost isolation capacity as genetic tests reveal mutated strain.",
+        "WHO monitors situation while nearby nations tighten airport screening."
+      ],
+      "f1": 0.0213903743315508,
+      "carbon_emissions_kg": 2.5866802608516023e-07
+    },
+    {
+      "id": 10,
+      "article": "An independent commission has released a scathing report on the safety practices of a national rail operator after a series of high-profile derailments. Investigators documented years of deferred maintenance, understaffing and inadequate driver training that, they say, contributed directly to preventable accidents. The report describes a culture in which employees feared retaliation for speaking up about mechanical issues or schedule pressures. In response, the transport ministry announced an immediate audit of all major lines and pledged new funding for track upgrades and signaling systems. Families of victims welcomed the findings but demanded concrete timelines, saying they had heard similar promises after previous incidents.",
+      "model_summary": ".\n\nArticle:\nAn independent commission has released a scathing report on the safety practices of a national rail operator after a series of high-profile derailments. Investigators documented years of deferred maintenance, understaffing and inadequate driver training that, they say, contributed directly to preventable accidents. The report describes a culture in which employees feared retaliation for speaking up about mechanical issues or schedule pressures. In response, the transport ministry announced an immediate audit of all major lines and pledged new funding for track upgrades and signaling systems. Families of victims welcomed the findings but demanded concrete timelines, saying they had heard similar promises after previous incidents.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Probe finds systemic failures behind multiple passenger train derailments.",
+        "Report cites neglected maintenance, thin staffing and poor training.",
+        "Government orders nationwide rail audit as victims seek firm deadlines."
+      ],
+      "f1": 0.04790419161676646,
+      "carbon_emissions_kg": 2.638014369282009e-07
+    },
+    {
+      "id": 11,
+      "article": "A groundbreaking gene therapy has restored partial vision in several patients with a rare inherited retinal disease, according to results from a Phase II clinical trial. The treatment involves delivering a functional copy of a defective gene directly into eye cells using a modified viral vector. Participants, many of whom could previously only detect light and shadow, reported being able to navigate unfamiliar rooms and recognize simple objects after receiving the injection. Though the improvements varied between individuals, researchers say the outcomes exceed those seen with any prior intervention for this condition. Regulators will require larger trials to confirm safety and durability before the therapy can be considered for approval.",
+      "model_summary": ".\n\nArticle:\nA groundbreaking gene therapy has restored partial vision in several patients with a rare inherited retinal disease, according to results from a Phase II clinical trial. The treatment involves delivering a functional copy of a defective gene directly into eye cells using a modified viral vector. Participants, many of whom could previously only detect light and shadow, reported being able to navigate unfamiliar rooms and recognize simple objects after receiving the injection. Though the improvements varied between individuals, researchers say the outcomes exceed those seen with any prior intervention for this condition. Regulators will require larger trials to confirm safety and durability before the therapy can be considered for approval.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Experimental gene therapy helps patients with rare retinal disorder see again.",
+        "Viral vector delivers healthy gene copy directly into eye cells.",
+        "Phase II results show functional vision gains beyond previous treatments."
+      ],
+      "f1": 0.09248554913294797,
+      "carbon_emissions_kg": 2.640503628942642e-07
+    },
+    {
+      "id": 12,
+      "article": "A historic cinema hall in Kolkata, once a hub for black-and-white classics, has reopened as a mixed-use cultural space after a two-year restoration. Architects preserved the art deco façade and ornate interiors while adding modern acoustics, digital projection and flexible seating. The revamped building now hosts indie film festivals, theatre performances and workshops for students from nearby colleges. Local residents, many of whom had campaigned to save the venue from being converted into a shopping complex, attended the opening night screening of a restored Bengali classic. City planners say the project could be a model for repurposing other heritage structures without erasing their character.",
+      "model_summary": ".\n\nArticle:\nA new study has found that the use of social media can lead to a decrease in the amount of time people spend on their phones. The study, published in the journal PLOS ONE, found that people who spend more time on social media are less likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work-related tasks. The study also found that people who use social media less often are more likely to use their phones for work",
+      "highlights": [
+        "Iconic Kolkata cinema reborn as multi-use arts venue after restoration.",
+        "Project keeps art deco design while adding modern projection and sound.",
+        "Residents celebrate preservation win that avoids conversion into mall."
+      ],
+      "f1": 0.008928571428571428,
+      "carbon_emissions_kg": 2.741272525805235e-07
+    },
+    {
+      "id": 13,
+      "article": "A team of economists has found that offering free, high-quality school lunches can significantly narrow learning gaps between students from different income backgrounds. The study, conducted across hundreds of primary schools, compared test scores before and after the introduction of universal mid-day meals prepared to strict nutritional standards. Children in historically underperforming districts showed the largest gains, particularly in math and reading comprehension. Teachers reported improved classroom behavior and fewer afternoon absences as students were less likely to skip school. Policymakers say the findings strengthen the case for treating nutrition as a core component of education policy rather than a separate welfare program.",
+      "model_summary": ".\n\nArticle:\nA team of economists has found that offering free, high-quality school lunches can significantly narrow learning gaps between students from different income backgrounds. The study, conducted across hundreds of primary schools, compared test scores before and after the introduction of universal mid-day meals prepared to strict nutritional standards. Children in historically underperforming districts showed the largest gains, particularly in math and reading comprehension. Teachers reported improved classroom behavior and fewer afternoon absences as students were less likely to skip school. Policymakers say the findings strengthen the case for treating nutrition as a core component of education policy rather than a separate welfare program.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Universal free school lunches boost test scores in poorer districts.",
+        "Nutritionally balanced meals improve attendance and classroom behavior.",
+        "Researchers urge governments to see food as central to education policy."
+      ],
+      "f1": 0.09467455621301776,
+      "carbon_emissions_kg": 2.690295040489795e-07
+    },
+    {
+      "id": 14,
+      "article": "A coastal village in Odisha has become a living laboratory for climate adaptation as residents experiment with new crops and building techniques to withstand rising seas. Farmers are shifting from water-intensive rice to salt-tolerant millets and pulses, supported by agronomists from a nearby university. Homes damaged by repeated cyclones are being rebuilt on raised plinths, with reinforced roofs and simple rainwater harvesting systems. Local women have formed self-help groups to manage emergency savings and distribute relief supplies when storms hit. Though many families have migrated inland for work, community leaders say the changes have reduced losses from recent floods and given villagers a stronger voice in regional planning.",
+      "model_summary": ".\n\nArticle:\nA coastal village in Odisha has become a living laboratory for climate adaptation as residents experiment with new crops and building techniques to withstand rising seas. Farmers are shifting from water-intensive rice to salt-tolerant millets and pulses, supported by agronomists from a nearby university. Homes damaged by repeated cyclones are being rebuilt on raised plinths, with reinforced roofs and simple rainwater harvesting systems. Local women have formed self-help groups to manage emergency savings and distribute relief supplies when storms hit. Though many families have migrated inland for work, community leaders say the changes have reduced losses from recent floods and given villagers a stronger voice in regional planning.\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "highlights": [
+        "Odisha village pilots salt-tolerant crops as seas rise and storms intensify.",
+        "Raised, reinforced homes and rainwater systems aim to cut climate losses.",
+        "Women-led groups coordinate savings and relief in disaster-prone area."
+      ],
+      "f1": 0.10526315789473685,
+      "carbon_emissions_kg": 2.790859115061374e-07
+    },
+    {
+      "id": 15,
+      "article": "Tech companies are rolling out a new generation of tools designed to help parents balance screen time with offline activities for young children. Smartphone operating systems now include detailed dashboards showing how long kids spend on specific apps, with customizable limits and downtime schedules. Several startups are also marketing \"digital chore charts\" that reward reading, outdoor play or household tasks with tokens redeemable for extra game time. Child psychologists caution that technology alone cannot replace clear communication and consistent rules at home, but say transparency can reduce conflicts. Privacy advocates, meanwhile, are urging companies to avoid turning children's behavioral data into yet another source of targeted advertising.",
+      "model_summary": ".\n\nArticle:\nThe U.S. government is considering a new plan to help small businesses with their tax obligations. The plan would allow small businesses to defer paying taxes on certain income, such as interest and dividends. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest and penalties. The plan would also allow small businesses to defer paying taxes on certain expenses, such as interest",
+      "highlights": [
+        "New parental controls track and limit kids' app use in granular detail.",
+        "Digital chore systems swap reading and play for extra screen time.",
+        "Experts warn tools work best alongside clear family rules and privacy safeguards."
+      ],
+      "f1": 0.018433179723502304,
+      "carbon_emissions_kg": 2.743052019834568e-07
+    },
+    {
+      "id": 16,
+      "article": "An unprecedented heatwave across parts of Western Europe has shattered temperature records and strained power grids as residents cranked up air conditioners. Several cities opened public cooling centers in libraries and community halls, urging elderly people and those with chronic illnesses to seek refuge during the hottest hours. Rail operators reduced train speeds on some routes amid fears that high temperatures could warp tracks. Meteorologists attribute the extreme heat to a stationary high-pressure system combined with long-term warming trends driven by greenhouse gas emissions. Public health experts warn that such events, once considered rare, are becoming more frequent and will require cities to rethink infrastructure and emergency planning.",
+      "model_summary": ".\n\nArticle:\nAn unprecedented heatwave across parts of Western Europe has shattered temperature records and strained power grids as residents cranked up air conditioners. Several cities opened public cooling centers in libraries and community halls, urging elderly people and those with chronic illnesses to seek refuge during the hottest hours. Rail operators reduced train speeds on some routes amid fears that high temperatures could warp tracks. Meteorologists attribute the extreme heat to a stationary high-pressure system combined with long-term warming trends driven by greenhouse gas emissions. Public health experts warn that such events, once considered rare, are becoming more frequent and will require cities to rethink infrastructure and emergency planning.\nLETE",
+      "highlights": [
+        "Record-breaking European heatwave pressures power grids and transport.",
+        "Cities open cooling centers as doctors worry about vulnerable residents.",
+        "Scientists link persistent high-pressure system to climate change trends."
+      ],
+      "f1": 0.0819672131147541,
+      "carbon_emissions_kg": 2.0334495045973775e-07
+    },
+    {
+      "id": 17,
+      "article": "A new open-source programming language designed for secure, concurrent systems has gained traction among developers working on critical infrastructure. Created by a small team of researchers and industry engineers, the language emphasizes memory safety, strong typing and lightweight isolation between tasks. Early adopters include firms building payment networks and industrial control systems, where software bugs can have real-world consequences. The project has attracted a growing community that contributes libraries, documentation and tooling through public repositories. While it remains far from mainstream, analysts say its design reflects a broader shift toward prioritizing reliability and security over raw performance.",
+      "model_summary": ".\n\nArticle:\nA new open-source programming language designed for secure, concurrent systems has gained traction among developers working on critical infrastructure. Created by a small team of researchers and industry engineers, the language emphasizes memory safety, strong typing and lightweight isolation between tasks. Early adopters include firms building payment networks and industrial control systems, where software bugs can have real-world consequences. The project has attracted a growing community that contributes libraries, documentation and tooling through public repositories. While it remains far from mainstream, analysts say its design reflects a broader shift toward prioritizing reliability and security over raw performance.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Open-source language focused on safety gains users in critical systems.",
+        "Design emphasizes memory safety and concurrency for infrastructure code.",
+        "Adoption illustrates shift toward reliability over pure speed in software."
+      ],
+      "f1": 0.08484848484848485,
+      "carbon_emissions_kg": 2.838251854430539e-07
+    },
+    {
+      "id": 18,
+      "article": "An art exhibit in Delhi is challenging visitors to rethink the role of waste by turning discarded plastic, metal and fabric into large-scale installations. The show, curated by a collective of young artists, features sculptures that resemble coral reefs, city skylines and mythological creatures, all assembled from items recovered at local landfills. Interactive pieces invite people to trace the origin of common household products and imagine alternative lifecycles beyond the trash bin. School groups are being offered guided tours that end with hands-on workshops on upcycling everyday materials. Organizers hope the experience will inspire more conversations about consumption, recycling and environmental justice.",
+      "model_summary": ".\n\nArticle:\nAn art exhibit in Delhi is challenging visitors to rethink the role of waste by turning discarded plastic, metal and fabric into large-scale installations. The show, curated by a collective of young artists, features sculptures that resemble coral reefs, city skylines and mythological creatures, all assembled from items recovered at local landfills. Interactive pieces invite people to trace the origin of common household products and imagine alternative lifecycles beyond the trash bin. School groups are being offered guided tours that end with hands-on workshops on upcycling everyday materials. Organizers hope the experience will inspire more conversations about consumption, recycling and environmental justice.\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "highlights": [
+        "Delhi art show transforms landfill waste into immersive installations.",
+        "Works mimic reefs and cities to highlight consumerism and pollution.",
+        "Workshops teach students practical upcycling skills and waste awareness."
+      ],
+      "f1": 0.07272727272727274,
+      "carbon_emissions_kg": 2.790883863907941e-07
+    },
+    {
+      "id": 19,
+      "article": "A long-delayed metro line in a major Latin American capital has finally opened to passengers, promising shorter commutes and cleaner air. The new route connects densely populated suburbs to the city center, cutting travel times that once stretched beyond two hours down to less than 40 minutes. Officials say the line, which runs mostly underground, will help ease chronic traffic congestion and reduce emissions from diesel buses. Construction was plagued by cost overruns, corruption investigations and technical setbacks, leading many residents to doubt it would ever be completed. On opening day, however, packed trains and busy platforms suggested strong demand for the long-awaited service.",
+      "model_summary": ".\n\nArticle:\nA long-delayed metro line in a major Latin American capital has finally opened to passengers, promising shorter commutes and cleaner air. The new route connects densely populated suburbs to the city center, cutting travel times that once stretched beyond two hours down to less than 40 minutes. Officials say the line, which runs mostly underground, will help ease chronic traffic congestion and reduce emissions from diesel buses. Construction was plagued by cost overruns, corruption investigations and technical setbacks, leading many residents to doubt it would ever be completed. On opening day, however, packed trains and busy platforms suggested strong demand for the long-awaited service.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "New metro line slashes commute times in sprawling Latin American city.",
+        "Project aims to ease traffic jams and reduce dirty diesel emissions.",
+        "Riders flock to trains after years of delays and corruption scandals."
+      ],
+      "f1": 0.09467455621301775,
+      "carbon_emissions_kg": 2.7900320993571543e-07
+    },
+    {
+      "id": 20,
+      "article": "Researchers studying urban wildlife have documented surprising levels of cooperation between different species in a sprawling Asian metropolis. Motion-triggered cameras captured footage of stray dogs, crows and monkeys foraging in close proximity at garbage dumps and markets, often timing their visits to avoid direct conflict with humans. In some neighborhoods, residents reported that dogs would bark loudly when monkeys approached open windows, inadvertently warning families to secure food and valuables. Biologists say these interactions show how animals adapt social behavior to take advantage of city resources while minimizing risk. The findings could inform new strategies for managing human–wildlife conflict without resorting to culling.",
+      "model_summary": ".\n\nArticle:\nResearchers studying urban wildlife have documented surprising levels of cooperation between different species in a sprawling Asian metropolis. Motion-triggered cameras captured footage of stray dogs, crows and monkeys foraging in close proximity at garbage dumps and markets, often timing their visits to avoid direct conflict with humans. In some neighborhoods, residents reported that dogs would bark loudly when monkeys approached open windows, inadvertently warning families to secure food and valuables. Biologists say these interactions show how animals adapt social behavior to take advantage of city resources while minimizing risk. The findings could inform new strategies for managing human–wildlife conflict without resorting to culling.\nLETE",
+      "highlights": [
+        "City study finds dogs, crows and monkeys coordinating around human activity.",
+        "Animals adjust feeding times and behavior to share urban food sources.",
+        "Insights may help design non-lethal responses to human–wildlife clashes."
+      ],
+      "f1": 0.10169491525423728,
+      "carbon_emissions_kg": 2.0777751159295337e-07
+    },
+    {
+      "id": 21,
+      "article": "A major university has announced that all of its undergraduate engineering programs will include mandatory coursework on ethics and public policy starting next year. The move comes after student groups and alumni raised concerns about the societal impact of technologies ranging from facial recognition to autonomous weapons. New modules will cover topics such as bias in algorithms, data privacy, climate responsibility and responsible innovation. Faculty members from the humanities and social sciences will co-teach alongside engineers to encourage interdisciplinary thinking. Administrators say they hope graduates will be better prepared to anticipate unintended consequences before products reach the market.",
+      "model_summary": ".\n\nArticle:\nA major university has announced that all of its undergraduate engineering programs will include mandatory coursework on ethics and public policy starting next year. The move comes after student groups and alumni raised concerns about the societal impact of technologies ranging from facial recognition to autonomous weapons. New modules will cover topics such as bias in algorithms, data privacy, climate responsibility and responsible innovation. Faculty members from the humanities and social sciences will co-teach alongside",
+      "highlights": [
+        "University adds required ethics and policy courses to engineering degrees.",
+        "Curriculum tackles AI bias, privacy and climate responsibility.",
+        "Interdisciplinary teaching aims to make future technologists more accountable."
+      ],
+      "f1": 0.1379310344827586,
+      "carbon_emissions_kg": 2.7925064838483866e-07
+    },
+    {
+      "id": 22,
+      "article": "A popular messaging app has rolled out a new feature that automatically blurs sensitive images by default, giving users more control over what they see. The tool, powered by on-device machine learning, attempts to detect content involving graphic violence, sexual material or self-harm without sending data to remote servers. When a potentially sensitive photo appears in a chat, it is covered with a warning and can only be viewed if the recipient taps to reveal it. Digital rights groups have cautiously welcomed the change but warned against overreliance on automated filters, which can misclassify content or reinforce cultural biases. The company says users will be able to fine-tune the sensitivity levels or switch the feature off entirely.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of social media can lead to a decline in empathy and a rise in aggression. The study, published in the journal Social Science & Medicine, found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to engage in aggressive behavior. The study also found that people who spend more time on social media are more likely to",
+      "highlights": [
+        "Messaging app adds default blur for violent and explicit images.",
+        "On-device AI flags sensitive content without uploading photos.",
+        "Rights groups urge careful calibration to avoid biased censorship."
+      ],
+      "f1": 0.008968609865470852,
+      "carbon_emissions_kg": 2.8964992796131453e-07
+    },
+    {
+      "id": 23,
+      "article": "A small biotechnology firm has unveiled a portable diagnostic device that can detect multiple respiratory viruses from a single drop of blood in under 15 minutes. Roughly the size of a smartphone, the unit uses microfluidic channels and fluorescent markers to identify viral signatures with high accuracy, according to early validation studies. Doctors in remote clinics could use the gadget to distinguish between infections such as influenza, COVID-19 and respiratory syncytial virus, allowing faster, more targeted treatment. Public health officials say the technology could also play a role in early-warning systems for emerging outbreaks if deployed at border crossings and community health centers. The company is seeking regulatory approval and hopes to bring the device to market within two years.",
+      "model_summary": ".\n\nArticle:\nA small biotechnology firm has unveiled a portable diagnostic device that can detect multiple respiratory viruses from a single drop of blood in under 15 minutes. Roughly the size of a smartphone, the unit uses microfluidic channels and fluorescent markers to identify viral signatures with high accuracy, according to early validation studies. Doctors in remote clinics could use the gadget to distinguish between infections such as influenza, COVID-19 and respiratory syncytial virus, allowing faster, more targeted treatment. Public health officials say the technology could also play a role in early-warning systems for emerging outbreaks if deployed at border crossings and community health centers. The company is seeking regulatory approval and hopes to bring the device to market within two years.\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "highlights": [
+        "Handheld test gadget screens for several respiratory viruses in minutes.",
+        "Microfluidic design promises lab-level accuracy in remote clinics.",
+        "Officials see potential role in outbreak surveillance and triage."
+      ],
+      "f1": 0.06857142857142856,
+      "carbon_emissions_kg": 2.896544409270753e-07
+    },
+    {
+      "id": 24,
+      "article": "An ambitious plan to restore a degraded wetland on the outskirts of a European capital is starting to show results as migratory birds return in growing numbers. Conservationists removed drainage canals, replanted native reeds and restricted new construction in the area, which had long been used as an informal dumping ground. Seasonal flooding has gradually reestablished shallow pools that serve as feeding grounds for herons, ducks and other waterfowl. Local residents, once skeptical of the project, now frequent newly built boardwalks and viewing decks that offer close-up views of wildlife. City officials say the wetland also acts as a natural sponge, absorbing excess rainwater and reducing flood risk downstream.",
+      "model_summary": ".\n\nArticle:\nAn ambitious plan to restore a degraded wetland on the outskirts of a European capital is starting to show results as migratory birds return in growing numbers. Conservationists removed drainage canals, replanted native reeds and restricted new construction in the area, which had long",
+      "highlights": [
+        "Wetland revival near major city draws back flocks of migratory birds.",
+        "Restoration removed drains, replanted reeds and curbed new building.",
+        "Reborn marsh helps manage floods while doubling as public nature park."
+      ],
+      "f1": 0.18518518518518515,
+      "carbon_emissions_kg": 2.9434388432928155e-07
+    },
+    {
+      "id": 25,
+      "article": "A new report has found that young adults are increasingly turning to community libraries not just for books, but for free workspaces, internet access and mental health resources. Surveys in several countries show a surge in visitors under 30 using libraries as informal co-working hubs, especially in cities where housing is expensive and cafes impose time limits. Many branches now host counseling drop-in sessions, mindfulness workshops and peer-support groups tailored to students and job seekers. Librarians say the shift is forcing institutions to rethink their mission, investing more in quiet study zones, power outlets and social services alongside traditional collections. Advocates argue that sustained public funding will be essential to keep libraries from being overwhelmed.",
+      "model_summary": ".\n\nArticle:\nA new report has found that young adults are increasingly turning to community libraries not just for books, but for free workspaces, internet access and mental health resources. Surveys in several countries show a surge in visitors under 30 using libraries as informal co-working hubs,",
+      "highlights": [
+        "Libraries see boom in young adults seeking study space and free Wi-Fi.",
+        "Branches respond with counseling, workshops and support groups.",
+        "Report warns that expanded social role requires stable public funding."
+      ],
+      "f1": 0.2,
+      "carbon_emissions_kg": 2.892746773978132e-07
+    },
+    {
+      "id": 26,
+      "article": "An experimental housing project on the edge of a North American city is demonstrating how 3D-printed concrete structures could speed up construction and cut costs. Using a large robotic arm, builders extruded layers of cement-based material to form the walls of small single-story homes in a matter of days. The printed shells were then fitted with conventional roofs, windows and electrical systems. Early residents, selected from low-income families on the city's waiting list, moved in after independent inspectors certified that the units met safety and energy-efficiency standards. While questions remain about the long-term durability of the materials, housing advocates say the method could help address chronic shortages if adopted at scale.",
+      "model_summary": ".\n\nArticle:\nAn experimental housing project on the edge of a North American city is demonstrating how 3D-printed concrete structures could speed up construction and cut costs. Using a large robotic arm, builders extruded layers of cement-based material to form the walls of small single-story homes in a matter of days. The printed shells were then fitted with conventional roofs, windows and electrical systems. Early residents, selected from low-income families on the city's waiting list, moved in after independent inspectors certified that the units met safety and energy-efficiency standards. While questions remain about the long-term durability of the materials, housing advocates say the method could help address chronic shortages if adopted at scale.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "3D-printed homes offer faster, cheaper option for low-income housing.",
+        "Robotic system extrudes concrete walls before traditional finishing work.",
+        "Pilot project raises hopes for scaling technology despite durability questions."
+      ],
+      "f1": 0.06818181818181818,
+      "carbon_emissions_kg": 2.9439584327783575e-07
+    },
+    {
+      "id": 27,
+      "article": "A major smartphone manufacturer has announced plans to offer spare parts and repair manuals directly to consumers in a bid to support the \"right to repair\" movement. Starting next year, customers in select markets will be able to order batteries, screens and camera modules from an official online store, along with detailed step-by-step guides. The company will also certify independent repair shops that meet safety and quality standards, allowing them to access diagnostic tools previously reserved for authorized centers. Consumer advocates welcomed the announcement but said they would continue to push for legislation preventing companies from using software locks to block third-party fixes. Industry analysts note that the shift follows growing regulatory pressure in both the United States and Europe.",
+      "model_summary": ".\n\nArticle:\nA major smartphone manufacturer has announced plans to offer spare parts and repair manuals directly to consumers in a bid to support the \"right to repair\" movement. Starting next year, customers in select markets will be able to order batteries, screens and camera modules from an official online store, along with detailed step-by-step guides. The company will also certify independent repair shops that meet safety and quality standards, allowing them to access diagnostic tools previously reserved for authorized centers. Consumer advocates welcomed the announcement but said they would continue to push for legislation preventing companies from using software locks to block third-party fixes. Industry analysts note that the shift follows growing regulatory pressure in both the United States and Europe.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Phone maker to sell official parts and guides to DIY repair customers.",
+        "Certified independents gain access to diagnostics under new program.",
+        "Move reflects regulatory heat as right-to-repair campaigns gain ground."
+      ],
+      "f1": 0.08791208791208792,
+      "carbon_emissions_kg": 2.946219466967576e-07
+    },
+    {
+      "id": 28,
+      "article": "A small island nation heavily dependent on tourism is experimenting with a new visa category aimed at attracting remote workers for long-term stays. The program allows eligible professionals to live and work from the country for up to a year, provided they meet minimum income thresholds and have health insurance. Officials hope the scheme will stabilize revenue for local businesses that suffered when international travel collapsed during the pandemic. Co-working spaces and apartment rentals have already begun advertising \"work from paradise\" packages that bundle desks, broadband and surf lessons. Economists caution that authorities must monitor housing costs and ensure that local residents are not priced out of popular neighborhoods.",
+      "model_summary": ".\n\nArticle:\nA small island nation heavily dependent on tourism is experimenting with a new visa category aimed at attracting remote workers for long-term stays. The program allows eligible professionals to live and work from the country for up to a year, provided they meet minimum income thresholds and have health insurance. Officials hope the scheme will stabilize revenue for local businesses that suffered when international travel collapsed during the pandemic. Co-working spaces and apartment rentals have already begun advertising \"work from paradise\" packages that bundle desks, broadband and surf lessons. Economists caution that authorities must monitor housing costs and ensure that local residents are not priced out of popular neighborhoods.\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable\nerable",
+      "highlights": [
+        "Island state offers one-year remote work visas to diversify tourism revenue.",
+        "Digital nomads invited with income requirements and health insurance.",
+        "Experts warn of potential rent hikes and urge safeguards for locals."
+      ],
+      "f1": 0.07954545454545454,
+      "carbon_emissions_kg": 2.901110141075224e-07
+    },
+    {
+      "id": 29,
+      "article": "A nationwide campaign to reduce food waste is gaining momentum as supermarkets, restaurants and households sign up for voluntary reduction targets. Retailers are redesigning store displays and changing date labeling practices to discourage customers from discarding perfectly edible items. Several app-based services now connect diners with surplus meals from cafes and bakeries at steep discounts near closing time. At home, social media influencers are popularizing recipes that use leftovers and \"ugly\" produce. Government officials say initial data suggests that the volume of food sent to landfills has begun to decline, cutting both greenhouse gas emissions and municipal disposal costs.",
+      "model_summary": ".\n\nArticle:\nA nationwide campaign to reduce food waste is gaining momentum as supermarkets, restaurants and households sign up for voluntary reduction targets. Retailers are redesigning store displays and changing date labeling practices to discourage customers from discarding perfectly edible items. Several app-based services now connect diners with surplus meals from cafes and bakeries at steep discounts near closing time. At home, social media influencers are popularizing recipes that use leftovers and \"ugly\" produce. Government officials say initial data suggests that the volume of food sent to landfills has begun to decline, cutting both greenhouse gas emissions and municipal disposal costs.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Food waste initiative pushes shops and homes to throw away less.",
+        "Apps sell surplus meals cheaply while influencers promote leftover recipes.",
+        "Early numbers show landfill-bound food and emissions starting to fall."
+      ],
+      "f1": 0.04848484848484848,
+      "carbon_emissions_kg": 2.8975307689729366e-07
+    },
+    {
+      "id": 30,
+      "article": "A breakthrough in battery technology could make it safer and faster to charge electric vehicles, according to scientists at a national research lab. The team developed a solid-state electrolyte that remains stable at high currents, reducing the risk of overheating and fire associated with conventional liquid designs. In laboratory tests, prototype cells retained most of their capacity after hundreds of rapid charge–discharge cycles. Automakers have long sought such materials but struggled with manufacturing challenges and limited performance at low temperatures. While commercial deployment is still several years away, experts say the advance brings the industry a step closer to next-generation batteries with higher energy density and improved safety.",
+      "model_summary": ".\n\nArticle:\nA breakthrough in battery technology could make it safer and faster to charge electric vehicles, according to scientists at a national research lab. The team developed a solid-state electrolyte that remains stable at high currents, reducing the risk of overheating and fire associated with conventional liquid designs. In laboratory tests, prototype cells retained most of their capacity after hundreds of rapid charge–discharge cycles. Automakers have long sought such materials but struggled with manufacturing challenges and limited performance at low temperatures. While commercial deployment is still several years away, experts say the advance brings the industry a step closer to next-generation batteries with higher energy density and improved safety.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Researchers unveil solid-state battery that tolerates ultra-fast charging.",
+        "Stable electrolyte cuts fire risks and preserves capacity over many cycles.",
+        "Automakers see promise but warn commercial rollout will take time."
+      ],
+      "f1": 0.06936416184971099,
+      "carbon_emissions_kg": 2.946753717315124e-07
+    },
+    {
+      "id": 31,
+      "article": "A pilot program in a large African city is equipping informal street vendors with digital payment tools to help them reach more customers and build credit histories. Using low-cost smartphones and QR codes, participants can now accept transfers from mobile money apps instead of relying solely on cash. Financial institutions partnering on the project analyze transaction data to offer small working-capital loans at interest rates below those of local moneylenders. Vendors say the system has reduced the risk of theft and made it easier for regular customers to buy goods even when they are short on cash. Development agencies are closely watching the initiative as a possible blueprint for bringing more small businesses into the formal financial system.",
+      "model_summary": ".\n\nArticle:\nA study by the University of California, Berkeley, found that the average American spends 10% more on food than they did 20 years ago. The study, which was published in the journal Science, found that the average American spends 10% more on food than they did 20 years ago. The study, which was published in the journal Science, found that the average American spends 10% more on food than they did 20 years ago. The study, which was published in the journal Science, found that the average American spends 10% more on food than they did 20 years ago. The study, which was published in the journal Science, found that the average American spends 10% more on food than they did 20 years ago. The study, which was published in the journal Science, found that the average American spends 10% more on food than they did 20 years ago. The study, which was published in the journal Science, found that the average American spends 10% more on food than they did",
+      "highlights": [
+        "Street vendors adopt mobile payments to cut cash risks and grow sales.",
+        "Banks use transaction data to extend affordable microloans.",
+        "Program may help integrate informal traders into formal finance."
+      ],
+      "f1": 0.0,
+      "carbon_emissions_kg": 2.946483080050766e-07
+    },
+    {
+      "id": 32,
+      "article": "A music streaming platform has launched a new feature that allows independent artists to sell virtual concert tickets and merchandise directly to fans inside the app. The service, rolled out in select markets, lets performers schedule live video sessions, set prices and share exclusive tracks with paying subscribers. Analysts say the move could give smaller musicians new revenue streams at a time when many struggle to earn a living from per-play royalties alone. Fans, meanwhile, can support their favorite acts without leaving the platform they already use for listening. Competitors are expected to experiment with similar tools as the line between social media and streaming continues to blur.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of social media can lead to a decrease in the amount of time people spend on their phones. The study, published in the journal PLOS ONE, found that people who spend more time on social media tend to spend less time on their phones. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend more time on social media tend to have more negative thoughts about their lives. The study also found that people who spend",
+      "highlights": [
+        "Streaming app adds tools for indie artists to sell live shows and merch.",
+        "Feature offers new income source beyond low per-stream royalties.",
+        "Rivals likely to follow as music, video and social features converge."
+      ],
+      "f1": 0.017777777777777774,
+      "carbon_emissions_kg": 2.9420645820940666e-07
+    },
+    {
+      "id": 33,
+      "article": "Educators in a Midwestern U.S. district are rethinking homework policies after years of complaints from parents and students about stress and inequality. A task force of teachers, counselors and community members recommended limiting take-home assignments in lower grades and emphasizing reading, projects and family time instead of repetitive worksheets. At the high school level, teachers are being encouraged to coordinate major tests and deadlines to avoid overwhelming students in particular weeks. Early results from pilot schools show no decline in standardized test scores, and some administrators report fewer disciplinary issues. The district plans to gather more data before deciding whether to adopt the new guidelines permanently.",
+      "model_summary": ".\n\nArticle:\nThe U.S. government has announced a new plan to reduce the number of people who are homeless. The plan will help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless by providing more affordable housing and job training programs. The plan will also help to reduce the number of people who are homeless",
+      "highlights": [
+        "School district trims traditional homework to reduce stress on families.",
+        "Lower grades shift focus to reading and projects over worksheets.",
+        "Pilot shows stable test scores and improved behavior so far."
+      ],
+      "f1": 0.017699115044247787,
+      "carbon_emissions_kg": 3.043597991102471e-07
+    },
+    {
+      "id": 34,
+      "article": "An eco-friendly fashion startup is using lab-grown fibers made from agricultural waste to create clothes that can be composted at the end of their life cycle. The material, derived from plant residues like rice husks and sugarcane bagasse, is processed into yarns that resemble cotton but break down more quickly under specific conditions. Designers working with the company are experimenting with simple, timeless silhouettes to encourage longer wear before garments are returned for recycling or composting. Environmental groups have praised the concept but note that scalable collection systems will be crucial to prevent items from simply ending up in landfills. The firm has partnered with select retailers to pilot in-store take-back bins and detailed care labels explaining how to dispose of products responsibly.",
+      "model_summary": ".\n\nArticle:\nAn eco-friendly fashion startup is using lab-grown fibers made from agricultural waste to create clothes that can be composted at the end of their life cycle. The material, derived from plant residues like rice husks and",
+      "highlights": [
+        "Startup turns farm waste into biodegradable textile fibers for clothing.",
+        "Compostable garments aim to close loop if collected and processed properly.",
+        "Success hinges on building return systems and clear instructions for consumers."
+      ],
+      "f1": 0.12244897959183675,
+      "carbon_emissions_kg": 3.043185259240319e-07
+    },
+    {
+      "id": 35,
+      "article": "A regional airline has begun testing hybrid-electric aircraft on short-haul routes as part of efforts to reduce its carbon footprint. The modified planes use a combination of traditional jet fuel and battery-powered motors during takeoff and landing, when emissions and noise are highest. Engineers say early flights suggest fuel savings of up to 30 percent on segments under 300 kilometers. Regulators are overseeing the trials closely to evaluate safety and reliability before certifying the technology for wider use. Environmental advocates welcome the initiative but stress that broader changes in travel patterns and investment in rail alternatives will also be necessary to curb aviation-related emissions.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of social media can lead to a decrease in the number of people who actually use it. The study, published in the journal Social Science & Medicine, found that people who use social media less than once a week are more likely to be less likely to use it at all. The study also found that people who use social media more than once a week are more likely to use it regularly. The study also found that people who use social media less than once a week are more likely to use it less frequently. The study also found that people who use social media more than once a week are more likely to use it regularly. The study also found that people who use social media less than once a week are more likely to use it less frequently. The study also found that people who use social media more than once a week are more likely to use it regularly. The study also found that people who use social media less than once a week are more likely to use it less frequently. The study also found that people who use social media more than once a week are more likely to use it regularly",
+      "highlights": [
+        "Airline trials hybrid-electric planes to cut fuel use on short routes.",
+        "Battery assist during takeoff and landing reduces noise and emissions.",
+        "Experts see promise but call for broader shifts in transport choices."
+      ],
+      "f1": 0.01762114537444934,
+      "carbon_emissions_kg": 2.9949672694800625e-07
+    },
+    {
+      "id": 36,
+      "article": "A major e-commerce company has opened its first physical pickup lockers in rural post offices, hoping to improve delivery reliability in hard-to-reach areas. Customers shopping online can now choose to have parcels sent to secure boxes at local branches instead of home addresses that may lack standard street names or numbering. Postal workers say the system reduces failed delivery attempts and allows residents to collect packages at their convenience. The partnership also brings new foot traffic into post offices that have struggled with declining mail volumes. Analysts believe similar collaborations could help modernize legacy postal networks while extending the reach of digital marketplaces.",
+      "model_summary": ".\n\nArticle:\nA major e-commerce company has opened its first physical pickup lockers in rural post offices, hoping to improve delivery reliability in hard-to-reach areas. Customers shopping online can now choose to have parcels sent to secure boxes at local branches instead of home addresses that may lack standard street names or numbering. Postal workers say the system reduces failed delivery attempts and allows residents to collect packages at their convenience. The partnership also brings new foot traffic into post offices that have struggled with declining mail volumes. Analysts believe similar collaborations could help modernize legacy postal networks while extending the reach of digital marketplaces.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Online retailer installs parcel lockers in village post offices.",
+        "Lockers cut failed deliveries where home addresses are unreliable.",
+        "Collaboration boosts traffic for postal services and expands e-commerce reach."
+      ],
+      "f1": 0.06976744186046512,
+      "carbon_emissions_kg": 3.045679330495663e-07
+    },
+    {
+      "id": 37,
+      "article": "City officials in an East Asian metropolis are piloting a system of \"smart\" traffic lights that adjust their timing in real time based on sensor data. Cameras and inductive loops embedded in the roadways estimate vehicle volumes and pedestrian flows, allowing algorithms to reduce idle time at intersections. Initial trials on a busy corridor cut average commute times by nearly 15 percent and reduced emissions from idling cars. Residents have also reported fewer instances of drivers running red lights out of frustration. Authorities plan to expand the program if the technology proves robust during peak travel seasons and extreme weather.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of social media can lead to a decrease in the number of people who actually use it. The study, published in the journal Social Science & Medicine, found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social media less than once a week are more likely to be less likely to use it. The study also found that people who use social",
+      "highlights": [
+        "Smart signals in major city shorten waits by adapting to traffic conditions.",
+        "Sensors feed algorithms that tweak light cycles on the fly.",
+        "Pilot sees faster trips and lower emissions from idling vehicles."
+      ],
+      "f1": 0.017777777777777778,
+      "carbon_emissions_kg": 2.944863534703754e-07
+    },
+    {
+      "id": 38,
+      "article": "A conservation group has launched a citizen science app that lets hikers and villagers document sightings of endangered species using their smartphones. Users can snap photos, record audio and log GPS coordinates even when offline, uploading the data once they reach a network connection. Biologists verify submissions and use the information to update maps of critical habitats and migration routes. In regions where professional surveys are rare, the observations provide a valuable early warning system for poaching or habitat loss. The organization stresses that locations of especially vulnerable animals are kept confidential to prevent misuse of the data.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of a new type of drug to treat a rare disease may be linked to a rise in the number of people who die from the disease. The study, published in the journal Lancet, found that the drug, called riluzole, was linked to a 10% increase in the number of deaths from the disease. The study was conducted in a small town in Italy where the drug was first used in 2008. The researchers say that the drug may have been linked to the rise in deaths because it is a drug that is used to treat a rare disease. The researchers say that the drug may have been linked to the rise in deaths because it is a drug that is used to treat a rare disease. The researchers say that the drug may have been linked to the rise in deaths because it is a drug that is used to treat a rare disease. The researchers say that the drug may have been linked to the rise in deaths because it is a drug that is used to treat a rare disease. The researchers say that the drug may have been linked to the",
+      "highlights": [
+        "New app turns locals into wildlife spotters for threatened species.",
+        "Offline logging of photos and sounds feeds research databases.",
+        "Sensitive location data is protected to avoid aiding poachers."
+      ],
+      "f1": 0.018779342723004695,
+      "carbon_emissions_kg": 2.9434936483874416e-07
+    },
+    {
+      "id": 39,
+      "article": "A government audit has revealed that a flagship job-training program failed to deliver promised employment outcomes despite significant public investment. The review found that many courses were poorly aligned with local labor market needs, focusing on generic skills rather than specific qualifications sought by employers. Participants frequently reported difficulty securing apprenticeships or interviews after completing the modules. In response, the labor ministry has frozen funding for underperforming providers and pledged to consult industry bodies more closely when designing future curricula. Opposition lawmakers are calling for greater transparency on which contractors benefited from the program and how results will be tracked going forward.",
+      "model_summary": ".\n\nArticle:\nA government audit has revealed that a flagship job-training program failed to deliver promised employment outcomes despite significant public investment. The review found that many courses were poorly aligned with local labor market needs, focusing on generic skills rather than specific qualifications sought by employers. Participants frequently reported difficulty securing apprenticeships or interviews after completing the modules. In response, the labor ministry has frozen funding for underperforming providers and pledged to consult industry bodies more closely when designing future curricula. Opposition lawmakers are calling for greater transparency on which contractors benefited from the program and how results will be tracked going forward.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Audit finds costly job-training scheme mismatched to real hiring needs.",
+        "Graduates struggled to find work as courses emphasized generic skills.",
+        "Government vows reforms amid demands for accountability on spending."
+      ],
+      "f1": 0.05847953216374269,
+      "carbon_emissions_kg": 2.992787180068386e-07
+    },
+    {
+      "id": 40,
+      "article": "A championship chess match between a teenage prodigy and the reigning world champion drew record online viewership, with millions tuning in to live commentary. The week-long series, played in a glass-enclosed room inside a museum, featured dramatic time scrambles and bold sacrifices from both sides. Analysts praised the challenger’s creative opening preparation and psychological resilience under pressure. Although the veteran ultimately retained the title after a tiebreaker, many commentators declared the era of the young contender had begun. Streaming platforms reported that the event attracted large numbers of first-time chess viewers, buoyed by renewed interest in the game from popular TV dramas.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of a smartphone can help people to better understand the world around them. The study, published in the journal Nature, found that people who used a smartphone to watch a video of a person walking in a park were more likely to understand the person’s actions than those who did not use a smartphone. The study also found that people who used a smartphone to watch a video of a person walking in a park were more likely to understand the person’s actions than those who did not use a smartphone. The study also found that people who used a smartphone to watch a video of a person walking in a park were more likely to understand the person’s actions than those who did not use a smartphone. The study also found that people who used a smartphone to watch a video of a person walking in a park were more likely to understand the person’s actions than those who did not use a smartphone. The study also found that people who used a smartphone to watch a video of a person walking in a park were more likely to understand the person’s actions than those who did not use a smartphone. The study also",
+      "highlights": [
+        "Teen challenger pushes world chess champion to tense tiebreaker.",
+        "Match captivates millions online with sharp tactics and time scrambles.",
+        "Commentators hail new star as streaming boom fuels chess fandom."
+      ],
+      "f1": 0.01762114537444934,
+      "carbon_emissions_kg": 3.0450691749600895e-07
+    },
+    {
+      "id": 41,
+      "article": "A new urban farming initiative is converting vacant lots into community-managed vegetable gardens across a North African city. Residents apply for small plots where they can grow tomatoes, herbs and leafy greens using drip irrigation systems supplied by the municipality. The program, launched in partnership with local NGOs, also offers training on composting and water conservation. Organizers say the gardens provide affordable produce, shade and a sense of ownership in neighborhoods that have long lacked green space. City leaders hope the approach will improve food security while reducing heat in densely built districts.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of a new type of sunscreen may be linked to an increased risk of skin cancer. The study, published in the journal Cancer, found that people who used a sunscreen containing zinc oxide had a 20% higher risk of developing skin cancer than those who used a sunscreen containing titanium dioxide. The researchers also found that people who used a sunscreen containing zinc oxide had a 15% higher risk of developing skin cancer than those who used a sunscreen containing zinc oxide. The study was conducted by researchers at the University of California, San Francisco, and the University of California, San Diego. The study was funded by the National Institute of Allergy and Infectious Diseases. The researchers say the findings suggest that sunscreen containing zinc oxide may be linked to an increased risk of skin cancer. The researchers say the findings suggest that sunscreen containing zinc oxide may be linked to an increased risk of skin cancer. The researchers say the findings suggest that sunscreen containing zinc oxide may be linked to an increased risk of skin cancer. The researchers say the findings suggest that sunscreen containing zinc oxide may be linked to an increased risk of",
+      "highlights": [
+        "Vacant land in North African city becomes network of community gardens.",
+        "Drip irrigation and composting classes support low-income growers.",
+        "Project boosts access to fresh food and cools crowded neighborhoods."
+      ],
+      "f1": 0.018604651162790697,
+      "carbon_emissions_kg": 2.9460497215008184e-07
+    },
+    {
+      "id": 42,
+      "article": "An online learning platform has introduced a feature that lets students simulate lab experiments in physics and chemistry using virtual reality headsets. The system recreates equipment such as oscilloscopes, beakers and lasers in a 3D environment where users can tweak variables and observe outcomes. Educators say the tool is especially valuable for schools that lack fully equipped labs or must share limited resources among large classes. Early pilots indicate that students using the simulations demonstrate stronger conceptual understanding on follow-up tests. Critics caution that virtual labs should supplement rather than replace hands-on experience with real materials whenever possible.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of a smartphone app to track the amount of time that people spend on their phones is a good idea. The study, published in the journal PLOS ONE, found that people who used the app for at least 10 minutes a day spent 10 minutes more on their phones than those who did not use the app. The study also found that people who used the app for more than 10 minutes a day spent 15 minutes more on their phones than those who did not use the app. The study also found that people who used the app for more than 10 minutes a day spent 20 minutes more on their phones than those who did not use the app. The study also found that people who used the app for more than 10 minutes a day spent 25 minutes more on their phones than those who did not use the app. The study also found that people who used the app for more than 10 minutes a day spent 30 minutes more on their phones than those who did not use the app. The study also found",
+      "highlights": [
+        "VR lab simulations bring hands-on science to schools with scarce equipment.",
+        "Students manipulate virtual gear to test hypotheses in physics and chemistry.",
+        "Studies show learning gains, but experts insist real-world labs remain vital."
+      ],
+      "f1": 0.01923076923076923,
+      "carbon_emissions_kg": 2.9925472160136063e-07
+    },
+    {
+      "id": 43,
+      "article": "A landmark legal settlement has required a major social media platform to overhaul how it handles reports of online harassment and abuse. Under the agreement, the company must introduce clearer reporting tools, provide victims with regular updates and expand its team of human moderators trained in trauma-informed practices. Independent auditors will review the platform's enforcement actions and publish annual transparency reports. Advocacy groups that brought the case argue that lax moderation disproportionately harmed women, LGBTQ users and people of color. While they welcomed the commitments, they warned that meaningful change will depend on whether the company truly invests in enforcement rather than treating the settlement as a public relations exercise.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of social media can be a powerful tool for promoting positive change. The study, published in the journal Social Science & Medicine, found that people who use social media to promote positive change are more likely to be motivated by positive emotions and less likely to be influenced by negative emotions. The study also found that people who use social media to promote positive change are more likely to engage in positive behaviors, such as volunteering and donating. The study suggests that social media can be a powerful tool for promoting positive change, but that it is important to use it in a responsible and ethical way.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Social network agrees to stricter rules and oversight on abuse reports.",
+        "Settlement mandates clearer tools, victim updates and expert moderators.",
+        "Campaigners say success hinges on real investment, not just optics."
+      ],
+      "f1": 0.03389830508474576,
+      "carbon_emissions_kg": 3.047229364722088e-07
+    },
+    {
+      "id": 44,
+      "article": "A collaborative project between indigenous communities and archaeologists has led to the discovery of ancient earthworks hidden beneath dense rainforest canopy. Using aerial laser scanning, researchers mapped subtle changes in elevation that revealed geometric patterns of ditches and raised platforms. Elders from nearby villages recognized the shapes as similar to designs in traditional art and oral histories describing ancestral settlements. Excavations at select sites uncovered pottery shards, tools and charred plant remains, offering new insights into precolonial land management. Team members emphasize that local knowledge was crucial to interpreting the data and deciding where to dig.",
+      "model_summary": ".\n\nArticle:\nA new study suggests that the use of a new type of artificial intelligence (AI) system could help to reduce the number of people who are homeless in the United States. The study, published in the journal Nature, found that the AI system could be used to predict the number of people who would be homeless in a given area. The researchers used data from the United States Census Bureau to create a model that could predict the number of people who would be homeless in a given area. The model was then tested on a dataset of 100,000 locations in the United States. The researchers found that the model was able to accurately predict the number of people who would be homeless in a given area with a 90% accuracy rate. The researchers also found that the model could be used to predict the number of people who would be homeless in a given area with a 95% accuracy rate. The researchers also found that the model could be used to predict the number of people who would be homeless in a given area with a 99% accuracy rate. The researchers also found that the model could",
+      "highlights": [
+        "Laser surveys expose ancient earthworks concealed under rainforest canopy.",
+        "Indigenous elders link shapes to motifs from stories and artwork.",
+        "Joint digs unearth artifacts and highlight value of traditional knowledge."
+      ],
+      "f1": 0.019047619047619046,
+      "carbon_emissions_kg": 3.0469124940618887e-07
+    },
+    {
+      "id": 45,
+      "article": "A tech nonprofit has launched a low-bandwidth web browser optimized for communities with slow or unreliable internet connections. The software compresses images, delays nonessential scripts and strips out most advertising by default, dramatically reducing data usage on basic smartphones. Early tests in rural regions show that common tasks such as checking exam results or filling out government forms complete far more quickly, even on congested networks. Developers are making the browser's code freely available so local organizations can adapt language settings and homepages to reflect regional needs. Advocates say tools like this are vital to ensuring that digital services are accessible beyond well-connected urban centers.",
+      "model_summary": ".\n\nArticle:\nA tech nonprofit has launched a low-bandwidth web browser optimized for communities with slow or unreliable internet connections. The software compresses images, delays nonessential scripts and strips out most advertising by default, dramatically reducing data usage on basic smartphones. Early tests in rural regions show that common tasks such as checking exam results or filling out government forms complete far more quickly, even on congested networks. Developers are making the browser's code freely available so local organizations can adapt language settings and homepages to reflect regional needs. Advocates say tools like this are vital to ensuring that digital services are accessible beyond well-connected urban centers.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Lightweight browser slashes data use for users on patchy mobile networks.",
+        "App blocks heavy scripts and ads to speed up essential web tasks.",
+        "Open-source design lets communities localize features and content."
+      ],
+      "f1": 0.05813953488372093,
+      "carbon_emissions_kg": 3.048919306652354e-07
+    },
+    {
+      "id": 46,
+      "article": "A major hospital system is deploying AI-assisted software to help radiologists spot signs of disease in medical scans more quickly. The tool analyzes X-rays and CT images for patterns associated with conditions such as lung nodules, fractures and internal bleeding, flagging cases that may require urgent attention. Doctors remain responsible for final diagnoses, but early trials suggest the software can reduce reading times and catch abnormalities that might otherwise be overlooked during busy shifts. Patient advocates emphasize the need for robust validation to ensure the algorithms work equally well across different demographic groups. Regulators have issued guidance encouraging hospitals to monitor performance continuously and guard against automation bias.",
+      "model_summary": ".\n\nArticle:\nA major hospital system is deploying AI-assisted software to help radiologists spot signs of disease in medical scans more quickly. The tool analyzes X-rays and CT images for patterns associated with conditions such as lung nodules, fractures and internal bleeding, flagging cases that may require urgent attention. Doctors remain responsible for final diagnoses, but early trials suggest the software can reduce reading times and catch abnormalities that might otherwise be overlooked during busy shifts. Patient advocates emphasize the need for robust validation to ensure the algorithms work equally well across different demographic groups. Regulators have issued guidance encouraging hospitals to monitor performance continuously and guard against automation bias.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Hospitals turn to AI tools to prioritize and review radiology scans.",
+        "Software flags potential lung nodules and fractures for faster follow-up.",
+        "Experts call for ongoing checks to avoid bias and overreliance on machines."
+      ],
+      "f1": 0.06936416184971099,
+      "carbon_emissions_kg": 3.052988977845227e-07
+    },
+    {
+      "id": 47,
+      "article": "An annual global survey of language use online has found that smaller regional languages are gaining ground on major platforms thanks to community translation efforts. Volunteer groups have localized interfaces, subtitles and documentation into dozens of tongues that were previously absent from the digital sphere. Messaging apps and video services report rising engagement in regions where people can now navigate menus and content in their mother tongue. Linguists say the trend could help preserve endangered languages by giving younger speakers more opportunities to use them in everyday life. However, they caution that corporate decisions about which languages to fully support still play a decisive role.",
+      "model_summary": ".\n\nArticle:\nAn annual global survey of language use online has found that smaller regional languages are gaining ground on major platforms thanks to community translation efforts. Volunteer groups have localized interfaces, subtitles and documentation into dozens of tongues that were previously absent from the digital sphere. Messaging apps and video services report rising engagement in regions where people can now navigate menus and content in their mother tongue. Linguists say the trend could help preserve endangered languages by giving younger speakers more opportunities to use them in everyday life. However, they caution that corporate decisions about which languages to fully support still play a decisive role.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Grassroots translators bring minority languages onto major apps and sites.",
+        "Localized interfaces boost engagement where people browse in native tongues.",
+        "Researchers see potential for digital tools to aid language preservation."
+      ],
+      "f1": 0.0813953488372093,
+      "carbon_emissions_kg": 3.0465761595191893e-07
+    },
+    {
+      "id": 48,
+      "article": "A high-profile corruption trial involving senior officials from a national sports federation has exposed deep governance failures in the organization. Prosecutors allege that executives diverted sponsorship money into shell companies, falsified expense reports and awarded contracts to relatives. Witnesses testified that whistleblowers who questioned irregularities were sidelined or forced out. In response to the scandal, the government has suspended public funding for the federation and appointed an interim committee to oversee reforms. Athletes, many of whom trained for years under the tainted leadership, say they hope the cleanup will lead to more transparent selection processes and fair distribution of resources.",
+      "model_summary": ".\n\nArticle:\nA high-profile corruption trial involving senior officials from a national sports federation has exposed deep governance failures in the organization. Prosecutors allege that executives diverted sponsorship money into shell companies, falsified expense reports and awarded contracts to relatives. Witnesses testified that whistleblowers who questioned irregularities were sidelined or forced out. In response to the scandal, the government has suspended public funding for the federation and appointed an interim committee to oversee reforms. Athletes, many of whom trained for years under the tainted leadership, say they hope the cleanup will lead to more transparent selection processes and fair distribution of resources.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Sports chiefs stand trial over allegations of embezzling sponsorship funds.",
+        "Whistleblowers describe intimidation amid rigged contracts and expenses.",
+        "State cuts funding and installs interim board as athletes demand reforms."
+      ],
+      "f1": 0.05952380952380952,
+      "carbon_emissions_kg": 3.045011691014818e-07
+    },
+    {
+      "id": 49,
+      "article": "A pioneering desalination plant powered entirely by renewable energy has begun supplying drinking water to a drought-stricken coastal region. The facility uses solar panels and onshore wind turbines to drive high-pressure pumps that remove salt from seawater, feeding a network of storage tanks and distribution pipes. Engineers say the system is designed to shut down automatically during periods of low generation to avoid drawing from the conventional grid. Local farmers, who have faced repeated water restrictions, hope the additional supply will stabilize irrigation schedules for key crops. Environmentalists note that while desalination carries ecological risks, using clean energy and careful brine management can significantly reduce the impact.",
+      "model_summary": ".\n\nArticle:\nA pioneering desalination plant powered entirely by renewable energy has begun supplying drinking water to a drought-stricken coastal region. The facility uses solar panels and onshore wind turbines to drive high-pressure pumps that remove salt from seawater, feeding a network of storage tanks and distribution pipes. Engineers say the system is designed to shut down automatically during periods of low generation to avoid drawing from the conventional grid. Local farmers, who have faced repeated water restrictions, hope the additional supply will stabilize irrigation schedules for key crops. Environmentalists note that while desalination carries ecological risks, using clean energy and careful brine management can significantly reduce the impact.\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE\nLETE",
+      "highlights": [
+        "Renewables-powered desalination plant delivers fresh water to dry region.",
+        "Solar and wind energy run pumps that strip salt from seawater.",
+        "Project promises steadier irrigation while aiming to limit ecological harm."
+      ],
+      "f1": 0.10588235294117647,
+      "carbon_emissions_kg": 3.0992637388477504e-07
+    }
+  ],
+  "model_directory": "qwen2.5-0.5b",
+  "source_file": "parsed_outputs_qwen2.5-0.5b-q4_k_m.gguf.json",
+  "root": "/Users/lohithkola/Desktop/IIIT-H/2-1/ESW/slm-benchmarking-qidk/Summarization/qwen2.5-0.5b"
+}
