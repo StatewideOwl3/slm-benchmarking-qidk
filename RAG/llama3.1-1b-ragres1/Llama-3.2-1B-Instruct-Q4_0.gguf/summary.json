@@ -1,0 +1,25 @@
+{
+  "model": "/data/data/com.termux/files/home/models/Llama-3.2-1B-Instruct-Q4_0.gguf",
+  "model_slug": "Llama-3.2-1B-Instruct-Q4_0.gguf",
+  "question_count": 10,
+  "retrieval_latency_ms": {
+    "avg": 2.9244113999993715,
+    "min": 0.8016669999051373,
+    "max": 4.217812999741
+  },
+  "semantic_similarity_avg": 0.4034057753637705,
+  "session_carbon_emissions_kg": 1.674987416090926e-06,
+  "evaluation": {
+    "exact_match": 0.0,
+    "f1": 0.48260458357156466,
+    "question_count": 10
+  },
+  "artifacts": {
+    "raw_outputs": "/root/llama3.1-1b-ragres1/Llama-3.2-1B-Instruct-Q4_0.gguf/raw_outputs_Llama-3.2-1B-Instruct-Q4_0.gguf.json",
+    "parsed_outputs": "/root/llama3.1-1b-ragres1/Llama-3.2-1B-Instruct-Q4_0.gguf/parsed_outputs_Llama-3.2-1B-Instruct-Q4_0.gguf.json",
+    "raw_metrics": "/root/llama3.1-1b-ragres1/Llama-3.2-1B-Instruct-Q4_0.gguf/raw_metrics.json",
+    "evaluation_metrics": "/root/llama3.1-1b-ragres1/Llama-3.2-1B-Instruct-Q4_0.gguf/evaluation_metrics.json",
+    "summary_metrics": "/root/llama3.1-1b-ragres1/Llama-3.2-1B-Instruct-Q4_0.gguf/summary_metrics.json",
+    "prompt_log": "/root/llama3.1-1b-ragres1/Llama-3.2-1B-Instruct-Q4_0.gguf/prompt_log.json"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "overall": {
+    "exact_match": 0.0,
+    "f1": 0.17777992881003402,
+    "question_count": 10
+  },
+  "per_question": [
+    {
+      "id": 1,
+      "question": "What degree program is Sai Kapil Bharadwaj pursuing, and at which institution?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3252]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.0460]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to",
+      "gold_answers": [
+        "Sai Kapil Bharadwaj is enrolled in the B.Tech+MS by Research program in Computer Science at IIIT Hyderabad."
+      ],
+      "exact_match": 0,
+      "f1": 0.2269503546099291,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 2,
+      "question": "What is Sai's semester 2 GPA in the B.Tech+MS program?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3813]\n Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.2804]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore,",
+      "gold_answers": [
+        "His semester 2 GPA is 8.78 out of 10."
+      ],
+      "exact_match": 0,
+      "f1": 0.0983606557377049,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 3,
+      "question": "What overall grade did Sai achieve during his secondary education at GR International School?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3345]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nExperience\nComcast May 202",
+      "gold_answers": [
+        "He earned a grade of 96.8% in CBSE 11th and 12th at GR International School."
+      ],
+      "exact_match": 0,
+      "f1": 0.1925925925925926,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 4,
+      "question": "Which company did Sai intern with in 2025, and what kind of AI work did he focus on?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3121]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\nQuestion:\nWhich company did Sai intern with in 2025",
+      "gold_answers": [
+        "Sai interned with Comcast India Engineering Center in 2025, working on agentic AI applications for Web-UI agents with a human-in-the-loop focus."
+      ],
+      "exact_match": 0,
+      "f1": 0.21518987341772153,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 5,
+      "question": "What was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.4124]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems",
+      "gold_answers": [
+        "The project explored Qualcomm Innovation Development Kit hardware to evaluate how small language models perform on edge AI workloads with an emphasis on sustainability."
+      ],
+      "exact_match": 0,
+      "f1": 0.3006535947712418,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 6,
+      "question": "Name two tools or SDKs mentioned for the QIDK SLM benchmarking project.",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3353]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/network-file-system\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built",
+      "gold_answers": [
+        "The project leveraged QIDK hardware and Qualcomm's QNN SDKs, along with llama.cpp and CodeCarbon."
+      ],
+      "exact_match": 0,
+      "f1": 0.13513513513513511,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 7,
+      "question": "What was built during the Network File System course project, and which technologies were highlighted?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.4039]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.2952]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2",
+      "gold_answers": [
+        "Sai built a basic networked file system from scratch, dealing with concurrency and consistency using C and socket programming."
+      ],
+      "exact_match": 0,
+      "f1": 0.18404907975460125,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 8,
+      "question": "How does the Terminal Based Wireshark project extend Wireshark-like capabilities?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3994]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.3137]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL,",
+      "gold_answers": [
+        "It is a terminal-based packet sniffer that can filter packets by protocols across OSI model layers, implemented in C with socket programming."
+      ],
+      "exact_match": 0,
+      "f1": 0.19318181818181815,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 9,
+      "question": "List at least three programming languages Sai reports experience with.",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.2356]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 2 | score=0.1430]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad",
+      "gold_answers": [
+        "He lists proficiency in C, C++, Python, Bash, and JavaScript."
+      ],
+      "exact_match": 0,
+      "f1": 0.10218978102189781,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 10,
+      "question": "Which repository hosts the SLM benchmarking project mentioned in the resume?",
+      "model_answer": "followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.2503]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems",
+      "gold_answers": [
+        "The project repository is github.com/StatewideOwl3/slm-benchmarking-qidk."
+      ],
+      "exact_match": 0,
+      "f1": 0.12949640287769784,
+      "carbon_emissions_kg": null
+    }
+  ],
+  "model_directory": "qwen2.5-0.5b-q4_k_m.gguf",
+  "source_file": "parsed_outputs_qwen2.5-0.5b-q4_k_m.gguf.json",
+  "root": "/root/qwen2.5-0.5b-ragres1/qwen2.5-0.5b-q4_k_m.gguf"
+}

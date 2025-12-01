@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What degree program is Sai Kapil Bharadwaj pursuing, and at which institution?",
+    "answer": "Sai Kapil Bharadwaj is enrolled in the B.Tech+MS by Research program in Computer Science at IIIT Hyderabad."
+  },
+  {
+    "id": 2,
+    "question": "What is Sai's semester 2 GPA in the B.Tech+MS program?",
+    "answer": "His semester 2 GPA is 8.78 out of 10."
+  },
+  {
+    "id": 3,
+    "question": "What overall grade did Sai achieve during his secondary education at GR International School?",
+    "answer": "He earned a grade of 96.8% in CBSE 11th and 12th at GR International School."
+  },
+  {
+    "id": 4,
+    "question": "Which company did Sai intern with in 2025, and what kind of AI work did he focus on?",
+    "answer": "Sai interned with Comcast India Engineering Center in 2025, working on agentic AI applications for Web-UI agents with a human-in-the-loop focus."
+  },
+  {
+    "id": 5,
+    "question": "What was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?",
+    "answer": "The project explored Qualcomm Innovation Development Kit hardware to evaluate how small language models perform on edge AI workloads with an emphasis on sustainability."
+  },
+  {
+    "id": 6,
+    "question": "Name two tools or SDKs mentioned for the QIDK SLM benchmarking project.",
+    "answer": "The project leveraged QIDK hardware and Qualcomm's QNN SDKs, along with llama.cpp and CodeCarbon."
+  },
+  {
+    "id": 7,
+    "question": "What was built during the Network File System course project, and which technologies were highlighted?",
+    "answer": "Sai built a basic networked file system from scratch, dealing with concurrency and consistency using C and socket programming."
+  },
+  {
+    "id": 8,
+    "question": "How does the Terminal Based Wireshark project extend Wireshark-like capabilities?",
+    "answer": "It is a terminal-based packet sniffer that can filter packets by protocols across OSI model layers, implemented in C with socket programming."
+  },
+  {
+    "id": 9,
+    "question": "List at least three programming languages Sai reports experience with.",
+    "answer": "He lists proficiency in C, C++, Python, Bash, and JavaScript."
+  },
+  {
+    "id": 10,
+    "question": "Which repository hosts the SLM benchmarking project mentioned in the resume?",
+    "answer": "The project repository is github.com/StatewideOwl3/slm-benchmarking-qidk."
+  }
+]

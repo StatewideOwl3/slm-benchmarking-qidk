@@ -1,0 +1,122 @@
+{
+  "overall": {
+    "exact_match": 0.0,
+    "f1": 0.5061255987619591,
+    "question_count": 10
+  },
+  "per_question": [
+    {
+      "id": 1,
+      "question": "What degree program is Sai Kapil Bharadwaj pursuing, and at which institution?",
+      "model_answer": "B.Tech+MS By Research in Computer Science at IIIT Hyderabad",
+      "gold_answers": [
+        "Sai Kapil Bharadwaj is enrolled in the B.Tech+MS by Research program in Computer Science at IIIT Hyderabad."
+      ],
+      "exact_match": 0,
+      "f1": 0.7333333333333334,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 2,
+      "question": "What is Sai's semester 2 GPA in the B.Tech+MS program?",
+      "model_answer": "GPA(Sem2): 8.78/10",
+      "gold_answers": [
+        "His semester 2 GPA is 8.78 out of 10."
+      ],
+      "exact_match": 0,
+      "f1": 0.5333333333333333,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 3,
+      "question": "What overall grade did Sai achieve during his secondary education at GR International School?",
+      "model_answer": "GR International School Bangalore, India  \nSecondary Education (CBSE 11th and 12th) March 2024  \n◦Grade: 96.8%",
+      "gold_answers": [
+        "He earned a grade of 96.8% in CBSE 11th and 12th at GR International School."
+      ],
+      "exact_match": 0,
+      "f1": 0.625,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 4,
+      "question": "Which company did Sai intern with in 2025, and what kind of AI work did he focus on?",
+      "model_answer": "Comcast May 2025 - July 2025  \nAI/ML Intern  \n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI applicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasisonHuman In",
+      "gold_answers": [
+        "Sai interned with Comcast India Engineering Center in 2025, working on agentic AI applications for Web-UI agents with a human-in-the-loop focus."
+      ],
+      "exact_match": 0,
+      "f1": 0.36065573770491804,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 5,
+      "question": "What was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?",
+      "model_answer": "The primary goal of the QIDK – SLM Benchmarking for Sustainability project was to evaluate the feasibility of deploying Small Language Models (SLMs) on edge-AI hardware with an emphasis on sustainability.",
+      "gold_answers": [
+        "The project explored Qualcomm Innovation Development Kit hardware to evaluate how small language models perform on edge AI workloads with an emphasis on sustainability."
+      ],
+      "exact_match": 0,
+      "f1": 0.5818181818181819,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 6,
+      "question": "Name two tools or SDKs mentioned for the QIDK SLM benchmarking project.",
+      "model_answer": "Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon  \nRepository : github.com/StatewideOwl3/slm-benchmarking-qidk",
+      "gold_answers": [
+        "The project leveraged QIDK hardware and Qualcomm's QNN SDKs, along with llama.cpp and CodeCarbon."
+      ],
+      "exact_match": 0,
+      "f1": 0.3225806451612903,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 7,
+      "question": "What was built during the Network File System course project, and which technologies were highlighted?",
+      "model_answer": "Network File System October 2025 – November 2025  \n◦Built a basic networked file system from scratch.  \n◦Tools: C, C++, Python, Bash, JS  \n◦Database Systems: MySQL, MongoDB(No-SQL)",
+      "gold_answers": [
+        "Sai built a basic networked file system from scratch, dealing with concurrency and consistency using C and socket programming."
+      ],
+      "exact_match": 0,
+      "f1": 0.391304347826087,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 8,
+      "question": "How does the Terminal Based Wireshark project extend Wireshark-like capabilities?",
+      "model_answer": "Supports filtering packets based on protocols across layers in the OSI model.",
+      "gold_answers": [
+        "It is a terminal-based packet sniffer that can filter packets by protocols across OSI model layers, implemented in C with socket programming."
+      ],
+      "exact_match": 0,
+      "f1": 0.4571428571428571,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 9,
+      "question": "List at least three programming languages Sai reports experience with.",
+      "model_answer": "Programming Languages: C, C++, Python, Bash, JS  \n◦GPA(Sem1): 8.17/10  \n◦GPA(Sem2): 8.78/10  \nGR International School Bangalore, India  \nSecondary Education (CBSE 11th and 12th) March 2024  \n◦Grade: 96.8%",
+      "gold_answers": [
+        "He lists proficiency in C, C++, Python, Bash, and JavaScript."
+      ],
+      "exact_match": 0,
+      "f1": 0.23255813953488375,
+      "carbon_emissions_kg": null
+    },
+    {
+      "id": 10,
+      "question": "Which repository hosts the SLM benchmarking project mentioned in the resume?",
+      "model_answer": "Repository : github.com/StatewideOwl3/slm-benchmarking-qidk",
+      "gold_answers": [
+        "The project repository is github.com/StatewideOwl3/slm-benchmarking-qidk."
+      ],
+      "exact_match": 0,
+      "f1": 0.8235294117647058,
+      "carbon_emissions_kg": null
+    }
+  ],
+  "model_directory": "Qwen3-1.7B.Q4_K_M.gguf",
+  "source_file": "parsed_outputs_Qwen3-1.7B.Q4_K_M.gguf.json",
+  "root": "/root/qwen3-1.7b-ragres1/Qwen3-1.7B.Q4_K_M.gguf"
+}
