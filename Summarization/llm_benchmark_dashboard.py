@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Utility helpers for building the benchmark side of the dashboard."""
+"""Utility helpers for building the summarization benchmark dashboard."""
 
 from __future__ import annotations
 
@@ -62,7 +62,7 @@ METRIC_SPECS = [
     (
         "Total Latency (ms)",
         "total_time_ms",
-        "Average total end-to-end latency per prompt.",
+        "Average total end-to-end latency per article.",
     ),
     (
         "Prompt Throughput (tok/s)",
@@ -80,14 +80,14 @@ METRIC_SPECS = [
         "Peak VRAM/DRAM usage captured by llama.cpp memory probes.",
     ),
     (
-        "Exact Match",
-        "exact_match",
-        "Fraction of questions answered exactly correct.",
+        "Summary Length (chars)",
+        "summary_length_chars",
+        "Average number of characters per generated summary.",
     ),
     (
         "F1",
         "f1",
-        "Token-level F1 over all questions.",
+        "Token-level F1 overlap with reference highlights.",
     ),
 ]
 
