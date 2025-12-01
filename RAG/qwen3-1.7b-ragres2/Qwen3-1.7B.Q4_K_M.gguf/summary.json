@@ -1,0 +1,27 @@
+{
+  "model": "/data/data/com.termux/files/home/models/Qwen3-1.7B.Q4_K_M.gguf",
+  "model_slug": "Qwen3-1.7B.Q4_K_M.gguf",
+  "question_count": 10,
+  "retrieval_latency_ms": {
+    "avg": 1.325302200018541,
+    "min": 1.0866670000950762,
+    "max": 1.6512500000089858
+  },
+  "semantic_similarity_avg": 0.39231203091068223,
+  "session_carbon_emissions_kg": 8.261739425494359e-06,
+  "evaluation": {
+    "exact_match": 0.0,
+    "f1": 0.5061255987619591,
+    "question_count": 10,
+    "carbon_emissions_kg_sum": 7.650220734052359e-06,
+    "carbon_emissions_kg_avg": 7.650220734052358e-07
+  },
+  "artifacts": {
+    "raw_outputs": "/root/qwen3-1.7b-ragres2/Qwen3-1.7B.Q4_K_M.gguf/raw_outputs_Qwen3-1.7B.Q4_K_M.gguf.json",
+    "parsed_outputs": "/root/qwen3-1.7b-ragres2/Qwen3-1.7B.Q4_K_M.gguf/parsed_outputs_Qwen3-1.7B.Q4_K_M.gguf.json",
+    "raw_metrics": "/root/qwen3-1.7b-ragres2/Qwen3-1.7B.Q4_K_M.gguf/raw_metrics.json",
+    "evaluation_metrics": "/root/qwen3-1.7b-ragres2/Qwen3-1.7B.Q4_K_M.gguf/evaluation_metrics.json",
+    "summary_metrics": "/root/qwen3-1.7b-ragres2/Qwen3-1.7B.Q4_K_M.gguf/summary_metrics.json",
+    "prompt_log": "/root/qwen3-1.7b-ragres2/Qwen3-1.7B.Q4_K_M.gguf/prompt_log.json"
+  }
+}

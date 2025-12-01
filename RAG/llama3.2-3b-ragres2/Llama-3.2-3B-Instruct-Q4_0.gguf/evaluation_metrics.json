@@ -1,0 +1,124 @@
+{
+  "overall": {
+    "exact_match": 0.0,
+    "f1": 0.5268923507009157,
+    "question_count": 10,
+    "carbon_emissions_kg_sum": 3.878589949404762e-06,
+    "carbon_emissions_kg_avg": 3.878589949404762e-07
+  },
+  "per_question": [
+    {
+      "id": 1,
+      "question": "What degree program is Sai Kapil Bharadwaj pursuing, and at which institution?",
+      "model_answer": "Sai Kapil Bharadwaj is pursuing a B.Tech+MS by Research in Computer Science at International Institute of Information Technology Hyderabad, India.",
+      "gold_answers": [
+        "Sai Kapil Bharadwaj is enrolled in the B.Tech+MS by Research program in Computer Science at IIIT Hyderabad."
+      ],
+      "exact_match": 0,
+      "f1": 0.6829268292682926,
+      "carbon_emissions_kg": 4.1005353876218176e-07
+    },
+    {
+      "id": 2,
+      "question": "What is Sai's semester 2 GPA in the B.Tech+MS program?",
+      "model_answer": "Sai's semester 2 GPA in the B.Tech+MS program is 8.78/10.",
+      "gold_answers": [
+        "His semester 2 GPA is 8.78 out of 10."
+      ],
+      "exact_match": 0,
+      "f1": 0.56,
+      "carbon_emissions_kg": 3.754427901609551e-07
+    },
+    {
+      "id": 3,
+      "question": "What overall grade did Sai achieve during his secondary education at GR International School?",
+      "model_answer": "96.8%",
+      "gold_answers": [
+        "He earned a grade of 96.8% in CBSE 11th and 12th at GR International School."
+      ],
+      "exact_match": 0,
+      "f1": 0.2222222222222222,
+      "carbon_emissions_kg": 3.5099285581256207e-07
+    },
+    {
+      "id": 4,
+      "question": "Which company did Sai intern with in 2025, and what kind of AI work did he focus on?",
+      "model_answer": "Sai interned with Comcast in 2025, and he focused on agentic AI applications, specifically Web-UI agents, with an emphasis on Human In the Loop.",
+      "gold_answers": [
+        "Sai interned with Comcast India Engineering Center in 2025, working on agentic AI applications for Web-UI agents with a human-in-the-loop focus."
+      ],
+      "exact_match": 0,
+      "f1": 0.72,
+      "carbon_emissions_kg": 4.1150168668942767e-07
+    },
+    {
+      "id": 5,
+      "question": "What was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?",
+      "model_answer": "The primary goal of the QIDK – SLM Benchmarking for Sustainability project was to evaluate the feasibility of deploying Small Language Models (SLMs) on edge-AI hardware.",
+      "gold_answers": [
+        "The project explored Qualcomm Innovation Development Kit hardware to evaluate how small language models perform on edge AI workloads with an emphasis on sustainability."
+      ],
+      "exact_match": 0,
+      "f1": 0.48000000000000004,
+      "carbon_emissions_kg": 4.2655679400579836e-07
+    },
+    {
+      "id": 6,
+      "question": "Name two tools or SDKs mentioned for the QIDK SLM benchmarking project.",
+      "model_answer": "QNN SDKs and llama.cpp",
+      "gold_answers": [
+        "The project leveraged QIDK hardware and Qualcomm's QNN SDKs, along with llama.cpp and CodeCarbon."
+      ],
+      "exact_match": 0,
+      "f1": 0.47619047619047616,
+      "carbon_emissions_kg": 3.4497159782737254e-07
+    },
+    {
+      "id": 7,
+      "question": "What was built during the Network File System course project, and which technologies were highlighted?",
+      "model_answer": "During the Network File System course project, a basic networked file system was built from scratch. The technologies highlighted were C and Socket Programming.",
+      "gold_answers": [
+        "Sai built a basic networked file system from scratch, dealing with concurrency and consistency using C and socket programming."
+      ],
+      "exact_match": 0,
+      "f1": 0.5581395348837209,
+      "carbon_emissions_kg": 3.910536473007187e-07
+    },
+    {
+      "id": 8,
+      "question": "How does the Terminal Based Wireshark project extend Wireshark-like capabilities?",
+      "model_answer": "The Terminal Based Wireshark project extends Wireshark-like capabilities by supporting filtering packets based on protocols across layers in the OSI model.",
+      "gold_answers": [
+        "It is a terminal-based packet sniffer that can filter packets by protocols across OSI model layers, implemented in C with socket programming."
+      ],
+      "exact_match": 0,
+      "f1": 0.4444444444444445,
+      "carbon_emissions_kg": 3.960712353311925e-07
+    },
+    {
+      "id": 9,
+      "question": "List at least three programming languages Sai reports experience with.",
+      "model_answer": "1. C\n2. C++\n3. Python",
+      "gold_answers": [
+        "He lists proficiency in C, C++, Python, Bash, and JavaScript."
+      ],
+      "exact_match": 0,
+      "f1": 0.37499999999999994,
+      "carbon_emissions_kg": 3.9105648161995406e-07
+    },
+    {
+      "id": 10,
+      "question": "Which repository hosts the SLM benchmarking project mentioned in the resume?",
+      "model_answer": "github.com/StatewideOwl3/slm-benchmarking-qidk",
+      "gold_answers": [
+        "The project repository is github.com/StatewideOwl3/slm-benchmarking-qidk."
+      ],
+      "exact_match": 0,
+      "f1": 0.7499999999999999,
+      "carbon_emissions_kg": 3.8088932189459865e-07
+    }
+  ],
+  "model_directory": "Llama-3.2-3B-Instruct-Q4_0.gguf",
+  "source_file": "parsed_outputs_Llama-3.2-3B-Instruct-Q4_0.gguf.json",
+  "root": "/root/llama3.2-3b-ragres2/Llama-3.2-3B-Instruct-Q4_0.gguf"
+}

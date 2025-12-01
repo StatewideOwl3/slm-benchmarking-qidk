@@ -737,7 +737,10 @@ def main() -> None:
         else:
             gold_answers = [str(gold_answer)] if gold_answer else []
         logger.info("[Q%02d] Retrieving context", question_id)
+        retrieval_tracker = start_carbon_tracker(f"retrieval_q{question_id}_{model_slug}")
         retrieval = retriever.query(question, label=f"q{question_id}")
+        retrieval_carbon = stop_carbon_tracker(retrieval_tracker)
+        retrieval.carbon_kg = retrieval_carbon
         context = render_context(retrieval.chunks)
         prompt = template.render(context=context, question=question)
         prompt_log.append(
@@ -753,19 +756,25 @@ def main() -> None:
         command = build_llama_command(args.llama_cli, args.model, prompt)
 
         logger.info("[Q%02d] Starting llama.cpp inference", question_id)
+        generation_tracker = start_carbon_tracker(f"generation_q{question_id}_{model_slug}")
+        generation_carbon: Optional[float] = None
         try:
             stdout_data, stderr_data, memory_blob = run_single_example(command)
         except Exception as exc:  # noqa: BLE001
+            generation_carbon = stop_carbon_tracker(generation_tracker)
             logger.error("[Q%02d] FAILED: %s", question_id, exc)
             failure_payload = {
                 "id": question_id,
                 "question": question,
                 "error": str(exc),
                 "prompt": prompt,
+                "generation_carbon_kg": generation_carbon,
             }
             raw_outputs.append(failure_payload)
             parsed_outputs.append(failure_payload)
             continue
+
+        generation_carbon = stop_carbon_tracker(generation_tracker)
 
         trimmed_answer = trim_stdout_to_end_token(stdout_data)
         perf_lines = extract_perf_lines(stderr_data)
@@ -779,6 +788,8 @@ def main() -> None:
         retrieval_latencies.append(retrieval.latency_ms)
         semantic_scores.append(semantic_score)
 
+        memory_blob["carbon_emissions_kg"] = generation_carbon
+
         raw_item = {
             "id": question_id,
             "question": question,
@@ -789,6 +800,7 @@ def main() -> None:
             "retrieved_chunks": retrieval.chunks,
             "retrieval_latency_ms": retrieval.latency_ms,
             "retrieval_carbon_kg": retrieval.carbon_kg,
+            "generation_carbon_kg": generation_carbon,
             **memory_blob,
         }
         raw_outputs.append(raw_item)
@@ -800,6 +812,7 @@ def main() -> None:
             **metrics,
             "retrieval_latency_ms": retrieval.latency_ms,
             "retrieval_carbon_kg": retrieval.carbon_kg,
+            "generation_carbon_kg": generation_carbon,
             "exact_match": em,
             "f1": f1,
             "semantic_similarity": semantic_score,

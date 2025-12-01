@@ -1,0 +1,3284 @@
+[
+  {
+    "id": 1,
+    "question": "What degree program is Sai Kapil Bharadwaj pursuing, and at which institution?",
+    "gold_answers": [
+      "Sai Kapil Bharadwaj is enrolled in the B.Tech+MS by Research program in Computer Science at IIIT Hyderabad."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.3252]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.0460]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 3 | score=0.0425]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\nQuestion:\nWhat degree program is Sai Kapil Bharadwaj pursuing, and at which institution?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.3252]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.0460]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 3 | score=0.0425]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\nQuestion:\nWhat degree program is Sai Kapil Bharadwaj pursuing, and at which institution?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3252]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.0460]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      21.10 ms /   854 runs   (    0.02 ms per token, 40477.77 tokens per second)\nllama_perf_context_print:        load time =    3564.60 ms\nllama_perf_context_print: prompt eval time =    3007.54 ms /   598 tokens (    5.03 ms per token,   198.83 tokens per second)\nllama_perf_context_print:        eval time =    3079.22 ms /   255 runs   (   12.08 ms per token,    82.81 tokens per second)\nllama_perf_context_print:       total time =    6719.86 ms /   853 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 0,
+        "similarity": 0.3252118793974307,
+        "text": "Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 5,
+        "similarity": 0.04604807216803809,
+        "text": "ar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 1,
+        "similarity": 0.0424526418032223,
+        "text": "ion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C"
+      }
+    ],
+    "retrieval_latency_ms": 1.32260399993811,
+    "retrieval_carbon_kg": 1.4955765156769761e-10,
+    "generation_carbon_kg": 3.4993862624530737e-07,
+    "memory_usage_mb": 493.5234375,
+    "memory_samples": [
+      {
+        "timestamp": 1759138148.235971,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138148.336854,
+        "rss_kb": 9448
+      },
+      {
+        "timestamp": 1759138148.4376748,
+        "rss_kb": 20788
+      },
+      {
+        "timestamp": 1759138148.5399625,
+        "rss_kb": 56476
+      },
+      {
+        "timestamp": 1759138148.6411572,
+        "rss_kb": 70076
+      },
+      {
+        "timestamp": 1759138148.7415047,
+        "rss_kb": 223932
+      },
+      {
+        "timestamp": 1759138148.8420188,
+        "rss_kb": 459200
+      },
+      {
+        "timestamp": 1759138148.9427338,
+        "rss_kb": 465076
+      },
+      {
+        "timestamp": 1759138149.043894,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.1450868,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.2470274,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.3493853,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.4516668,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.5534658,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.6555505,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.757928,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.8599565,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138149.962295,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.063841,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.166947,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.26869,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.370374,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.4727044,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.5752256,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.6774993,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.7798588,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.882075,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138150.9838326,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.0859623,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.1872864,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.2892187,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.3912985,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.4931507,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.5950496,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.6971073,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.7989917,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138151.9008424,
+        "rss_kb": 502540
+      },
+      {
+        "timestamp": 1759138152.0023851,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.1039538,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.205563,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.3072002,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.408905,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.510623,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.612185,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.7138805,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.8154216,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138152.9172077,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.0189846,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.1209621,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.2224004,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.3239684,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.4251082,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.5278857,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.630315,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.7322993,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.8338084,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138153.9353313,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.036764,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.1384284,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.2403033,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.3421884,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.4446685,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.5465739,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.648774,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.7510958,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.8518512,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138154.9538422,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138155.055386,
+        "rss_kb": 505368
+      },
+      {
+        "timestamp": 1759138155.1578207,
+        "rss_kb": 40912
+      }
+    ],
+    "carbon_emissions_kg": 3.4993862624530737e-07
+  },
+  {
+    "id": 2,
+    "question": "What is Sai's semester 2 GPA in the B.Tech+MS program?",
+    "gold_answers": [
+      "His semester 2 GPA is 8.78 out of 10."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.3813]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.2804]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\n[Rank 3 | score=0.0785]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\nQuestion:\nWhat is Sai's semester 2 GPA in the B.Tech+MS program?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.3813]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.2804]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\n[Rank 3 | score=0.0785]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\nQuestion:\nWhat is Sai's semester 2 GPA in the B.Tech+MS program?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3813]\n Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 2 | score=0.2804]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore,\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      23.13 ms /   853 runs   (    0.03 ms per token, 36876.92 tokens per second)\nllama_perf_context_print:        load time =    3571.94 ms\nllama_perf_context_print: prompt eval time =    3269.99 ms /   597 tokens (    5.48 ms per token,   182.57 tokens per second)\nllama_perf_context_print:        eval time =    3263.16 ms /   255 runs   (   12.80 ms per token,    78.15 tokens per second)\nllama_perf_context_print:       total time =    6915.44 ms /   852 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 0,
+        "similarity": 0.3813107796845892,
+        "text": "Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 1,
+        "similarity": 0.2803812249152951,
+        "text": "ion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 5,
+        "similarity": 0.07846732344051152,
+        "text": "ar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G"
+      }
+    ],
+    "retrieval_latency_ms": 1.3216670000701924,
+    "retrieval_carbon_kg": 1.6568747868559185e-10,
+    "generation_carbon_kg": 3.551670810222045e-07,
+    "memory_usage_mb": 493.68359375,
+    "memory_samples": [
+      {
+        "timestamp": 1759138156.5576267,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138156.6590729,
+        "rss_kb": 10232
+      },
+      {
+        "timestamp": 1759138156.7602232,
+        "rss_kb": 27832
+      },
+      {
+        "timestamp": 1759138156.8613746,
+        "rss_kb": 332196
+      },
+      {
+        "timestamp": 1759138156.962271,
+        "rss_kb": 461996
+      },
+      {
+        "timestamp": 1759138157.0645237,
+        "rss_kb": 486632
+      },
+      {
+        "timestamp": 1759138157.167062,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.2696795,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.3720787,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.473568,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.5751593,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.6774123,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.7797384,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.8820922,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138157.984813,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.086953,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.1892774,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.2913897,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.3936243,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.4954913,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.5972981,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.6992474,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.8012962,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138158.9031887,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.0048664,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.1064348,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.208527,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.3103437,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.4126444,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.5150557,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.6167095,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.7184672,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.8203628,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138159.9223464,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138160.0243294,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138160.1261008,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138160.2280376,
+        "rss_kb": 502220
+      },
+      {
+        "timestamp": 1759138160.329966,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138160.4316401,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138160.5334158,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138160.6360385,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138160.7374947,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138160.8389814,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138160.9403987,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.041832,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.1434515,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.2445319,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.3463058,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.4473548,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.5499134,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.6519704,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.7536118,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.8558798,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138161.956791,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.060691,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.1624231,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.2638857,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.3662097,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.467793,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.5689325,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.670004,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.7719347,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.8735507,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138162.9751213,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138163.0773869,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138163.1792777,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138163.2812693,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138163.382445,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138163.4844122,
+        "rss_kb": 505532
+      },
+      {
+        "timestamp": 1759138163.5856764,
+        "rss_kb": 266352
+      }
+    ],
+    "carbon_emissions_kg": 3.551670810222045e-07
+  },
+  {
+    "id": 3,
+    "question": "What overall grade did Sai achieve during his secondary education at GR International School?",
+    "gold_answers": [
+      "He earned a grade of 96.8% in CBSE 11th and 12th at GR International School."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.3345]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\n[Rank 2 | score=0.1807]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 3 | score=0.0240]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\nQuestion:\nWhat overall grade did Sai achieve during his secondary education at GR International School?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.3345]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\n[Rank 2 | score=0.1807]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 3 | score=0.0240]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\nQuestion:\nWhat overall grade did Sai achieve during his secondary education at GR International School?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3345]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nExperience\nComcast May 202\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      24.06 ms /   868 runs   (    0.03 ms per token, 36077.97 tokens per second)\nllama_perf_context_print:        load time =    3796.97 ms\nllama_perf_context_print: prompt eval time =    3485.16 ms /   612 tokens (    5.69 ms per token,   175.60 tokens per second)\nllama_perf_context_print:        eval time =    3391.97 ms /   255 runs   (   13.30 ms per token,    75.18 tokens per second)\nllama_perf_context_print:       total time =    7274.33 ms /   867 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 1,
+        "similarity": 0.33453652787417104,
+        "text": "ion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 0,
+        "similarity": 0.1807477686394723,
+        "text": "Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 2,
+        "similarity": 0.024018107350270185,
+        "text": "Comcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language"
+      }
+    ],
+    "retrieval_latency_ms": 1.1702609999701963,
+    "retrieval_carbon_kg": 1.40598144975383e-10,
+    "generation_carbon_kg": 3.75469354562386e-07,
+    "memory_usage_mb": 493.5078125,
+    "memory_samples": [
+      {
+        "timestamp": 1759138164.8784218,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138164.9792511,
+        "rss_kb": 9588
+      },
+      {
+        "timestamp": 1759138165.0802617,
+        "rss_kb": 22128
+      },
+      {
+        "timestamp": 1759138165.1822202,
+        "rss_kb": 56772
+      },
+      {
+        "timestamp": 1759138165.284432,
+        "rss_kb": 459372
+      },
+      {
+        "timestamp": 1759138165.3855438,
+        "rss_kb": 476088
+      },
+      {
+        "timestamp": 1759138165.4873693,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138165.5895844,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138165.6902308,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138165.7923295,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138165.894349,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138165.9965594,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.098537,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.2000935,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.3009617,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.40321,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.504947,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.6075459,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.7103438,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.812623,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138166.914732,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.0169926,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.1189868,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.2211986,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.3231838,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.4255621,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.527359,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.6297178,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.732503,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.8346627,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138167.936895,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.0393786,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.1416302,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.2440555,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.345356,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.4477308,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.5495546,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.6503766,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.75243,
+        "rss_kb": 502520
+      },
+      {
+        "timestamp": 1759138168.85393,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138168.9545991,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.0568123,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.159062,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.2610857,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.3631709,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.4651902,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.5667014,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.6678238,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.7697868,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.8726006,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138169.9737442,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.0754464,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.177259,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.2790658,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.3799071,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.4815679,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.583591,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.685048,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.7876472,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.889033,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138170.9901583,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.0932221,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.195115,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.2961166,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.3984253,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.5013883,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.6025438,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.7040575,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.806054,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138171.907907,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138172.0094545,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138172.1105375,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138172.2116747,
+        "rss_kb": 505352
+      },
+      {
+        "timestamp": 1759138172.3134024,
+        "rss_kb": 53788
+      }
+    ],
+    "carbon_emissions_kg": 3.75469354562386e-07
+  },
+  {
+    "id": 4,
+    "question": "Which company did Sai intern with in 2025, and what kind of AI work did he focus on?",
+    "gold_answers": [
+      "Sai interned with Comcast India Engineering Center in 2025, working on agentic AI applications for Web-UI agents with a human-in-the-loop focus."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.3121]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.2350]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 3 | score=0.2065]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\nQuestion:\nWhich company did Sai intern with in 2025, and what kind of AI work did he focus on?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.3121]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.2350]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 3 | score=0.2065]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\nQuestion:\nWhich company did Sai intern with in 2025, and what kind of AI work did he focus on?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3121]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\nQuestion:\nWhich company did Sai intern with in 2025\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      24.16 ms /   826 runs   (    0.03 ms per token, 34187.33 tokens per second)\nllama_perf_context_print:        load time =    3606.00 ms\nllama_perf_context_print: prompt eval time =    3294.77 ms /   570 tokens (    5.78 ms per token,   173.00 tokens per second)\nllama_perf_context_print:        eval time =    3464.65 ms /   255 runs   (   13.59 ms per token,    73.60 tokens per second)\nllama_perf_context_print:       total time =    7155.88 ms /   825 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 2,
+        "similarity": 0.3120946259041309,
+        "text": "Comcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 0,
+        "similarity": 0.23497200837151452,
+        "text": "Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 3,
+        "similarity": 0.20649611807385165,
+        "text": "d Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H"
+      }
+    ],
+    "retrieval_latency_ms": 1.1686459999964427,
+    "retrieval_carbon_kg": 1.4290372336454956e-10,
+    "generation_carbon_kg": 3.702681232684345e-07,
+    "memory_usage_mb": 493.43359375,
+    "memory_samples": [
+      {
+        "timestamp": 1759138173.7327168,
+        "rss_kb": 12
+      },
+      {
+        "timestamp": 1759138173.8340235,
+        "rss_kb": 9472
+      },
+      {
+        "timestamp": 1759138173.9350998,
+        "rss_kb": 19340
+      },
+      {
+        "timestamp": 1759138174.036034,
+        "rss_kb": 52780
+      },
+      {
+        "timestamp": 1759138174.1382267,
+        "rss_kb": 459456
+      },
+      {
+        "timestamp": 1759138174.240029,
+        "rss_kb": 472040
+      },
+      {
+        "timestamp": 1759138174.3421836,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138174.4435527,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138174.5442553,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138174.6465065,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138174.7483375,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138174.8509502,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138174.952,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.052847,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.1550813,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.2569818,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.3594995,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.4609034,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.5632164,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.6641977,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.7657735,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.8677998,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138175.9701302,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.0724654,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.17362,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.2752287,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.377564,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.4799452,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.581659,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.6840653,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.7862067,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.8885264,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138176.990931,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138177.0929554,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138177.1954088,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138177.2972107,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138177.3985343,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138177.4997303,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138177.6017458,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138177.7038426,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138177.8052232,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138177.9071925,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.0088499,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.1100736,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.2125065,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.3145525,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.4162831,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.5173922,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.619168,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.721579,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.8233554,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138178.9244282,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.0254607,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.1264424,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.228882,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.3307657,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.4326484,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.5345497,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.6366315,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.7380304,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.8390107,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138179.9412324,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.0434606,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.146768,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.2484832,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.3500881,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.452531,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.5549638,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.656257,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.7574482,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.8586204,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138180.960314,
+        "rss_kb": 505276
+      },
+      {
+        "timestamp": 1759138181.06164,
+        "rss_kb": 53336
+      }
+    ],
+    "carbon_emissions_kg": 3.702681232684345e-07
+  },
+  {
+    "id": 5,
+    "question": "What was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?",
+    "gold_answers": [
+      "The project explored Qualcomm Innovation Development Kit hardware to evaluate how small language models perform on edge AI workloads with an emphasis on sustainability."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.4124]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.2654]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.1342]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\nQuestion:\nWhat was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.4124]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.2654]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.1342]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\nQuestion:\nWhat was the primary goal of the QIDK – SLM Benchmarking for Sustainability project?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.4124]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      24.63 ms /   852 runs   (    0.03 ms per token, 34590.56 tokens per second)\nllama_perf_context_print:        load time =    3828.79 ms\nllama_perf_context_print: prompt eval time =    3513.66 ms /   596 tokens (    5.90 ms per token,   169.62 tokens per second)\nllama_perf_context_print:        eval time =    3540.55 ms /   255 runs   (   13.88 ms per token,    72.02 tokens per second)\nllama_perf_context_print:       total time =    7456.83 ms /   851 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 2,
+        "similarity": 0.412424943766273,
+        "text": "Comcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 3,
+        "similarity": 0.26536732376961,
+        "text": "d Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 1,
+        "similarity": 0.13416804966782991,
+        "text": "ion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C"
+      }
+    ],
+    "retrieval_latency_ms": 1.3365629999952944,
+    "retrieval_carbon_kg": 1.6096953919564767e-10,
+    "generation_carbon_kg": 3.8555336061485663e-07,
+    "memory_usage_mb": 493.578125,
+    "memory_samples": [
+      {
+        "timestamp": 1759138182.3889287,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138182.4898255,
+        "rss_kb": 9564
+      },
+      {
+        "timestamp": 1759138182.5907297,
+        "rss_kb": 23524
+      },
+      {
+        "timestamp": 1759138182.6923058,
+        "rss_kb": 56612
+      },
+      {
+        "timestamp": 1759138182.7946196,
+        "rss_kb": 459340
+      },
+      {
+        "timestamp": 1759138182.8964455,
+        "rss_kb": 476016
+      },
+      {
+        "timestamp": 1759138182.9989703,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.1013167,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.2019634,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.30435,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.406348,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.508608,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.610914,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.7122972,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.8146698,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138183.916536,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.0191505,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.1206892,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.2222967,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.323329,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.4253795,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.5271916,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.6294053,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.7316947,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.8331919,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138184.9356558,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.0378578,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.1400054,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.2422137,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.344636,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.4467404,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.5490649,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.6512935,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.7535596,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.8558671,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138185.9576435,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138186.0599756,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138186.1617765,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138186.2629054,
+        "rss_kb": 502400
+      },
+      {
+        "timestamp": 1759138186.3650038,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138186.4670403,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138186.568929,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138186.670946,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138186.7724235,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138186.8738585,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138186.9760475,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.0774534,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.1789582,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.2804265,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.382087,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.4836662,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.5851054,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.686685,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.7880917,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.8901484,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138187.9916444,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.093885,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.1955063,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.2972999,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.3989432,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.5001981,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.6013608,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.7037287,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.8057637,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138188.9081793,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.010031,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.1121387,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.2136378,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.3151047,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.416591,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.519188,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.621583,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.7233937,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.8250592,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138189.9267092,
+        "rss_kb": 505424
+      },
+      {
+        "timestamp": 1759138190.0281634,
+        "rss_kb": 44260
+      }
+    ],
+    "carbon_emissions_kg": 3.8555336061485663e-07
+  },
+  {
+    "id": 6,
+    "question": "Name two tools or SDKs mentioned for the QIDK SLM benchmarking project.",
+    "gold_answers": [
+      "The project leveraged QIDK hardware and Qualcomm's QNN SDKs, along with llama.cpp and CodeCarbon."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.3353]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.3216]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.0950]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\nQuestion:\nName two tools or SDKs mentioned for the QIDK SLM benchmarking project.\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.3353]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.3216]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.0950]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\nQuestion:\nName two tools or SDKs mentioned for the QIDK SLM benchmarking project.\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3353]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/network-file-system\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      24.55 ms /   779 runs   (    0.03 ms per token, 31729.87 tokens per second)\nllama_perf_context_print:        load time =    3384.27 ms\nllama_perf_context_print: prompt eval time =    3074.16 ms /   523 tokens (    5.88 ms per token,   170.13 tokens per second)\nllama_perf_context_print:        eval time =    3588.51 ms /   255 runs   (   14.07 ms per token,    71.06 tokens per second)\nllama_perf_context_print:       total time =    7061.11 ms /   778 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 2,
+        "similarity": 0.33527971056737893,
+        "text": "Comcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 3,
+        "similarity": 0.3215987967193939,
+        "text": "d Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 4,
+        "similarity": 0.09502391066292673,
+        "text": "November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too"
+      }
+    ],
+    "retrieval_latency_ms": 1.5178119999745832,
+    "retrieval_carbon_kg": 1.9442003879744463e-10,
+    "generation_carbon_kg": 3.6532644733514693e-07,
+    "memory_usage_mb": 493.69921875,
+    "memory_samples": [
+      {
+        "timestamp": 1759138191.365878,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138191.4668837,
+        "rss_kb": 9548
+      },
+      {
+        "timestamp": 1759138191.5677602,
+        "rss_kb": 20648
+      },
+      {
+        "timestamp": 1759138191.6693296,
+        "rss_kb": 56720
+      },
+      {
+        "timestamp": 1759138191.771613,
+        "rss_kb": 459336
+      },
+      {
+        "timestamp": 1759138191.8735871,
+        "rss_kb": 474384
+      },
+      {
+        "timestamp": 1759138191.9758637,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.0773578,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.1780336,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.280547,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.3824947,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.484071,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.586296,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.6884868,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.7892594,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.8916173,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138192.9940226,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.0959702,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.1986356,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.300562,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.4023676,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.504218,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.6058977,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.7081082,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.8104298,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138193.9128299,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.0145423,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.1164958,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.218407,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.3208141,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.423146,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.5254302,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.6271462,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.7294083,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.8315735,
+        "rss_kb": 502512
+      },
+      {
+        "timestamp": 1759138194.9334424,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.035913,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.1367047,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.2384012,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.3392203,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.441316,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.5434253,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.6449099,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.7461698,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.8473563,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138195.9492068,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.0517263,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.1535292,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.254605,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.3568377,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.458007,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.5599394,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.6610258,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.7629104,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.8647025,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138196.966035,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.0681636,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.1702175,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.2719278,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.374856,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.476084,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.5778809,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.6808372,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.7820373,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.8841367,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138197.9853272,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138198.0864398,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138198.1888375,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138198.2907224,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138198.3925927,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138198.4941592,
+        "rss_kb": 505548
+      },
+      {
+        "timestamp": 1759138198.5961552,
+        "rss_kb": 53600
+      }
+    ],
+    "carbon_emissions_kg": 3.6532644733514693e-07
+  },
+  {
+    "id": 7,
+    "question": "What was built during the Network File System course project, and which technologies were highlighted?",
+    "gold_answers": [
+      "Sai built a basic networked file system from scratch, dealing with concurrency and consistency using C and socket programming."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.4039]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.2952]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.1674]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\nQuestion:\nWhat was built during the Network File System course project, and which technologies were highlighted?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.4039]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.2952]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.1674]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\nQuestion:\nWhat was built during the Network File System course project, and which technologies were highlighted?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.4039]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.2952]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      24.63 ms /   761 runs   (    0.03 ms per token, 30899.79 tokens per second)\nllama_perf_context_print:        load time =    3359.51 ms\nllama_perf_context_print: prompt eval time =    3042.72 ms /   505 tokens (    6.03 ms per token,   165.97 tokens per second)\nllama_perf_context_print:        eval time =    3553.05 ms /   255 runs   (   13.93 ms per token,    71.77 tokens per second)\nllama_perf_context_print:       total time =    6999.84 ms /   760 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 4,
+        "similarity": 0.4038598339641011,
+        "text": "November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 3,
+        "similarity": 0.29524137374459253,
+        "text": "d Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 5,
+        "similarity": 0.1674289194931029,
+        "text": "ar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G"
+      }
+    ],
+    "retrieval_latency_ms": 1.3418229999615505,
+    "retrieval_carbon_kg": 1.6365376645759661e-10,
+    "generation_carbon_kg": 3.6061476661961056e-07,
+    "memory_usage_mb": 492.92578125,
+    "memory_samples": [
+      {
+        "timestamp": 1759138200.0287158,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138200.129502,
+        "rss_kb": 9712
+      },
+      {
+        "timestamp": 1759138200.2300155,
+        "rss_kb": 21984
+      },
+      {
+        "timestamp": 1759138200.3314853,
+        "rss_kb": 56692
+      },
+      {
+        "timestamp": 1759138200.4337583,
+        "rss_kb": 459448
+      },
+      {
+        "timestamp": 1759138200.534414,
+        "rss_kb": 474100
+      },
+      {
+        "timestamp": 1759138200.636707,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138200.7380598,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138200.840467,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138200.9427133,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.044577,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.145205,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.2471678,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.3490577,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.451137,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.5535553,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.6542594,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.756382,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.8585777,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138201.960291,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.0623589,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.1643589,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.2661307,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.3674877,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.4696338,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.5720558,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.6746466,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.777019,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.879337,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138202.9816332,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138203.0835557,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138203.1846704,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138203.2867155,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138203.3880959,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138203.49052,
+        "rss_kb": 501912
+      },
+      {
+        "timestamp": 1759138203.5922787,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138203.694366,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138203.7958658,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138203.8977256,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.0000224,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.1018295,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.2048607,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.3061154,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.407913,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.5101519,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.6121926,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.7140913,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.816095,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138204.917713,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.019049,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.1220543,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.2249408,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.3268921,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.428281,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.5294294,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.6318808,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.7344866,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.8365993,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138205.9392946,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.0414093,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.1447308,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.2460127,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.348193,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.450012,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.5517817,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.6545508,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.7577357,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.860269,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138206.962135,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138207.0644948,
+        "rss_kb": 504756
+      },
+      {
+        "timestamp": 1759138207.165543,
+        "rss_kb": 488652
+      }
+    ],
+    "carbon_emissions_kg": 3.6061476661961056e-07
+  },
+  {
+    "id": 8,
+    "question": "How does the Terminal Based Wireshark project extend Wireshark-like capabilities?",
+    "gold_answers": [
+      "It is a terminal-based packet sniffer that can filter packets by protocols across OSI model layers, implemented in C with socket programming."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.3994]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.3137]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 3 | score=0.0966]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\nQuestion:\nHow does the Terminal Based Wireshark project extend Wireshark-like capabilities?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.3994]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.3137]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 3 | score=0.0966]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\nQuestion:\nHow does the Terminal Based Wireshark project extend Wireshark-like capabilities?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.3994]\nNovember 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too\n\n[Rank 2 | score=0.3137]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL,\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      24.77 ms /   760 runs   (    0.03 ms per token, 30683.52 tokens per second)\nllama_perf_context_print:        load time =    3314.94 ms\nllama_perf_context_print: prompt eval time =    3007.26 ms /   504 tokens (    5.97 ms per token,   167.59 tokens per second)\nllama_perf_context_print:        eval time =    3623.38 ms /   255 runs   (   14.21 ms per token,    70.38 tokens per second)\nllama_perf_context_print:       total time =    7026.05 ms /   759 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 4,
+        "similarity": 0.39941217403740326,
+        "text": "November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦Handled concurrency and consistency challenges under multiple client accesses.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/network-file-system\nTerminal Based Wireshark September 2025 – October 2025\nOperating Systems Course Project\n◦Built a terminal based packet sniffer, similar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Too"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 5,
+        "similarity": 0.3136758739825671,
+        "text": "ar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 3,
+        "similarity": 0.09656810268837085,
+        "text": "d Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H"
+      }
+    ],
+    "retrieval_latency_ms": 1.3779169998997531,
+    "retrieval_carbon_kg": 1.731052455572207e-10,
+    "generation_carbon_kg": 3.602167062053304e-07,
+    "memory_usage_mb": 492.6640625,
+    "memory_samples": [
+      {
+        "timestamp": 1759138208.5773613,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138208.678167,
+        "rss_kb": 15736
+      },
+      {
+        "timestamp": 1759138208.7793307,
+        "rss_kb": 47796
+      },
+      {
+        "timestamp": 1759138208.8802712,
+        "rss_kb": 459276
+      },
+      {
+        "timestamp": 1759138208.9810941,
+        "rss_kb": 465016
+      },
+      {
+        "timestamp": 1759138209.0834503,
+        "rss_kb": 489800
+      },
+      {
+        "timestamp": 1759138209.1855083,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.2873235,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.3886597,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.4900303,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.5916526,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.693402,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.7961855,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.8975186,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138209.99821,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.0998728,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.202013,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.3042846,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.4066038,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.5088203,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.6099303,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.7124276,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.8149557,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138210.9168365,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.0193098,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.121495,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.2234175,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.3247824,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.4271517,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.529063,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.6313496,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.732864,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.8357816,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138211.938084,
+        "rss_kb": 501580
+      },
+      {
+        "timestamp": 1759138212.0399458,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.1413865,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.2432573,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.3447225,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.4473598,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.5488172,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.650526,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.7523777,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.854583,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138212.9564252,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.0583177,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.1597629,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.2611806,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.3624415,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.4640124,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.5654151,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.66772,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.7702613,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.8717942,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138213.973255,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.0754051,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.1775994,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.2802258,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.3824277,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.4839506,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.5863733,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.6880765,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.7905805,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.8921494,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138214.993556,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.0950503,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.197412,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.298266,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.3994808,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.502299,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.604359,
+        "rss_kb": 504488
+      },
+      {
+        "timestamp": 1759138215.7063284,
+        "rss_kb": 53492
+      }
+    ],
+    "carbon_emissions_kg": 3.602167062053304e-07
+  },
+  {
+    "id": 9,
+    "question": "List at least three programming languages Sai reports experience with.",
+    "gold_answers": [
+      "He lists proficiency in C, C++, Python, Bash, and JavaScript."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.2356]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 2 | score=0.1430]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 3 | score=0.0593]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\nQuestion:\nList at least three programming languages Sai reports experience with.\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.2356]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 2 | score=0.1430]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp\n\n[Rank 3 | score=0.0593]\nion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C\n\nQuestion:\nList at least three programming languages Sai reports experience with.\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.2356]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\n[Rank 2 | score=0.1430]\nSai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      25.30 ms /   847 runs   (    0.03 ms per token, 33484.88 tokens per second)\nllama_perf_context_print:        load time =    3923.48 ms\nllama_perf_context_print: prompt eval time =    3607.07 ms /   591 tokens (    6.10 ms per token,   163.85 tokens per second)\nllama_perf_context_print:        eval time =    3734.03 ms /   255 runs   (   14.64 ms per token,    68.29 tokens per second)\nllama_perf_context_print:       total time =    7746.87 ms /   846 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 5,
+        "similarity": 0.23555519865053662,
+        "text": "ar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 0,
+        "similarity": 0.14304236154206543,
+        "text": "Sai Kapil Bharadwaj\nsai.yeddanapudi@research.iiit.ac.in ⋄+91 7397498522 ⋄github.com/StatewideOwl3 ⋄LinkedIn ⋄Hyderabad,\nTelangana - 500032, India\nObjective\n◦Sophomore currently pursuing B.Tech+MS by Research(2029) in Computer Science at IIIT Hyderabad. Currently in-\nterestedinexploringinterdisciplinaryend-to-endresearchareasandgainingastrongunderstandingoffundamentals\nin CS and Mathematics.\nEducation\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Comp"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 1,
+        "similarity": 0.05926402414523235,
+        "text": "ion\nInternational Institute of Information Technology Hyderabad, India\nB.Tech+MS By Research in Computer Science August 2024 - May 2029\n◦GPA(Sem1): 8.17/10\n◦GPA(Sem2): 8.78/10\nGR International School Bangalore, India\nSecondary Education (CBSE 11th and 12th) March 2024\n◦Grade: 96.8%\nThe Indian Public School Chennai, India\nPrimary Education (IGCSE 7th to 10th) November 2021\n◦GPA: 9.58/10\nExperience\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering C"
+      }
+    ],
+    "retrieval_latency_ms": 1.2813550001737894,
+    "retrieval_carbon_kg": 1.618772422653652e-10,
+    "generation_carbon_kg": 3.9662384074183015e-07,
+    "memory_usage_mb": 493.51171875,
+    "memory_samples": [
+      {
+        "timestamp": 1759138217.0472379,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138217.1487026,
+        "rss_kb": 9440
+      },
+      {
+        "timestamp": 1759138217.2498121,
+        "rss_kb": 23440
+      },
+      {
+        "timestamp": 1759138217.3519063,
+        "rss_kb": 56520
+      },
+      {
+        "timestamp": 1759138217.4540946,
+        "rss_kb": 459240
+      },
+      {
+        "timestamp": 1759138217.5559142,
+        "rss_kb": 480660
+      },
+      {
+        "timestamp": 1759138217.6582468,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138217.7594726,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138217.860357,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138217.9626384,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.0646844,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.16708,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.2693815,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.3712752,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.4733827,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.57585,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.678028,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.7798471,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.882237,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138218.984587,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.0866501,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.1879687,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.2893429,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.3917253,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.4939368,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.5956538,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.6978092,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.8002627,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138219.9026089,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.0048616,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.1066854,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.2082531,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.3104732,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.4124336,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.5147395,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.617057,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.7192154,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.8215294,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138220.9236083,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138221.0258274,
+        "rss_kb": 502128
+      },
+      {
+        "timestamp": 1759138221.1278782,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.2289186,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.330043,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.4314036,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.5326006,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.635078,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.736945,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.8386035,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138221.9398553,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.0416808,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.1431556,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.2443464,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.3462152,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.4477868,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.5504358,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.6532533,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.755857,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.8586009,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138222.9601073,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.0615435,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.1631234,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.2655137,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.3672516,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.4690654,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.5705917,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.673363,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.7751198,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.876373,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138223.979027,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.0799334,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.1821578,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.285097,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.3881834,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.4900498,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.5922737,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.6946712,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.7959995,
+        "rss_kb": 505356
+      },
+      {
+        "timestamp": 1759138224.8983276,
+        "rss_kb": 505356
+      }
+    ],
+    "carbon_emissions_kg": 3.9662384074183015e-07
+  },
+  {
+    "id": 10,
+    "question": "Which repository hosts the SLM benchmarking project mentioned in the resume?",
+    "gold_answers": [
+      "The project repository is github.com/StatewideOwl3/slm-benchmarking-qidk."
+    ],
+    "prompt": "<|im_start|>system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n<|im_end|>\n<|im_start|>user\nContext:\n[Rank 1 | score=0.2503]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.1984]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.1739]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\nQuestion:\nWhich repository hosts the SLM benchmarking project mentioned in the resume?\nRespond with ***ANSWER*** followed by the span from the context.\n<|im_end|>\n<|im_start|>assistant\n",
+    "model_answer": "system\nYou are answering questions about Sai Kapil Bharadwaj's resume. Use only the provided resume context, cite verbatim facts, start the final answer with ***ANSWER***, and keep responses concise.\n\nuser\nContext:\n[Rank 1 | score=0.2503]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\n\n[Rank 2 | score=0.1984]\nd Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H\n\n[Rank 3 | score=0.1739]\nar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G\n\nQuestion:\nWhich repository hosts the SLM benchmarking project mentioned in the resume?\nRespond with ***ANSWER*** followed by the span from the context.\n\nassistant\nContext:\n[Rank 1 | score=0.2503]\nComcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems\n\n",
+    "stderr": "llama_perf_sampler_print:    sampling time =      25.14 ms /   785 runs   (    0.03 ms per token, 31228.87 tokens per second)\nllama_perf_context_print:        load time =    3514.76 ms\nllama_perf_context_print: prompt eval time =    3203.98 ms /   529 tokens (    6.06 ms per token,   165.11 tokens per second)\nllama_perf_context_print:        eval time =    3676.52 ms /   255 runs   (   14.42 ms per token,    69.36 tokens per second)\nllama_perf_context_print:       total time =    7279.86 ms /   784 tokens\nllama_perf_context_print:    graphs reused =        253",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_index": 2,
+        "similarity": 0.25031669132153006,
+        "text": "Comcast May 2025 - July 2025\nAI/ML Intern\n◦Was part of the AI/ML team at Comcast India Engineering Center, Chennai for 10 weeks. Worked on agentic AI\napplicationsintheareaofWeb-UIagents(similartoopenAI’sChatGPTAtlas/Perplexity’sComet,withanemphasis\non Human In the Loop.\nProjects\nQIDK – SLM Benchmarking for Sustainability August 2025 – December 2025\nEmbedded Systems Workshop Course Project\n◦Explored Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language"
+      },
+      {
+        "rank": 2,
+        "chunk_index": 3,
+        "similarity": 0.19837965927964257,
+        "text": "d Qualcomm Innovation Development Kit (QIDK) to evaluate the feasibility of deploying Small Language\nModels (SLMs) on edge-AI hardware.\n◦Investigated how various SLMs perform on different workloads (Q&A, RAG, Summarization) with emphasis on\nsustainability.\n◦Tools: QIDK, QNN SDKs, llama.cpp, Code Carbon\n◦Repository : github.com/StatewideOwl3/slm-benchmarking-qidk\nNetwork File System October 2025 – November 2025\nOperating Systems Course Project\n◦Built a basic networked file system from scratch.\n◦H"
+      },
+      {
+        "rank": 3,
+        "chunk_index": 5,
+        "similarity": 0.17387863243798696,
+        "text": "ar to wireshark.\n◦Supports filtering packets based on protocols across layers in the OSI model.\n◦Tools: C, Socket Programming\n◦Repository : github.com/StatewideOwl3/terminal-based-wireshark\nSkills\n◦As a result of coursework and coorporate experience over the last year, I have been introduced to and worked with\nthe following technologies:\n◦Programming Languages: C, C++, Python, Bash, JS\n◦Web Technologies: HTML, CSS, JavaScript, Node.js\n◦Database Systems: MySQL, MongoDB(No-SQL)\n◦Version Control: G"
+      }
+    ],
+    "retrieval_latency_ms": 1.3426040000013018,
+    "retrieval_carbon_kg": 1.590851352949534e-10,
+    "generation_carbon_kg": 3.75730594431818e-07,
+    "memory_usage_mb": 493.8046875,
+    "memory_samples": [
+      {
+        "timestamp": 1759138226.276757,
+        "rss_kb": 8
+      },
+      {
+        "timestamp": 1759138226.3775628,
+        "rss_kb": 16008
+      },
+      {
+        "timestamp": 1759138226.4787223,
+        "rss_kb": 49496
+      },
+      {
+        "timestamp": 1759138226.5795684,
+        "rss_kb": 459356
+      },
+      {
+        "timestamp": 1759138226.6809118,
+        "rss_kb": 464124
+      },
+      {
+        "timestamp": 1759138226.782944,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138226.8851054,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138226.9870977,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.0883684,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.1901505,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.292101,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.394436,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.496655,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.598419,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.6998215,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.8021355,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138227.9040203,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.006418,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.107644,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.2087266,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.3110595,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.413468,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.5147276,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.6166508,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.7190282,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.8213224,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138228.923769,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.02598,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.1277673,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.2300274,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.332307,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.4344785,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.5363975,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.6383667,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.7402472,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.8420599,
+        "rss_kb": 502560
+      },
+      {
+        "timestamp": 1759138229.943937,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.0454476,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.1476817,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.2491786,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.3507397,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.4528809,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.5546231,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.656207,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.7576501,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.8591223,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138230.9607632,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.0627604,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.1638918,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.265942,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.369027,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.471619,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.573765,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.6758087,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.7773583,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.8790734,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138231.980687,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.0841944,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.1873071,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.2889936,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.3905735,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.492811,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.595494,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.6976693,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.7994404,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138232.9017665,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.0044365,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.1065521,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.2081687,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.3096719,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.4111934,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.5135865,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.6151283,
+        "rss_kb": 505656
+      },
+      {
+        "timestamp": 1759138233.7169755,
+        "rss_kb": 44708
+      }
+    ],
+    "carbon_emissions_kg": 3.75730594431818e-07
+  }
+]

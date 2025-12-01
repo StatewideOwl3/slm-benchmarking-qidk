@@ -1,0 +1,27 @@
+{
+  "model": "/data/data/com.termux/files/home/models/gemma-3-270m-it-q4_0.gguf",
+  "model_slug": "gemma-3-270m-it-q4_0.gguf",
+  "question_count": 10,
+  "retrieval_latency_ms": {
+    "avg": 1.4005155999484487,
+    "min": 1.0910940000030678,
+    "max": 1.6381769999043172
+  },
+  "semantic_similarity_avg": 0.14983134674091256,
+  "session_carbon_emissions_kg": 1.912070231647632e-06,
+  "evaluation": {
+    "exact_match": 0.0,
+    "f1": 0.08482654060927272,
+    "question_count": 10,
+    "carbon_emissions_kg_sum": 1.2949036151483447e-06,
+    "carbon_emissions_kg_avg": 1.2949036151483448e-07
+  },
+  "artifacts": {
+    "raw_outputs": "/root/gemma3-270m-ragres2/gemma-3-270m-it-q4_0.gguf/raw_outputs_gemma-3-270m-it-q4_0.gguf.json",
+    "parsed_outputs": "/root/gemma3-270m-ragres2/gemma-3-270m-it-q4_0.gguf/parsed_outputs_gemma-3-270m-it-q4_0.gguf.json",
+    "raw_metrics": "/root/gemma3-270m-ragres2/gemma-3-270m-it-q4_0.gguf/raw_metrics.json",
+    "evaluation_metrics": "/root/gemma3-270m-ragres2/gemma-3-270m-it-q4_0.gguf/evaluation_metrics.json",
+    "summary_metrics": "/root/gemma3-270m-ragres2/gemma-3-270m-it-q4_0.gguf/summary_metrics.json",
+    "prompt_log": "/root/gemma3-270m-ragres2/gemma-3-270m-it-q4_0.gguf/prompt_log.json"
+  }
+}
