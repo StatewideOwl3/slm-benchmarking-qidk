@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Composite Efficiency Dashboard</title>
+<script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+<style>
+body { font-family: 'Inter', Arial, sans-serif; margin: 0; padding: 2rem; background: #f8fafc; color: #0f172a; }
+h1 { margin-bottom: 0.5rem; }
+.tabs { display: flex; gap: 1rem; margin-bottom: 1.5rem; }
+.tab { cursor: pointer; padding: 0.75rem 1.25rem; border-radius: 999px; background: #e2e8f0; font-weight: 600; }
+.tab.active { background: #2563eb; color: #fff; }
+.control-panel { display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+.control { background: #fff; padding: 1rem; border-radius: 0.75rem; box-shadow: 0 10px 25px rgba(15,23,42,0.08); flex: 1; min-width: 250px; }
+label { font-weight: 600; display: block; margin-bottom: 0.25rem; }
+input[type=range] { width: 100%; }
+#chart { background: #fff; padding: 1rem; border-radius: 0.75rem; box-shadow: 0 10px 25px rgba(15,23,42,0.08); }
+.note { margin-top: 1rem; font-size: 0.95rem; color: #334155; }
+</style>
+</head>
+<body>
+<h1>Composite Efficiency Dashboard</h1>
+<p class="note">EffAcc(α, β) = Q / (1 + α·T<sub>norm</sub> + β·C<sub>norm</sub>). Adjust the sliders to emphasize latency or carbon per task.</p>
+<div class="tabs">
+    <div class="tab active" data-tab="RAG">RAG</div>
+    <div class="tab" data-tab="QnA">QnA</div>
+    <div class="tab" data-tab="Summarization">Summarization</div>
+</div>
+<div class="control-panel">
+    <div class="control">
+        <label for="alpha">Latency Weight (α)</label>
+        <input type="range" id="alpha" min="0" max="1" step="0.01" value="0.20" />
+        <div>α = <span id="alphaValue">0.20</span></div>
+    </div>
+    <div class="control">
+        <label for="beta">Carbon Weight (β)</label>
+        <input type="range" id="beta" min="0" max="1" step="0.01" value="0.20" />
+        <div>β = <span id="betaValue">0.20</span></div>
+    </div>
+</div>
+<div id="chart"></div>
+<script>
+const DATA = {"RAG": [{"model": "gemma3-270m-ragres2", "quality": 0.11732894367509264, "latency": 1.762418, "latencyNorm": 0.09202825401460282, "carbon": 0.00012965634323145714, "carbonNorm": 0.128923259981285, "questionCount": 10}, {"model": "gemma3-4b-ragres2", "quality": 0.5276913658456523, "latency": 19.150835999999998, "latencyNorm": 1.0, "carbon": 0.001005686198520566, "carbonNorm": 1.0, "questionCount": 10}, {"model": "llama3.1-1b-ragres2", "quality": 0.4430051794676676, "latency": 2.315232, "latencyNorm": 0.12089456564716027, "carbon": 0.0001656550965162657, "carbonNorm": 0.16471847456985667, "questionCount": 10}, {"model": "llama3.2-3b-ragres2", "quality": 0.47758615386180214, "latency": 6.247884, "latencyNorm": 0.3262460187116636, "carbon": 0.00038801879370786485, "carbonNorm": 0.38582491663768215, "questionCount": 10}, {"model": "qwen2.5-0.5b-ragres2", "quality": 0.2141977410257282, "latency": 6.742135, "latencyNorm": 0.35205434373726563, "carbon": 0.0003696520759013086, "carbonNorm": 0.3675620451439946, "questionCount": 10}, {"model": "qwen3-1.7b-ragres2", "quality": 0.44921881483632065, "latency": 14.446111, "latencyNorm": 0.7543331789797585, "carbon": 0.0007651869644265585, "carbonNorm": 0.7608605602345955, "questionCount": 10}], "QnA": [{"model": "gemma3-270m", "quality": 0.11537147956333377, "latency": 0.6664234, "latencyNorm": 0.050811334897124846, "carbon": 7.407411491773968e-05, "carbonNorm": 0.10506136992229788, "questionCount": 50}, {"model": "gemma3-4b", "quality": 0.6848193037898919, "latency": 10.981882799999998, "latencyNorm": 0.8373117221750842, "carbon": 0.000597434358947647, "carbonNorm": 0.8473577073366797, "questionCount": 50}, {"model": "llama1b", "quality": 0.4064379487093673, "latency": 1.2663090000000001, "latencyNorm": 0.09654950693844674, "carbon": 0.00011285543740837469, "carbonNorm": 0.16006599431489754, "questionCount": 50}, {"model": "llama3b", "quality": 0.6705836917668038, "latency": 3.5556654000000005, "latencyNorm": 0.2711010829174357, "carbon": 0.00025536105969950024, "carbonNorm": 0.36218566751196013, "questionCount": 50}, {"model": "qwen2.5-0.5b", "quality": 0.05279874522754355, "latency": 4.7017508, "latencyNorm": 0.3584841626233783, "carbon": 0.0002680775475126283, "carbonNorm": 0.3802218145753587, "questionCount": 50}, {"model": "qwen3-1.7b", "quality": 0.45734008883172833, "latency": 13.115644399999999, "latencyNorm": 1.0, "carbon": 0.0007050556733890297, "carbonNorm": 1.0, "questionCount": 50}], "Summarization": [{"model": "gemma3-270m", "quality": 0.1151625540959466, "latency": 0.8947385999999999, "latencyNorm": 0.06824622517481893, "carbon": 0.005663945503621861, "carbonNorm": 0.2709732847279949, "questionCount": 50}, {"model": "gemma3-4b", "quality": 0.2067993265859457, "latency": 11.980449400000003, "latencyNorm": 0.9138092929576578, "carbon": 0.0006494002023188192, "carbonNorm": 0.03106846734539187, "questionCount": 50}, {"model": "llama1b", "quality": 0.13707418240018765, "latency": 2.3222802000000007, "latencyNorm": 0.17713202207686535, "carbon": 0.0062675521117993285, "carbonNorm": 0.29985090461271685, "questionCount": 50}, {"model": "llama3b", "quality": 0.15770425727989543, "latency": 5.863825199999999, "latencyNorm": 0.44726351918311963, "carbon": 0.02090222845882159, "carbonNorm": 1.0, "questionCount": 50}, {"model": "qwen2.5-0.5b", "quality": 0.07764456190852191, "latency": 4.9192236, "latencyNorm": 0.37521399153996865, "carbon": 0.0002789778724274703, "carbonNorm": 0.013346800460872884, "questionCount": 50}, {"model": "qwen3-1.7b", "quality": 0.1846339837196625, "latency": 13.110448200000006, "latencyNorm": 1.0, "carbon": 0.0007042270147503176, "carbonNorm": 0.033691480127952825, "questionCount": 50}]};
+let currentTab = 'RAG';
+const alphaInput = document.getElementById('alpha');
+const betaInput = document.getElementById('beta');
+const alphaValue = document.getElementById('alphaValue');
+const betaValue = document.getElementById('betaValue');
+const chartDiv = document.getElementById('chart');
+
+function computeScores(alpha, beta, dataset) {
+    return dataset.map((item) => {
+        const denominator = 1 + alpha * item.latencyNorm + beta * item.carbonNorm;
+        const score = item.quality / denominator;
+        return { ...item, score };
+    });
+}
+
+function render() {
+    const alpha = parseFloat(alphaInput.value);
+    const beta = parseFloat(betaInput.value);
+    const dataset = DATA[currentTab] || [];
+    const scores = computeScores(alpha, beta, dataset);
+    const trace = {
+        type: 'bar',
+        x: scores.map((row) => row.model),
+        y: scores.map((row) => row.score),
+        text: scores.map((row) => `Q=${row.quality.toFixed(3)} | T=${row.latency.toFixed(2)}s | C=${row.carbon.toExponential(2)} g`),
+        textposition: 'outside',
+        marker: { color: '#2563eb' },
+    };
+    const layout = {
+        title: `${currentTab} EffAcc(α, β) per Model`,
+        yaxis: { title: 'Composite Efficiency' },
+        margin: { t: 60, r: 20, b: 80, l: 60 },
+    };
+    Plotly.react(chartDiv, [trace], layout);
+}
+
+function updateSliders() {
+    alphaValue.textContent = parseFloat(alphaInput.value).toFixed(2);
+    betaValue.textContent = parseFloat(betaInput.value).toFixed(2);
+    render();
+}
+
+alphaInput.addEventListener('input', updateSliders);
+betaInput.addEventListener('input', updateSliders);
+
+document.querySelectorAll('.tab').forEach((tab) => {
+    tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach((btn) => btn.classList.remove('active'));
+        tab.classList.add('active');
+        currentTab = tab.dataset.tab;
+        render();
+    });
+});
+
+updateSliders();
+</script>
+</body>
+</html>
